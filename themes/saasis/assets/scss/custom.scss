@@ -1,13 +1,13 @@
 .whatsapp {
   position: absolute;
 }
-.whatsapp .btn {
+.whatsapp .btn-w {
   position: fixed;
   left: 10px;
   bottom: 10px;
   
 }
-.whatsapp .btn a {
+.whatsapp .btn-w a {
   height: 50px;
   width: 50px;
   display: flex;
@@ -15,7 +15,7 @@
   align-items: center;
 
 }
-.whatsapp .btn img {
+.whatsapp .btn-w img {
   width: 40px;
   height: 40px;
 }

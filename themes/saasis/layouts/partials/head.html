@@ -67,6 +67,9 @@
   {{ with .twitter -}}<meta name="twitter:creator" content="@{{ . }}"/>{{ end -}}
 {{ end -}}
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-eODjIfs2P9Emv6Ig8d0lMOIqeVaW7gc1xJz0TC61X3AhsIbbVYUew+OrCXaRkfjM" crossorigin="anonymous">
+
+
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
 

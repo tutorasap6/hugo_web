@@ -38,14 +38,12 @@
     <ul>
       <li>
         <a href="callto:+254768684655 ">
-          {{ $phone:= site.Params.phone_img }}
-          <img src="{{$phone.RelPermalink}}" alt="Phone" />
+          <img src="{{site.Params.phone_img | RelPermalink}}" alt="Phone" />
         </a>
       </li>
       <li>
         <a href="https://wa.me/message/LEBJBNS4HEQRI1" target="_blank">
-          {{ $whatsapp:= site.Params.wa_img }}
-          <img src="{{site.Params.wa_img.RelPermalink}}" alt="Phone" />
+          <img src="{{site.Params.wa_img | RelPermalink}}" alt="Phone" />
         </a>
       </li>
     </ul>

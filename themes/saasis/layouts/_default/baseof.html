@@ -38,16 +38,19 @@
     <ul>
       <li>
         <a href="callto:+254768684655 ">
-          <img src="/phone-solid.svg" alt="" />
+          {{ $phone:= site.Params.phone_img }}
+          <img src="{{$phone.RelPermalink}}" alt="Phone" />
+          {{end}}
         </a>
       </li>
       <li>
         <a href="https://wa.me/message/LEBJBNS4HEQRI1" target="_blank">
-          <img src="/whatsapp.svg" alt="whatsapp" />
+          {{ $whatsapp:= site.Params.wa_img }}
+          <img src="{{$whatsapp.RelPermalink}}" alt="Phone" />
+          {{end}}
         </a>
       </li>
     </ul>
   </div>
-</body>
 
 </html>

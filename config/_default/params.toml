@@ -3,6 +3,8 @@ favicon = "images/favicon.png"
 logo_text = "Boilerplate"
 logo = "images/logo.svg"
 logo_width = "101px"
+wa_img = "images/whatsapp.svg"
+phone_img = "images/phone-solid.svg"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

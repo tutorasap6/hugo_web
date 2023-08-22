@@ -1,21 +1,23 @@
-.whatsapp {
-  position: absolute;
+.call-btn a img {
+  width: 18px;
 }
-.whatsapp .btn-w {
+.call-btn ul {
+  list-style: none;
   position: fixed;
-  left: 10px;
-  bottom: 10px;
-  
 }
-.whatsapp .btn-w a {
-  height: 50px;
-  width: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
+.call-btn ul li {
+  background-color: #26d367;
+  position: relative;
+  left: -50px;
+  top: 40vh;
 }
-.whatsapp .btn-w img {
-  width: 40px;
-  height: 40px;
+.call-btn ul li:first-child {
+  border-radius: 0px 12px 0px 0px;
+}
+.call-btn ul li:last-child {
+  border-radius: 0px 0px 12px 0px;
+}
+.call-btn ul li a {
+  display: inline-flex;
+  padding: 18px;
 }

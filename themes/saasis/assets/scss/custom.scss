@@ -1,17 +1,17 @@
 .call-btn {
-  z-index: 9999;
+  z-index: 9999 !important;
 }
 .call-btn a img {
   width: 20px;
 }
 .call-btn ul {
   list-style: none;
-  position: absolute;
+  position: fixed;
 }
 .call-btn ul li {
   background-color: #26d367;
   position: relative;
-  left: -50px;
+  left: -45px;
   top: 40vh;
 }
 .call-btn ul li:first-child {

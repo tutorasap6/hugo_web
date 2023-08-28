@@ -12,8 +12,8 @@ mobile = "+211234565523"
 email = "info@email.com"
 footer_info = "This is the start of dummy description text. You can change it whenever you want. ea voluptatem adipisci sapiente?"
 # form action
-contact_form_action = "#" # contact form works with https://formspree.io or formspree alternative
-newsletter_form_action = "#" # contact form works with https://formspree.io or formspree alternative
+contact_form_action = "https://formspree.io/f/mrgwqvrz"
+newsletter_form_action = "https://formspree.io/f/mnqkdyln"
 # custom script on header
 custom_script= ""
 

@@ -68,7 +68,11 @@
     <div class="row justify-content-between align-items-end mt-3">
       <div class="col-xl-4 col-lg-6 mb-4 mb-xl-0">
         <h5>{{i18n `subscribe_newsletter`}}</h5>
-        <form action="{{site.Params.newsletter_form_action}}" class="mt-4">
+        <form
+          action="{{site.Params.newsletter_form_action}}"
+          class="mt-4"
+          method="POST"
+        >
           <div class="input-group border p-2 rounded-sm">
             <input
               type="text"
@@ -106,17 +110,18 @@
   </div>
 </footer>
 
-
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
-  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-  (function(){
-  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-  s1.async=true;
-  s1.src='https://embed.tawk.to/64e4a6ac94cf5d49dc6bd52a/1h8eim5og';
-  s1.charset='UTF-8';
-  s1.setAttribute('crossorigin','*');
-  s0.parentNode.insertBefore(s1,s0);
+  var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+  (function () {
+    var s1 = document.createElement("script"),
+      s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = "https://embed.tawk.to/64e4a6ac94cf5d49dc6bd52a/1h8eim5og";
+    s1.charset = "UTF-8";
+    s1.setAttribute("crossorigin", "*");
+    s0.parentNode.insertBefore(s1, s0);
   })();
-  </script>
-  <!--End of Tawk.to Script-->
+</script>
+<!--End of Tawk.to Script-->

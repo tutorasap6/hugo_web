@@ -41,23 +41,23 @@
           <form class="row g-4" action="{{site.Params.contact_form_action}}" method="POST">
             <div class="col-sm-6">
               <label class="mb-2" for="name">{{i18n `name`}}</label>
-              <input id="name" type="text" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `name_placeholder`}}">
+              <input id="name" name="name" type="text" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `name_placeholder`}}">
             </div>
             <div class="col-sm-6">
               <label class="mb-2" for="email">{{i18n `email_address`}}</label>
-              <input id="email" type="email" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `email_placeholder`}}">
+              <input id="email" name="email" type="email" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `email_placeholder`}}">
             </div>
             <div class="col-sm-6">
-              <label class="mb-2" for="name">{{i18n `phone`}}</label>
-              <input id="name" type="text" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `phone_placeholder`}}">
+              <label class="mb-2" for="phone">{{i18n `phone`}}</label>
+              <input id="phone" name="phone" type="text" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `phone_placeholder`}}">
             </div>
             <div class="col-sm-6">
-              <label class="mb-2" for="name">{{i18n `company`}}</label>
-              <input id="name" type="text" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `company_name_placeholder`}}">
+              <label class="mb-2" for="company">{{i18n `company`}}</label>
+              <input id="company" name="company" type="text" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `company_name_placeholder`}}">
             </div>
             <div class="col-sm-12">
               <label class="mb-2" for="message">{{i18n `message`}}</label>
-              <textarea id="message" rows="5" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `message_placeholder`}}"></textarea>
+              <textarea id="message" name="message" rows="5" class="form-control border p-3 rounded-sm shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{i18n `message_placeholder`}}"></textarea>
             </div>
             <div class="col-sm-12">
               <button type="submit" class="btn btn-primary">{{i18n `send_message`}}</button>

@@ -76,10 +76,24 @@
 
 <script>
   document.getElementById("contact-form").addEventListener("submit", function(event) {
-      event.preventDefault(); 
-      
-      document.getElementById("success-message").style.display = "block";
-      document.getElementById("contact-form").reset();
+      event.preventDefault(); // Prevent the default form submission
+
+      // Get form data
+      const formData = new FormData(document.getElementById("contact-form"));
+
+      // Submit form data to the server
+      fetch("your-server-endpoint", {
+          method: "POST",
+          body: formData
+      })
+      .then(response => response.json())  // You can adjust this based on your server's response format
+      .then(data => {
+          // Display the success message
+          document.getElementById("success-message").style.display = "block";
+      })
+      .catch(error => {
+          console.error("Error submitting form:", error);
+      });
   });
 </script>
 {{ end }}

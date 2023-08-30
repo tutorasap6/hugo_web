@@ -4,22 +4,7 @@
 <section class="section">
   <div class="container">
     <div class="row g-4">
-      {{ range .blocks }}
-      <div class="col-lg-4" data-aos="fade">
-        <div class="bg-white-blur border-sm rounded-md text-center p-4 mt-5">
-          <div class="bg-white-blur-solid border-sm rounded d-inline-block mx-auto p-3 position-relative" style="margin-top:-50px;top:-38px">
-            {{$img:= resources.Get (.image) }}
-            {{$img:= $img.Resize "50x webp"}}
-            <img loading="lazy" decoding="async" src="{{$img.RelPermalink}}" alt="A" width="{{$img.Width}}" height="{{$img.Height}}">
-          </div>
-          <h3 class="h5">{{ .title }}</h3>
-          <p class="mb-2">{{ .description }}</p>
-          <span class="text-white d-inline-block mb-2">─────</span>
-          <p class="mb-2"><a href="mailto:{{.email}}">{{.email}}</a></p>
-          <p class="mb-0"><a href="tel:{{.phone}}">{{.phone}}</a></p>
-        </div>
-      </div>
-      {{ end }}
+      
 
 
 
@@ -67,6 +52,23 @@
           </form>
         </div>
       </div>
+
+      {{ range .blocks }}
+      <div class="col-lg-4" data-aos="fade">
+        <div class="bg-white-blur border-sm rounded-md text-center p-4 mt-5">
+          <div class="bg-white-blur-solid border-sm rounded d-inline-block mx-auto p-3 position-relative" style="margin-top:-50px;top:-38px">
+            {{$img:= resources.Get (.image) }}
+            {{$img:= $img.Resize "50x webp"}}
+            <img loading="lazy" decoding="async" src="{{$img.RelPermalink}}" alt="A" width="{{$img.Width}}" height="{{$img.Height}}">
+          </div>
+          <h3 class="h5">{{ .title }}</h3>
+          <p class="mb-2">{{ .description }}</p>
+          <span class="text-white d-inline-block mb-2">─────</span>
+          <p class="mb-2"><a href="mailto:{{.email}}">{{.email}}</a></p>
+          <p class="mb-0"><a href="tel:{{.phone}}">{{.phone}}</a></p>
+        </div>
+      </div>
+      {{ end }}
     </div>
   </div>
 </section>

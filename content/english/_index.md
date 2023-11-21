@@ -1,9 +1,12 @@
 ---
 banner:
-  title: Simples way to structure all of your business
+  title:Hire Professionals to take your Nursing Online Classes and Assignments
   subtitle: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seaa  diam nonumy
-    eirmod tempor invidunt ut labore et saldfore
+    Are you stuck with your nursing course tasks? 
+    Nursing And Medical professionals are here to help you. 
+    We offer Entire Online Class Help, Single Assignment Help, Exams, Quizzes,
+    Tests, Midterms Projects, Lab Reports, Proctored Exams, Final Exams, 
+    Research Papers, BSN papers, Essays, Case Studies and Many more
   character_image: images/banner/character.webp
   lamp_image: images/banner/lamp.webp
   cube_image: images/banner/cube.webp

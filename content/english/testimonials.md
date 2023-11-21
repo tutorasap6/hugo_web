@@ -5,7 +5,7 @@ layout: "testimonials"
 draft: false
 
 testimonials:
-- name: "Brooklyn Simmons"
+- name: "Elon Banks"
   designation: "Lead Developer"
   image: "images/feedback/01.webp"
   content: "Lorem ipsum dolor sit amet, conse tetur sadipscing elitr, seaa  diae dvam nonumy eirmod tempor invidunt uat labore et saldz faefaed aazore "

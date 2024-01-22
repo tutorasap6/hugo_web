@@ -1,6 +1,6 @@
 ---
 banner:
-  title:Hire Professionals to take your Nursing Online Classes and Assignments
+  title: Hire Professionals to take your Nursing Online Classes and Assignments
   subtitle: >-
     Are you stuck with your nursing course tasks? 
     Nursing And Medical professionals are here to help you. 

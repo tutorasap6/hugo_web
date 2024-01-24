@@ -7380,3 +7380,29 @@ a[data-bs-toggle=collapse] {
     left: 30px; }
   .post-slider:hover .slick-arrow.nextArrow {
     right: 30px; }
+
+.call-btn {
+  z-index: 9999 !important; }
+
+.call-btn a img {
+  width: 20px; }
+
+.call-btn ul {
+  list-style: none;
+  position: fixed;
+  left: -45px;
+  top: 40vh; }
+
+.call-btn ul li {
+  background-color: #26d367;
+  position: relative; }
+
+.call-btn ul li:first-child {
+  border-radius: 0px 12px 0px 0px; }
+
+.call-btn ul li:last-child {
+  border-radius: 0px 0px 12px 0px; }
+
+.call-btn ul li a {
+  display: inline-flex;
+  padding: 18px; }

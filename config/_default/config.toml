@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/saasis/examplesite/"
+baseURL = ""
 title = "Saasis - Hugo Saas Landing Theme"
 theme = "saasis"
 # post pagination

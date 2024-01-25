@@ -2,7 +2,7 @@
 title: "DIY Paper Diamond Tutorial with HUNGRY HEART"
 description: "meta description"
 images:
-  - "images/blogs/06.webp"
+  - "/images/blogs/06.webp"
 date: 2021-01-25T11:35:57+06:00
 tags: ["Diy", "Toy"]
 categories: ["LifeStyle"]

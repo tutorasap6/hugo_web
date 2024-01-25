@@ -2,7 +2,7 @@
 title: "Become a morning person with the help of this a alarm clock"
 description: "meta description"
 images:
-  - "images/blogs/03.webp"
+  - "/images/blogs/03.webp"
 date: 2021-01-25T11:33:57+06:00
 tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]

@@ -2,7 +2,7 @@
 title: "Banana is the best meal packages in the UK spark outrage online"
 description: "meta description"
 images:
-  - "images/blogs/05.webp"
+  - "/images/blogs/05.webp"
 date: 2021-01-25T16:56:47+06:00
 draft: false
 tags: ["Food", "Gold"]

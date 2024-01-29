@@ -28,10 +28,129 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
+      // Homepage
+
+      {
+        name: "home",
+        label: "Home Page",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "*_index*",
+        },
+        fields: [
+          {
+            type: "object",
+            name: "banner",
+            label: "Home Section",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+                isTitle: true,
+                required: true,
+              },
+              {
+                type: "string",
+                name: "subtitle",
+                label: "Subtitle",
+              },
+
+              // Add other banner fields as needed
+            ],
+          },
+          {
+            type: "object",
+            name: "about_info",
+            label: "About Section-1",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "About Info Title",
+              },
+              {
+                type: "string",
+                name: "heading",
+                label: "Heading",
+              },
+              {
+                type: "string",
+                name: "description",
+                label: "Description",
+              },
+              {
+                type: "string",
+                name: "features_list",
+                label: "features_list",
+                list: true
+              },
+              // Add other about_info fields as needed
+            ],
+          },
+          {
+            type: "object",
+            name: "about_features",
+            label: "About Section-2",
+            fields: [
+
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "heading",
+                label: "Heading",
+              },
+              {
+                type: "string",
+                name: "description",
+                label: "Description",
+              },
+              {
+                type: "object",
+                name: "features_items",
+                label: "About Features Items",
+                list: true,
+                fields: [
+                  {
+                    type: "string",
+                    name: "title",
+                    label: "Feature Item Title",
+                  },
+
+                ],
+                itemProps: (item) => ({
+                  label: item.title, // Use the question as the display label
+                }),
+              },
+
+              // Add other about_features fields as needed
+            ],
+          },
+        ],
+      },
+
+      // ... Blog...
+
       {
         name: "post",
         label: "Blogs",
         path: "content/english/blog",
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+        },
         match: {
           exclude: "_index*",
         },
@@ -81,6 +200,7 @@ export default defineConfig({
           },
         ],
       },
+
     ],
   },
 });

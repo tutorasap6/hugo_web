@@ -5,7 +5,7 @@ layout: about
 draft: false
 about_us:
   enable: true
-  image: images/about-image.webp
+  image: /images/about-image.webp
   title: Our mission is to help you improve your grades
   subtitle: About Us
   content: Online Nursing Assignment Help-Nursing school tutors
@@ -41,8 +41,8 @@ our_story:
     turpis lectus eu vehicula eget ante. Neque non tristique tincidunt quam
     commodo, inas consectetur pellen tesrfgb srgbw ssqs dvgsue.
   image:
-    - item: images/story-01.webp
-    - item: images/story-02.webp
+    - item: /images/story-01.webp
+    - item: /images/story-02.webp
 team:
   enable: true
   title: The amazing team behind Tech
@@ -54,7 +54,7 @@ team:
   team_item:
     - name: Floyd Miles
       designation: CEO & Co-Founder
-      image: images/team/01.webp
+      image: /images/team/01.webp
       description: >-
         Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
         lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
@@ -66,7 +66,7 @@ team:
           link: '#!'
     - name: Ralph Edwards
       designation: Chief Technology Officer
-      image: images/team/02.webp
+      image: /images/team/02.webp
       description: >-
         Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
         lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
@@ -80,7 +80,7 @@ team:
           link: '#!'
     - name: Kathryn Murphy
       designation: Head of Design
-      image: images/team/03.webp
+      image: /images/team/03.webp
       description: >-
         Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
         lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
@@ -94,7 +94,7 @@ team:
           link: '#!'
     - name: Kristin Watson
       designation: Head of Talent
-      image: images/team/04.webp
+      image: /images/team/04.webp
       description: >-
         Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
         lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
@@ -108,7 +108,7 @@ team:
           link: '#!'
     - name: Darrell Steward
       designation: Head of Support
-      image: images/team/05.webp
+      image: /images/team/05.webp
       description: >-
         Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
         lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
@@ -120,7 +120,7 @@ team:
           link: '#!'
     - name: Arlene McCoy
       designation: Head of Marketing
-      image: images/team/06.webp
+      image: /images/team/06.webp
       description: >-
         Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
         lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.

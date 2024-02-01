@@ -13,9 +13,7 @@
         </div>
       </div>
       <div class="col-lg-10 mt-5">
-        {{$img:= resources.Get (.image) }}
-        {{$img:= $img.Resize "1050x webp"}}
-        <img loading="lazy" decoding="async" class="w-100 rounded-md border-md" src="{{$img.RelPermalink}}" alt="About Image" width="{{$img.Width}}" height="{{$img.Height}}">
+        <img loading="lazy" decoding="async" class="w-100 rounded-md border-md" src="{{ .image }}" alt="About Image">
       </div>
     </div>
   </div>
@@ -57,10 +55,8 @@
       </div>
       <div class="col-lg-5 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
         <div class="our-story-images position-relative ps-0 ps-lg-4 ps-xl-5">          
-          {{ range .image }}
-          {{$img:= resources.Get (.item) }}
-          {{$img:= $img.Resize "315x webp"}}
-          <img loading="lazy" decoding="async" class="img-fluid rounded-sm border-md" src="{{$img.RelPermalink}}" alt="Our Story" width="{{$img.Width}}" height="{{$img.Height}}">
+          {{ range .image}}
+          <img loading="lazy" decoding="async" class="img-fluid rounded-sm border-md" src="{{ .item }}" alt="Our Story">
           {{ end }}
         </div>
       </div>
@@ -83,9 +79,9 @@
     <div class="brand-carousel" data-aos="cool">
       {{ range .Params.partners }}
       <div class="d-flex align-items-center justify-content-center">
-        {{$img:= resources.Get (.image) }}
-        {{$img:= $img.Resize "100x webp"}}
-        <img loading="lazy" decoding="async" class="img-fluid" src="{{$img.RelPermalink}}" width="{{$img.Width}}" height="{{$img.Height}}" alt="partner-image">
+        <div class="d-flex align-items-center justify-content-center">
+          <img loading="lazy" decoding="async" class="img-fluid" src="{{ .image }}" alt="Partner Image">
+        </div>
       </div>
       {{ end }}
     </div>
@@ -113,9 +109,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="bg-white-blur rounded-sm border p-4">
           <div class="d-flex align-items-center mb-4 pb-4 border-bottom border-white">
-            {{$img:= resources.Get (.image) }}
-            {{$img:= $img.Resize "75x webp"}}
-            <img loading="lazy" decoding="async" class="rounded-circle me-3" src="{{$img.RelPermalink}}" alt="Team Image" width="{{$img.Width}}" height="{{$img.Height}}">
+            <img loading="lazy" decoding="async" class="rounded-circle me-3" src="{{ .image }}" alt="Team Image">
             <div>
               <h3 class="h5">{{ .name }}</h3>
               <p class="mb-0">{{ .designation }}</p>

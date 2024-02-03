@@ -61,6 +61,36 @@ export default defineConfig({
                 name: "subtitle",
                 label: "Subtitle",
               },
+              {
+                type: "string",
+                name: "character_image",
+                label: "Image",
+                
+              },
+              {
+                type: "string",
+                name: "lamp_image",
+                label: "Image",
+                
+              },
+              {
+                type: "string",
+                name: "cube_image",
+                label: "Image",
+                
+              },
+              {
+                type: "string",
+                name: "chess_image",
+                label: "Image",
+                
+              },
+              {
+                type: "string",
+                name: "form_action",
+                label: "Form URL",
+                
+              },
 
               // Add other banner fields as needed
             ],
@@ -68,8 +98,13 @@ export default defineConfig({
           {
             type: "object",
             name: "about_info",
-            label: "About Section-1",
+            label: "About Info",
             fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Section",
+              },
               {
                 type: "string",
                 name: "title",
@@ -87,6 +122,11 @@ export default defineConfig({
               },
               {
                 type: "string",
+                name: "image",
+                label: "image",
+              },
+              {
+                type: "string",
                 name: "features_list",
                 label: "features_list",
                 list: true
@@ -97,8 +137,14 @@ export default defineConfig({
           {
             type: "object",
             name: "about_features",
-            label: "About Section-2",
+            label: "About Features",
             fields: [
+
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Section",
+              },
 
               {
                 type: "string",
@@ -116,6 +162,11 @@ export default defineConfig({
                 label: "Description",
               },
               {
+                type: "string",
+                name: "image",
+                label: "image",
+              },
+              {
                 type: "object",
                 name: "features_items",
                 label: "About Features Items",
@@ -125,6 +176,11 @@ export default defineConfig({
                     type: "string",
                     name: "title",
                     label: "Feature Item Title",
+                  },
+                  {
+                    type: "string",
+                    name: "image",
+                    label: "image",
                   },
 
                 ],

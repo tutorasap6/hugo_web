@@ -9,12 +9,13 @@
           <div class="pe-lg-5">
             <h1 class="banner-title text-capitalize mb-3">{{ .Title | markdownify }}</h1>
             <p>{{ .subtitle | markdownify }}</p>
-            <form action="{{.form_action}}" class="banner-form mt-4">
-              <div class="input-group border p-2 rounded-sm">
-                <input type="text" class="form-control shadow-none rounded-sm bg-transparent border-0 text-dark" placeholder="{{ i18n `email_address` }}" aria-label="Email Address" aria-describedby="email-address">
-                <button type="submit" class="input-group-text btn btn-primary rounded" id="email-address-b">{{ i18n `get_started` }}</button>
-              </div>
-            </form>
+            {{ if site.Params.navigation_button.enable }}
+          <!-- get start btn -->
+            <div class="d-block d-xl-inline-block mt-2 mt-lg-0">
+            <a href="{{ site.Params.navigation_button.link | relLangURL }}"
+            class="btn btn-primary ms-xl-4">{{ site.Params.navigation_button.label }}</a>
+            </div>
+        {{ end }}
           </div>
         </div>
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">

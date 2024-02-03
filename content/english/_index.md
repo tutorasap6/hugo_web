@@ -37,7 +37,7 @@ about_features:
       image: images/features/01.webp
     - title: Digital Analytics
       image: images/features/02.webp
-    - title: Creative Ideas
+    - title: NR 222 Entire Class Help
       image: images/features/03.webp
     - title: Analytics Toolbox
       image: images/features/04.webp

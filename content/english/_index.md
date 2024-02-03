@@ -39,7 +39,7 @@ about_features:
       image: images/features/02.webp
     - title: NR 222 Entire Class Help
       image: images/features/03.webp
-    - title: Analytics Toolbox
+    - title: NR 228 Entire Course Help
       image: images/features/04.webp
 ---
 

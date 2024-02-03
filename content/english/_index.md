@@ -35,7 +35,7 @@ about_features:
   features_items:
     - title: HSM 543  Entire Class Help
       image: images/features/01.webp
-    - title: Digital Analytics
+    - title: NR 224 Entire Course Help
       image: images/features/02.webp
     - title: NR 222 Entire Class Help
       image: images/features/03.webp

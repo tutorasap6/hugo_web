@@ -1,12 +1,12 @@
 ---
 banner:
-  title: Get Your Nursing Course Done By Medic Professionals
+  title: Get Your Nursing Course Done By Nursing Experts
   subtitle: >-
-    Are you stuck with your nursing course tasks?  Nursing And Medical
-    professionals are here to help you.  We offer Entire Online Class Help,
-    Single Assignment Help, Exams, Quizzes, Tests, Midterms Projects, Lab
-    Reports, Proctored Exams, Final Exams,  Research Papers, BSN papers, Essays,
-    Case Studies and Many more
+    Are you stuck with your nursing courses tasks such CNA, LNP/LVP, ADN, BSN,
+    MSN, DNP?  Nursing And Medical professionals are here to help you.  We offer
+    Entire Online Class Help, Single Assignment Help, Exams (TEAS,HESI, Quizzes,
+    Tests, Midterms Projects, Lab Reports, Proctored Exams, Final Exams, 
+    Research Papers, BSN papers, Essays, Case Studies and Many more
   character_image: images/banner/character.webp
   lamp_image: images/banner/lamp.webp
   cube_image: images/banner/cube.webp

@@ -6,12 +6,14 @@
       <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
         {{ if site.Params.logo }}
         {{$img:= resources.Get (site.Params.logo) }}
-        <img loading="lazy" decoding="async" src="{{$img.RelPermalink}}" alt="{{ site.Params.logo_text }}" width="{{site.Params.logo_width}}" height="27">
+        <img loading="lazy" decoding="async" src="{{$img.RelPermalink}}" alt="{{ site.Params.logo_text }}"
+          width="{{site.Params.logo_width}}" height="27">
         {{ else }}
         {{site.Params.logo_text | markdownify}}
         {{ end }}
       </a>
-      <button aria-label="navbar toggler" class="navbar-toggler border-0 p-0 h3" type="button" data-bs-toggle="collapse" data-bs-target="#navigation">
+      <button aria-label="navbar toggler" class="navbar-toggler border-0 p-0 h3" type="button" data-bs-toggle="collapse"
+        data-bs-target="#navigation">
         <i class="fas fa-bars mb-0 text-dark"></i>
       </button>
 
@@ -21,7 +23,33 @@
           <li class="nav-item {{if .IsHome}}active{{end}}">
             <a class="nav-link" href="{{ site.BaseURL | relLangURL }}">Home</a>
           </li>
-          
+
+          <!-- ... (subject) ... -->
+          {{ $subjects := .Site.GetPage "section" "subjects" }}
+          {{ with $subjects }}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              {{ .Title }}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown"
+              style="border-top-left-radius: 0; border-top-right-radius: 0">
+              <div class="container">
+                <div class="row"> <!-- Adjust the number of columns as needed -->
+                  {{ range .Pages }}
+                  <div class="col mb-3">
+                    <div class="list-group list-group-flush">
+                      <a href="{{ .Permalink }}" class="dropdown-item list-group-item list-group-item-action">{{ .Params.subject }}</a>
+                    </div>
+                  </div>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </li>
+          {{ end }}
+          <!-- ... (subject) ... -->
+
           {{ $currentPage := . }}
           {{ range site.Menus.main }}
 
@@ -31,14 +59,15 @@
 
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
-            
+
             {{ range .Children }}
-              {{ $drop_menu_item_url := .URL | absLangURL }}
-              {{ $active := eq $drop_menu_item_url $page_url}}
+            {{ $drop_menu_item_url := .URL | absLangURL }}
+            {{ $active := eq $drop_menu_item_url $page_url}}
             {{ end }}
 
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            {{ .Name }}
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              {{ .Name }}
             </a>
 
             <div class="dropdown-menu">
@@ -47,22 +76,26 @@
               {{ $drop_menu_item_url := .URL | absLangURL }}
               {{ $active := eq $drop_menu_item_url $page_url}}
 
-              <a class="dropdown-item {{if $active}}active{{end}}" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-                href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | absLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+              <a class="dropdown-item {{if $active}}active{{end}}" {{if findRE `^http` .URL}}target="_blank"
+                rel="noopener" {{end}}
+                href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | absLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
+                .Name }}</a>
               {{ end }}
             </div>
           </li>
           {{ else }}
           <li class="nav-item {{if $active}}active{{end}}">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-              href="{{if findRE `^#` .URL}}{{site.BaseURL | absLangURL}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+              href="{{if findRE `^#` .URL}}{{site.BaseURL | absLangURL}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
+              .Name }}</a>
           </li>
           {{ end }}
           {{ end }}
           <li class="nav-item mx-auto">
             <!-- Language List -->
             {{ if .IsTranslated }}
-            <select class="nav-link border-0 fw-semibold bg-transparent px-0 ms-0 ms-xl-3" id="select-language" onchange="location = this.value;">
+            <select class="nav-link border-0 fw-semibold bg-transparent px-0 ms-0 ms-xl-3" id="select-language"
+              onchange="location = this.value;">
               {{ $siteLanguages := site.Languages}}
               {{ $pageLang := .Page.Lang}}
               {{ range .Page.AllTranslations }}
@@ -87,8 +120,8 @@
         {{ if site.Params.navigation_button.enable }}
         <!-- get start btn -->
         <div class="d-block d-xl-inline-block mt-2 mt-lg-0">
-          <a href="{{ site.Params.navigation_button.link | relLangURL }}"
-          class="btn btn-primary ms-xl-4">{{ site.Params.navigation_button.label }}</a>
+          <a href="{{ site.Params.navigation_button.link | relLangURL }}" class="btn btn-primary ms-xl-4">{{
+            site.Params.navigation_button.label }}</a>
         </div>
         {{ end }}
       </div>

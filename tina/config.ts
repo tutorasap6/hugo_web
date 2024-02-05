@@ -514,6 +514,54 @@ export default defineConfig({
         ],
       },
 
+      // ... Subjects...
+
+      {
+        name: "subjects",
+        label: "Subjects",
+        path: "content/english/subjects",
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+        },
+        
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            description: "Enter the meta description",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Publish Date",
+          },
+         
+          {
+            type: "string",
+            name: "subject",
+            label: "subject ",
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
     ],
   },
 });

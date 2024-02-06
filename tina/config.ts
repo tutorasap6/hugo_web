@@ -65,31 +65,31 @@ export default defineConfig({
                 type: "string",
                 name: "character_image",
                 label: "Image",
-                
+
               },
               {
                 type: "string",
                 name: "lamp_image",
                 label: "Image",
-                
+
               },
               {
                 type: "string",
                 name: "cube_image",
                 label: "Image",
-                
+
               },
               {
                 type: "string",
                 name: "chess_image",
                 label: "Image",
-                
+
               },
               {
                 type: "string",
                 name: "form_action",
                 label: "Form URL",
-                
+
               },
 
               // Add other banner fields as needed
@@ -289,9 +289,9 @@ export default defineConfig({
             name: "layout",
             label: "layout name",
             description: "It is default value - DO NOT CHANGE",
-          
+
           },
-          
+
           // sub section
           {
             type: "object",
@@ -323,7 +323,7 @@ export default defineConfig({
                 name: "content",
                 label: "Content",
               },
-              
+
             ],
           },
           // sub section - facts
@@ -332,185 +332,185 @@ export default defineConfig({
             name: "facts",
             label: "Facts Section",
             fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable or Disable",
+              },
+              {
+                type: "object",
+                name: "fact_item",
+                label: "Fact Items",
+                list: true,
+                fields: [
                   {
-                    type: "boolean",
-                    name: "enable",
-                    label: "Enable or Disable",
+                    type: "string",
+                    name: "title",
+                    label: "Title",
                   },
                   {
-                    type: "object",
-                    name: "fact_item",
-                    label: "Fact Items",
-                    list:true,
-                    fields: [
-                      {
-                        type: "string",
-                        name: "title",
-                        label: "Title",
-                      },
-                      {
-                        type: "string",
-                        name: "counter",
-                        label: "Counter",
-                      },
-                      {
-                        type: "string",
-                        name: "counter_append",
-                        label: "Counter Append",
-                      },
-                      {
-                        type: "string",
-                        name: "counter_prepend",
-                        label: "Counter Prepend",
-                      },
-                      {
-                        type: "string",
-                        name: "description",
-                        label: "Description",
-                      },
-                      
-                    ],
-                    itemProps: (item) => ({
-                      label: item.title, // Use the question as the display label
-                    }),
+                    type: "string",
+                    name: "counter",
+                    label: "Counter",
+                  },
+                  {
+                    type: "string",
+                    name: "counter_append",
+                    label: "Counter Append",
+                  },
+                  {
+                    type: "string",
+                    name: "counter_prepend",
+                    label: "Counter Prepend",
+                  },
+                  {
+                    type: "string",
+                    name: "description",
+                    label: "Description",
+                  },
+
+                ],
+                itemProps: (item) => ({
+                  label: item.title, // Use the question as the display label
+                }),
+              },
+            ],
+          },
+          // sub section for our story
+          {
+            type: "object",
+            name: "our_story",
+            label: "Our story Section",
+            fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable or Disable",
+              },
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "subtitle",
+                label: "Subtitle",
+              },
+              {
+                type: "string",
+                name: "content",
+                label: "Content",
+              },
+              {
+                type: "object",
+                name: "image",
+                label: "Image",
+                list: true,
+                fields: [
+                  {
+                    type: "image",
+                    name: "item",
+                    label: "Images",
+                    description: "Upload multiple images",
+
                   },
                 ],
-             },
-        // sub section for our story
-        {
-          type: "object",
-          name: "our_story",
-          label: "Our story Section",
-          fields: [
-                {
-                  type: "boolean",
-                  name: "enable",
-                  label: "Enable or Disable",
-                },
-                {
-                  type: "string",
-                  name: "title",
-                  label: "Title",
-                },
-                {
-                  type: "string",
-                  name: "subtitle",
-                  label: "Subtitle",
-                },
-                {
-                  type: "string",
-                  name: "content",
-                  label: "Content",
-                },
-                {
-                  type: "object",
-                  name: "image",
-                  label: "Image",
-                  list:true,
-                  fields: [
-                    {
-                      type: "image",
-                      name: "item",
-                      label: "Images",
-                      description: "Upload multiple images",
-                      
-                    },
-                  ],
-                  
-                },
-                
-                
-                
+
+              },
+
+
+
             ],
             itemProps: (item) => ({
               label: item.title, // Use the question as the display label
             }),
-                  
-           },
 
-        // sub section teams 
+          },
 
-        {
-          type: "object",
-          name: "team",
-          label: "Team Section",
-          fields: [
-            {
-              type: "boolean",
-              name: "enable",
-              label: "Enable or Disable",
-            },
-            {
-              type: "string",
-              name: "title",
-              label: "Title",
-            },
-            {
-              type: "string",
-              name: "subtitle",
-              label: "Subtitle",
-            },
-            {
-              type: "string",
-              name: "content",
-              label: "Content",
-            },
-            {
-              type: "object",
-              name: "team_item",
-              label: "Team Members",
-              list:true,
-              fields: [
-                {
-                  type: "string",
-                  name: "name",
-                  label: "Name",
-                },
-                {
-                  type: "string",
-                  name: "designation",
-                  label: "Designation",
-                },
-                {
-                  type: "image",
-                  name: "image",
-                  label: "Image",
-                },
-                {
-                  type: "string",
-                  name: "description",
-                  label: "Description",
-                },
-                
-                {
-                  type: "object",
-                  name: "social_links",
-                  label: "Social Links",
-                  list:true,
-                  fields: [
-                    {
-                      type: "string",
-                      name: "icon",
-                      label: "Name",
-                    },
-                    {
-                      type: "string",
-                      name: "link",
-                      label: "link",
-                    },
-                    
-                    
-                  ],
-                },
-              ],
-              itemProps: (item) => ({
-                label: item.name, // Use the name
-              }),
-            },
-          ],
-         
-        },
-    
+          // sub section teams 
+
+          {
+            type: "object",
+            name: "team",
+            label: "Team Section",
+            fields: [
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable or Disable",
+              },
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "subtitle",
+                label: "Subtitle",
+              },
+              {
+                type: "string",
+                name: "content",
+                label: "Content",
+              },
+              {
+                type: "object",
+                name: "team_item",
+                label: "Team Members",
+                list: true,
+                fields: [
+                  {
+                    type: "string",
+                    name: "name",
+                    label: "Name",
+                  },
+                  {
+                    type: "string",
+                    name: "designation",
+                    label: "Designation",
+                  },
+                  {
+                    type: "image",
+                    name: "image",
+                    label: "Image",
+                  },
+                  {
+                    type: "string",
+                    name: "description",
+                    label: "Description",
+                  },
+
+                  {
+                    type: "object",
+                    name: "social_links",
+                    label: "Social Links",
+                    list: true,
+                    fields: [
+                      {
+                        type: "string",
+                        name: "icon",
+                        label: "Name",
+                      },
+                      {
+                        type: "string",
+                        name: "link",
+                        label: "link",
+                      },
+
+
+                    ],
+                  },
+                ],
+                itemProps: (item) => ({
+                  label: item.name, // Use the name
+                }),
+              },
+            ],
+
+          },
+
         ],
       },
 
@@ -526,7 +526,7 @@ export default defineConfig({
             delete: true,
           },
         },
-        
+
         fields: [
           {
             type: "string",
@@ -546,7 +546,7 @@ export default defineConfig({
             name: "date",
             label: "Publish Date",
           },
-         
+
           {
             type: "string",
             name: "subject",
@@ -562,6 +562,267 @@ export default defineConfig({
           },
         ],
       },
+
+
+      // How it works
+
+      {
+        name: "howitworks",
+        label: "How It Works",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "how*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            description: "Enter the description",
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "layout name",
+            description: "It is default value - DO NOT CHANGE",
+
+          },
+
+          // work_process
+
+          {
+            type: "object",
+            name: "work_process",
+            label: "work_process",
+            itemProps: (item) => ({
+              label: item.name, // Use the name
+            }),
+            fields: [
+
+              {
+                type: "boolean",
+                name: "enable",
+                label: "Enable Slider",
+
+              },
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "subtitle",
+                label: "subtitle",
+              },
+              {
+                type: "string",
+                name: "content",
+                label: "content",
+              },
+
+              // tablist
+              {
+                label: "Tablist",
+                name: "tablist",
+                type: "object",
+                list: true,
+                
+                fields: [
+                  {
+                    label: "Tab Title",
+                    name: "title",
+                    type: "string",
+                  },
+                  {
+                    label: "Tablist Items",
+                    name: "tablist_item",
+                    type: "object",
+                    list: true,
+                    
+                    fields: [
+                      {
+                        label: "Subtitle",
+                        name: "subtitle",
+                        type: "string",
+                      },
+                      {
+                        label: "Description",
+                        name: "description",
+                        type: "string",
+                      },
+                      {
+                        label: "Image",
+                        name: "image",
+                        type: "string",
+                      },
+                    ],
+                    itemProps: (item) => ({
+                      label: item.subtitle, // Use the name
+                    }),
+
+                  },
+                ],
+                itemProps: (item) => ({
+                  label: item.title, // Use the name
+                }),
+
+              },
+
+
+
+            ],
+           
+
+          },
+
+          // working steps
+
+          {
+            label: "Working Steps",
+            name: "working_steps",
+            type: "object",
+            fields: [
+              {
+                label: "Enable",
+                name: "enable",
+                type: "boolean",
+              },
+              {
+                label: "Title",
+                name: "title",
+                type: "string",
+              },
+              {
+                label: "Subtitle",
+                name: "subtitle",
+                type: "string",
+              },
+              {
+                label: "Content",
+                name: "content",
+                type: "string",
+              },
+              {
+                label: "Step One",
+                name: "step_one",
+                type: "object",
+                fields: [
+                  {
+                    label: "Title",
+                    name: "title",
+                    type: "string",
+                  },
+                  {
+                    label: "Subtitle",
+                    name: "subtitle",
+                    type: "string",
+                  },
+                  {
+                    label: "Content",
+                    name: "content",
+                    type: "string",
+                  },
+                  {
+                    label: "Process",
+                    name: "process",
+                    type: "object",
+                    list:true,
+                      fields: [
+                        {
+                          label: "Name",
+                          name: "name",
+                          type: "string",
+                        },
+                        {
+                          label: "Image",
+                          name: "image",
+                          type: "string",
+                        },
+                      ],
+                      itemProps: (item) => ({
+                        label: item.name, // Use the name
+                      }),
+                    
+                  },
+                ],
+              },
+              {
+                label: "Step Two",
+                name: "step_two",
+                type: "object",
+                fields: [
+                  {
+                    label: "Title",
+                    name: "title",
+                    type: "string",
+                  },
+                  {
+                    label: "Subtitle",
+                    name: "subtitle",
+                    type: "string",
+                  },
+                  {
+                    label: "Content",
+                    name: "content",
+                    type: "string",
+                  },
+                  {
+                    label: "Image",
+                    name: "image",
+                    type: "string",
+                  },
+                ],
+              },
+              {
+                label: "Step Three",
+                name: "step_three",
+                type: "object",
+                fields: [
+                  {
+                    label: "Title",
+                    name: "title",
+                    type: "string",
+                  },
+                  {
+                    label: "Subtitle",
+                    name: "subtitle",
+                    type: "string",
+                  },
+                  {
+                    label: "Content",
+                    name: "content",
+                    type: "string",
+                  },
+                  {
+                    label: "Image",
+                    name: "image",
+                    type: "string",
+                  },
+                ],
+              },
+            ],
+          },
+
+
+
+
+        ],
+      },
+
 
     ],
   },

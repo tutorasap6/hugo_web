@@ -551,6 +551,7 @@ export default defineConfig({
             type: "string",
             name: "subject",
             label: "subject ",
+            description: "Example: NR 222",
             required: true,
           },
           {

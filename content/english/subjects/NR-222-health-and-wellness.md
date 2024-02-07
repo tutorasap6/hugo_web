@@ -187,44 +187,57 @@ The nurse can use these signs to determine which patient is most prepared to lea
 
 ### Syllabus
 
-**[NR 222 Coursework Week 1 – 8](https://www.academicguider.com/devry/nr-222-coursework/)** **(Syllabus)**
+NR 222 Coursework Week 1 – 8 (Syllabus)
 
-**[NR 222 Course Assignments Week 1 – 8](https://www.academicguider.com/devry/nr-222-course-assignments/)**
+NR 222 Course Assignments Week 1 – 8
 
-**[NR 222 Assignments: ATI – Nurse's Touch Week 2, 5, 6, 7 (Bundle)](https://www.academicguider.com/devry/nr-222-ati-integration-materials/)**
+NR 222 Assignments: ATI – Nurse's Touch Week
+2, 5, 6, 7 (Bundle)
 
-**[NR 222 Discussion Questions Week 1 – 8 (Multiple Versions)](https://www.academicguider.com/devry/nr-222-discussion-questions/)**
+NR 222 Discussion Questions Week 1 – 8
+(Multiple Versions)
 
-**[NR 222 Week 3 Exam 1, Week 5 Exam 2, Week 7 Exam 3, Week 8 Final Exam (Bundle)](https://www.academicguider.com/devry/nr-222-exam/)**
+NR 222 Week 3 Exam 1, Week 5 Exam 2, Week 7
+Exam 3, Week 8 Final Exam (Bundle)
 
-**[NR 222 Week 1 Assignments plus Discussions (Bundle)](https://www.academicguider.com/devry/nr-222-week-1/)**
+NR 222 Week 1 Assignments plus Discussions
+(Bundle)
 
-**[NR 222 Week 2 Assignments plus Discussion (Bundle)](https://www.academicguider.com/devry/nr-222-unit-2/)**
+NR 222 Week 2 Assignments plus Discussion
+(Bundle)
 
-**[NR 222 Week 3 Assignment, Discussion, Exam 1 (Bundle)](https://www.academicguider.com/devry/nr-222-unit-3/)**
+NR 222 Week 3 Assignment, Discussion, Exam 1
+(Bundle)
 
-**[NR 222 Week 3 Exam 1 (100% Correct Actual Exam Collection)](https://www.academicguider.com/devry/nr-222-unit-3-exam-1/)**
+NR 222 Week 3 Exam 1 (100% Correct Actual Exam
+Collection)
 
-**[NR 222 Week 4 Assignment: Questions & Activity](https://www.academicguider.com/devry/nr-222-week-4-assignment-questions-activity/)**
+NR 222 Week 4 Assignment: Questions &
+Activity
 
-**[NR 222 Week 4 Discussion: Strategic Versus Deep Learning (2 Versions)](https://www.academicguider.com/devry/nr-222-week-4-discussion/)**
+NR 222 Week 4 Discussion: Strategic Versus
+Deep Learning (2 Versions)
 
-**[NR 222 Week 5 Exam 2 (Actual Exam 50-Q\&A)](https://www.academicguider.com/devry/nr-222-exam-2/)**
+NR 222 Week 5 Exam 2 (Actual Exam 50-Q\&A)
 
-**[NR 222 Week 5 Sample Questions Exam 2](https://www.academicguider.com/devry/nr-222-week-5-sample-questions-exam-2/)**
+NR 222 Week 5 Sample Questions Exam 2
 
-**[NR 222 Week 5 Exam 2 Practice Questions-Answers (Collection)](https://www.academicguider.com/devry/nr-222-exam-2-practice-questions/)**
+NR 222 Week 5 Exam 2 Practice
+Questions-Answers (Collection)
 
-**[NR 222 Week 6 Assignment plus Discussion (Bundle)](https://www.academicguider.com/devry/nr-222-unit-6/)**
+NR 222 Week 6 Assignment plus Discussion
+(Bundle)
 
-**[NR 222 Week 7 Assignments plus Discussion (Bundle)](https://www.academicguider.com/devry/nr-222-unit-7/)**
+NR 222 Week 7 Assignments plus Discussion
+(Bundle)
 
-**[NR 222 Week 7 Exam 3 Review (Questions-Answers)](https://www.academicguider.com/devry/nr-222-exam-3-review-questions/)**
+NR 222 Week 7 Exam 3 Review
+(Questions-Answers)
 
-**[NR 222 Week 8 Final Exam (Collection)](https://www.academicguider.com/devry/nr-222-week-8-final-exam/)**
+NR 222 Week 8 Final Exam (Collection)
 
-**[NR 222 Week 8 Final Exam (Bundle)](https://www.academicguider.com/devry/nr-222-unit-8-final-exam/)**
+NR 222 Week 8 Final Exam (Bundle)
 
-**[NR 222 Week 8 Final Mock Exam](https://www.academicguider.com/devry/nr-222-week-8-final-mock-exam/)**
+NR 222 Week 8 Final Mock Exam
 
-**[NR 222 Week 8 Reflection: Wrap-Up (4 Versions)](https://www.academicguider.com/devry/nr-222-unit-8/)**
+NR 222 Week 8 Reflection: Wrap-Up (4 Versions)

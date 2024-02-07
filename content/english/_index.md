@@ -27,10 +27,16 @@ about_info:
 about_features:
   enable: true
   title: About us
-  heading: 'Only pay for what you use, period. Start your 14-day'
+  heading: >-
+    We assist you with Entire Online Course for your College and
+    University-Reach Out to us Todya
   description: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seaa diam nonumy
-    eirmod tempor invidunt ut labore et saldzfore
+    Nursing School Tutors is a renowned online platform that provides
+    comprehensive academic support and resources tailored specifically for
+    nursing students. With a commitment to excellence and a passion for
+    empowering future healthcare professionals, Nursing School Tutors offers a
+    wide array of services designed to enhance students' learning experiences
+    and facilitate their success in nursing education.
   image: images/feature-image-2.webp
   features_items:
     - title: HSM 543  Entire Class Help

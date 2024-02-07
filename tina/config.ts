@@ -640,7 +640,7 @@ export default defineConfig({
                 name: "tablist",
                 type: "object",
                 list: true,
-                
+
                 fields: [
                   {
                     label: "Tab Title",
@@ -652,7 +652,7 @@ export default defineConfig({
                     name: "tablist_item",
                     type: "object",
                     list: true,
-                    
+
                     fields: [
                       {
                         label: "Subtitle",
@@ -685,7 +685,7 @@ export default defineConfig({
 
 
             ],
-           
+
 
           },
 
@@ -740,23 +740,23 @@ export default defineConfig({
                     label: "Process",
                     name: "process",
                     type: "object",
-                    list:true,
-                      fields: [
-                        {
-                          label: "Name",
-                          name: "name",
-                          type: "string",
-                        },
-                        {
-                          label: "Image",
-                          name: "image",
-                          type: "string",
-                        },
-                      ],
-                      itemProps: (item) => ({
-                        label: item.name, // Use the name
-                      }),
-                    
+                    list: true,
+                    fields: [
+                      {
+                        label: "Name",
+                        name: "name",
+                        type: "string",
+                      },
+                      {
+                        label: "Image",
+                        name: "image",
+                        type: "string",
+                      },
+                    ],
+                    itemProps: (item) => ({
+                      label: item.name, // Use the name
+                    }),
+
                   },
                 ],
               },
@@ -822,7 +822,100 @@ export default defineConfig({
 
         ],
       },
+      // contact  page
 
+      {
+        name: "contact",
+        label: "Contact Page",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "contact",
+        },
+        fields: [
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Description",
+            name: "description",
+            type: "string",
+          },
+          {
+            label: "Layout name",
+            name: "layout",
+            type: "string",
+            description: "It is default value - DO NOT CHANGE",
+          },
+        
+          {
+            label: "Contact Information",
+            name: "contact_info",
+            type: "object",
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                type: "string",
+              },
+              {
+                label: "Subtitle",
+                name: "subtitle",
+                type: "string",
+              },
+              {
+                label: "Content",
+                name: "content",
+                type: "string",
+              },
+              {
+                label: "Blocks",
+                name: "blocks",
+                type: "object",
+                list: true,
+                fields: [
+                  {
+                    label: "Image",
+                    name: "image",
+                    type: "string",
+                  },
+                  {
+                    label: "Title",
+                    name: "title",
+                    type: "string",
+                  },
+                  {
+                    label: "Description",
+                    name: "description",
+                    type: "string",
+                  },
+                  {
+                    label: "Email",
+                    name: "email",
+                    type: "string",
+                  },
+                  {
+                    label: "Phone",
+                    name: "phone",
+                    type: "string",
+                  },
+                ],
+                itemProps: (item) => ({
+                  label: item.title, // Use the name
+                }),
+              },
+            ],
+          },
+        ],
+      }
+      //
 
     ],
   },

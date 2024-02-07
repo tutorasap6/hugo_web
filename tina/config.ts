@@ -914,8 +914,71 @@ export default defineConfig({
             ],
           },
         ],
-      }
-      //
+      },
+      // Pricing page 
+
+      {
+        name: "pricing",
+        label: "Pricing Page",
+        path: "content/english", // Adjust the path based on your folder structure
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "pricing",
+        },
+        fields: [
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+        
+          {
+            label: "Layout",
+            name: "layout",
+            type: "string",
+            description: "DO NOT CHANGE - It is default value",
+          },
+          
+          {
+            label: "Pricing",
+            name: "pricing",
+            type: "object",
+            list: true,
+            fields: [
+              {
+                label: "Name",
+                name: "name",
+                type: "string",
+              },
+              {
+                label: "Price",
+                name: "price",
+                type: "string",
+              },
+              {
+                label: "Month",
+                name: "per",
+                type: "string",
+              },
+              {
+                type: "string",
+                name: "features_list",
+                label: "features_list",
+                list: true
+              },
+            ],
+            itemProps: (item) => ({
+              label: item.name, // Use the question as the display label
+            }),
+          },
+        ],
+      },
+      
 
     ],
   },

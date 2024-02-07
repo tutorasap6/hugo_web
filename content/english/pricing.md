@@ -1,6 +1,6 @@
 ---
-title: ' Pricing'
-heading: Interested in a strategic partner to <br> help you organize business?
+title: 'Pricing'
+#heading: Interested in a strategic partner to <br> help you organize business?
 layout: pricing
 draft: false
 pricing:

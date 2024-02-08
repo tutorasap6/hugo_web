@@ -978,6 +978,69 @@ export default defineConfig({
           },
         ],
       },
+
+      // testimonials page
+
+      {
+        name: "testimonials",
+        label: "Testimonials Page",
+        path: "content/english", // Adjust the path based on your folder structure
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "testimonials", // Adjust the filename based on your actual file name
+        },
+        fields: [
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+          
+          {
+            label: "Layout",
+            name: "layout",
+            type: "string",
+            description: "DO NOT CHANGE - It is default value",
+          },
+          
+          {
+            label: "Testimonials",
+            name: "testimonials",
+            type: "object",
+            list: true,
+            fields: [
+              {
+                label: "Name",
+                name: "name",
+                type: "string",
+              },
+              {
+                label: "Designation",
+                name: "designation",
+                type: "string",
+              },
+              {
+                label: "Image",
+                name: "image",
+                type: "string",
+              },
+              {
+                label: "Content",
+                name: "content",
+                type: "string",
+              },
+            ],
+            itemProps: (item) => ({
+              label: item.name, // Use the name as the display label
+            }),
+          },
+        ],
+      },
       
 
     ],

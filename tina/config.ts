@@ -1072,6 +1072,101 @@ export default defineConfig({
         ],
       },
       
+      // get quote page
+
+      {
+        name: "quote",
+        label: "Get Quote Page",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "get-quote",
+        },
+        fields: [
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Description",
+            name: "description",
+            type: "string",
+          },
+          {
+            label: "Layout name",
+            name: "layout",
+            type: "string",
+            description: "It is default value - DO NOT CHANGE",
+          },
+        
+          {
+            label: "Contact Information",
+            name: "contact_info",
+            type: "object",
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                type: "string",
+              },
+              {
+                label: "Subtitle",
+                name: "subtitle",
+                type: "string",
+              },
+              {
+                label: "Content",
+                name: "content",
+                type: "string",
+              },
+              {
+                label: "Blocks",
+                name: "blocks",
+                type: "object",
+                list: true,
+                fields: [
+                  {
+                    label: "Image",
+                    name: "image",
+                    type: "string",
+                  },
+                  {
+                    label: "Title",
+                    name: "title",
+                    type: "string",
+                  },
+                  {
+                    label: "Description",
+                    name: "description",
+                    type: "string",
+                  },
+                  {
+                    label: "Email",
+                    name: "email",
+                    type: "string",
+                  },
+                  {
+                    label: "Phone",
+                    name: "phone",
+                    type: "string",
+                  },
+                ],
+                itemProps: (item) => ({
+                  label: item.title, // Use the name
+                }),
+              },
+            ],
+          },
+        ],
+      },
+
+      
 
     ],
   },

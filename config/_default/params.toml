@@ -28,7 +28,7 @@ enable = true
 [navigation_button]
 enable = true
 label = "Get A Free Quote"
-link = "contact/"
+link = "get-quote/"
 
 # cookies
 [cookies]

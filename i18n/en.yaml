@@ -49,3 +49,6 @@
 
 - id: send_message
   translation: Send Message
+
+- id: get_quote
+  translation: Get A Quote

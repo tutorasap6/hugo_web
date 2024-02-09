@@ -1042,6 +1042,36 @@ export default defineConfig({
         ],
       },
       
+      //elements
+      {
+        name: "elements",
+        label: "Elements Page",
+        path: "content/english", // Adjust the path based on your folder structure
+        match: {
+          include: "elements", // Adjust the filename based on your actual file name
+        },
+        fields: [
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Description",
+            name: "description",
+            type: "string",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        
+        ],
+      },
+      
 
     ],
   },

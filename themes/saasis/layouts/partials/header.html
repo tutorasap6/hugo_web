@@ -27,17 +27,20 @@
           <!-- ... (subject) ... -->
           {{ $subjects := .Site.GetPage "section" "subjects" }}
           {{ with $subjects }}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">
-              {{ .Title }}
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown"
+          <li class="nav-item dropdown position-static" >
+            <a class="nav-link dropdown-toggle d-inline-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="position: relative;">
+              <span>{{ .Title }}</span>
+              <span class="ms-1 d-none d-xl-inline"> <!-- Display on larger screens, adjust as needed -->
+                  <i class="fas fa-chevron-down"></i> <!-- Use the appropriate arrow icon class -->
+              </span>
+          </a>
+          
+            <div class="dropdown-menu w-100 mt-0" aria-labelledby="navbarDropdown"
               style="border-top-left-radius: 0; border-top-right-radius: 0">
               <div class="container">
-                <div class="row"> <!-- Adjust the number of columns as needed -->
+                <div class="row my-2 my-md-2"> <!-- Adjust the number of columns as needed -->
                   {{ range .Pages }}
-                  <div class="col mb-3">
+                  <div class="col-md-6 col-lg-4 mb-3 mb-lg-0">
                     <div class="list-group list-group-flush">
                       <a href="{{ .Permalink }}" class="dropdown-item list-group-item list-group-item-action">{{ .Params.subject }}</a>
                     </div>

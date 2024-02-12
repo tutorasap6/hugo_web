@@ -6,16 +6,16 @@ description: >-
   You can trust that our knowledgeable instructors will help you master the
   essentials. Don't procrastinate any longer; start dominating NR 224 now!
 date: 2024-02-06T15:35:55.000Z
-subject: NR 224 Entire Course Help
+subject: NR 224 Fundamentals Skills
 ---
 
 **Table of Content**
 
-* [NR 224 Fundamentals: Skills: Comprehensive Support for Your Coursework](#nr-224-fundamentals-skills-comprehensive-support-for-your-coursework)
-* [NR 224 Week 8 Final Exam (Cumulative Exam)](#nr-224-week-8-final-exam-cumulative-exam)
-* [FAQs](#faqs)
-* [Related Searches from Google](#related-searches-from-google)
-* [Syllabus](#syllabus)
+- [NR 224 Fundamentals: Skills: Comprehensive Support for Your Coursework](#nr-224-fundamentals-skills-comprehensive-support-for-your-coursework)
+- [NR 224 Week 8 Final Exam (Cumulative Exam)](#nr-224-week-8-final-exam-cumulative-exam)
+- [FAQs](#faqs)
+- [Related Searches from Google](#related-searches-from-google)
+- [Syllabus](#syllabus)
 
 ## NR 224 Fundamentals: Skills: Comprehensive Support for Your Coursework
 

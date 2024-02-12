@@ -172,44 +172,44 @@ The mid-to-late 20th century was … with amazing changes and events in professi
 
 ## Syllabus
 
-**NR 390 Week 6 Course Project Assignment plus Discussion (Fall 2018)**
+[NR 390 Week 6 Course Project Assignment plus Discussion (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-6-assignment-discussion/)
 
-**NR 390 Week 3 Course Project Assignment plus Discussion (Fall 2018)**
+[NR 390 Week 3 Course Project Assignment plus Discussion (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-3-assignment-discussion/)
 
-**NR 390 Week 1 Course Project Assignment plus Discussion (Fall 2018)**
+[NR 390 Week 1 Course Project Assignment plus Discussion (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-1/)
 
-**NR 390 Week 8 Discussion Topic with Answer: AACN BSN Essential VIII and Your Future Practice (Fall 2018)**
+[NR 390 Week 8 Discussion Topic with Answer: AACN BSN Essential VIII and Your Future Practice (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-8-discussion-topic-answer/)
 
-**NR 390 Week 7 Discussion Topic with Answer: Interview Impact (Fall 2018)**
+[NR 390 Week 7 Discussion Topic with Answer: Interview Impact (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-7-discussion-topic-answer/)
 
-**NR 390 Week 6 Course Project: Milestone 3 (Fall 2018)**
+[NR 390 Week 6 Course Project: Milestone 3 (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-6-course-project-milestone-3/)
 
-**NR 390 Week 6 Discussion Topic with Answer: Amazing Changes and Events (Fall 2018)**
+[NR 390 Week 6 Discussion Topic with Answer: Amazing Changes and Events (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-6-discussion-topic-answer/)
 
-**NR 390 Week 5 Discussion Topic with Answer: Progress in Nursing in the Early-to-Mid 20th Century (Fall 2018)**
+[NR 390 Week 5 Discussion Topic with Answer: Progress in Nursing in the Early-to-Mid 20th Century (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-5-discussion-topic-answer/)
 
-**NR 390 Week 4 Discussion Topic with Answer: Impact of 19th-Century Nurses (Fall 2018)**
+[NR 390 Week 4 Discussion Topic with Answer: Impact of 19th-Century Nurses (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-4-discussion-topic-answer/)
 
-**NR 390 Week 3 Course Project: Milestone 2 (Fall 2018)**
+[NR 390 Week 3 Course Project: Milestone 2 (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-3-course-project-milestone-2/)
 
-**NR 390 Week 3 Discussion Topic with Answer: Nightingale Information New to You (Fall 2018)**
+[NR 390 Week 3 Discussion Topic with Answer: Nightingale Information New to You (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-3-discussion-topic-answer/)
 
-**NR 390 Week 2 Discussion Topic with Answer: Practices from the Past (Fall 2018)**
+[NR 390 Week 2 Discussion Topic with Answer: Practices from the Past (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-2-discussion-topic-answer/)
 
-**NR 390 Week 1 Discussion Topic with Answer: Nursing History (Fall 2018)**
+[NR 390 Week 1 Discussion Topic with Answer: Nursing History (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-1-discussion-topic-answer/)
 
-**NR 390 Week 1 Course Project: Milestone 1 (Fall 2018)**
+[NR 390 Week 1 Course Project: Milestone 1 (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-1-course-project-milestone-1/)
 
-**NR 390 Discussion Topics with Answers Week 1 – 8 (Fall 2018)**
+[NR 390 Discussion Topics with Answers Week 1 – 8 (Fall 2018)](https://www.academicguider.com/devry/nr-390-discussion-topics/)
 
-**NR 390 Full Course Project: Milestone 1, 3 and 6 (Fall 2018)**
+[NR 390 Full Course Project: Milestone 1, 3 and 6 (Fall 2018)](https://www.academicguider.com/devry/nr-390-full-course-project/)
 
-**NR 390 Entire Course Week 1 – 8 (Fall 2018)**
+[NR 390 Entire Course Week 1 – 8 (Fall 2018)](https://www.academicguider.com/devry/nr-390-entire-course/)
 
-**Clinical Acronyms for Nursing Students**
+[Clinical Acronyms for Nursing Students](https://www.academicguider.com/devry/clinical-acronyms-nursing-students/)
 
-**Board Examination: February 2018**
+[Board Examination: February 2018](https://www.academicguider.com/devry/board-examination/)
 
-**Study Tips for BOARDS Exam | Nursing Students**
+[Study Tips for BOARDS Exam | Nursing Students](https://www.academicguider.com/devry/study-tips-boards-exam/)
 
-**Boards Study Guide**
+[Boards Study Guide](https://www.academicguider.com/devry/boards-study-guide/)

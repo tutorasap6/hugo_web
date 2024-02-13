@@ -1,40 +1,57 @@
 ---
-title: 'Pricing'
-#heading: Interested in a strategic partner to <br> help you organize business?
+title: 'Plans & Pricing'
+heading: 'Plans & Pricing'
 layout: pricing
 draft: false
 pricing:
-  - name: Standard
-    price: $49
-    per: /month
+  - name: Single Assignment Help
+    price: $20
+    per: / page per each assignment
     features_list:
-      - EtiamMaecenas tempus
-      - Tellus eget condimentum
-      - Quam semper libero
-  - name: Data Analytics
-    price: $99
-    per: /month
+      - Original Turnitin pass
+      - Ready for submission in your class
+      - Human Regenerated content; not AIs
+      - Early Delivery
+      - 100% Confidentiality
+  - name: Premium Single Assignment Help
+    price: $40
+    per: / page per each assignment
     features_list:
-      - EtiamMaecenas tempus
-      - Tellus eget condimentum
-      - Quam semper libero
-      - EtiamMaecenas tempus
-  - name: Marketing Toolbox
+      - Original Turnitin pass
+      - ENL writes
+      - Update after every 5 hours of task progress
+      - Ready for submission in your class
+      - Human Regenerated content; not AIs
+      - Early Delivery
+      - 100% Confidentiality
+      - Plagiarism Report
+  - name: Professional Entire Class Help -Popular
+    price: $100
+    per: /week
+    features_list:
+      - Original work guaranteed
+      - You relax and we take all tasks for the class
+      - Submissions are done on your behalf
+      - Plagiarism Free and Turnitin Pass
+      - Human Generated Content
+      - Grade A and Minimum B guaranteed
+      - Money Back Guarantee Blow Grade B
+      - ENL writers to Take your Class
+      - 100% Confidentiality
+  - name: Premium Entire Class Help
     price: $249
-    per: /month
+    per: / page per each assignment
     features_list:
-      - EtiamMaecenas tempus
-      - Tellus eget condimentum
-      - Quam semper libero
-      - EtiamMaecenas tempus
-      - Tellus eget condimentum
-  - name: Enterprise
-    price: Custom
-    features_list:
-      - EtiamMaecenas tempus
-      - Tellus eget condimentum
-      - Quam semper libero
-      - EtiamMaecenas tempus
-      - Tellus eget condimentum
-      - Quam semper libero
+      - Original work guaranteed
+      - Update every 24hrs
+      - Update of the grades every grading time
+      - You relax and we take all tasks for the class
+      - Submissions are done on your behalf
+      - Plagiarism Free and Turnitin Pass
+      - Human Generated Content
+      - Grade A and Minimum B guaranteed
+      - Money Back Guarantee Blow Grade B
+      - ENL writers to Take your Class
+      - 100% Confidentiality
+      - Discount for Every new Class Registered
 ---

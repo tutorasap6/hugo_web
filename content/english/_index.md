@@ -1,12 +1,8 @@
 ---
 banner:
-  title: Get Your Nursing Course Done By Nursing Experts
+  title: Get Your Nursing Course Done By Medic Professionals
   subtitle: >-
-    Are you stuck with your nursing courses tasks such CNA, LNP/LVP, ADN, BSN,
-    MSN, DNP?  Nursing And Medical professionals are here to help you.  We offer
-    Entire Online Class Help, Single Assignment Help, Exams (TEAS,HESI, Quizzes,
-    Tests, Midterms Projects, Lab Reports, Proctored Exams, Final Exams, 
-    Research Papers, BSN papers, Essays, Case Studies and Many more
+    Are you stuck with your nursing course tasks? Nursing And Medical professionals are here to help you. We offer Entire Online Class Help, Single Assignment Help, Exams, Quizzes, Tests, Midterms Projects, Lab Reports, Proctored Exams, Final Exams, Research Papers, BSN papers, Essays, Case Studies and Many more
   character_image: images/banner/character.webp
   lamp_image: images/banner/lamp.webp
   cube_image: images/banner/cube.webp
@@ -14,38 +10,33 @@ banner:
   form_action: '#'
 about_info:
   enable: true
-  title: About us
-  heading: Industry leaders use Saasis to organize A business
+  title: PERFORMANCE
+  heading: Our Performance Scorecard
   description: >-
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seaa  diam nonumy
-    eirmod tempor invidunt ut labore et saldzfore 
+    As a company dedicated to helping students with challenging tasks and assignments, we understand the importance of tracking and measuring our performance. That’s why we have implemented a Performance Scorecard that helps us to monitor our progress and evaluate our success in meeting our key performance indicators (KPIs). Here are samples of grades for the past few class that we have handled. 
   image: images/feature-image.webp
-  features_list:
-    - Nulla consequat massa quis enim. Donec pede justo
-    - 'Fringilla vel, aliquet nec, vulputate eget, arcu In'
-    - Curabitur ullamcorper ultricies nisi. Nam eget dui.
+  #features_list:
+    #- Nulla consequat massa quis enim. Donec pede justo
+    #- 'Fringilla vel, aliquet nec, vulputate eget, arcu In'
+    #- Curabitur ullamcorper ultricies nisi. Nam eget dui.
 about_features:
   enable: true
   title: About us
   heading: >-
-    We assist you with Entire Online Course for your College and
-    University-Reach Out to us Todya
+    Most Chamberlain College Students are Using Nursing School Tutors!
   description: >-
-    Nursing School Tutors is a renowned online platform that provides
-    comprehensive academic support and resources tailored specifically for
-    nursing students. With a commitment to excellence and a passion for
-    empowering future healthcare professionals, Nursing School Tutors offers a
-    wide array of services designed to enhance students' learning experiences
-    and facilitate their success in nursing education.
+    Welcome to Nursing School Tutors! We are a team of highly qualified and experienced nursing tutors who are dedicated to helping nursing students achieve academic success. Our mission is to provide quality tutoring services to nursing students at all levels, from undergraduate to graduate and beyond. At Nursing School Tutors, we understand that nursing school can be challenging and overwhelming. That’s why we offer personalized tutoring services that cater to the unique needs of each student. We believe that every student has the potential to succeed and excel in their nursing studies, and our tutors are committed to helping them reach their goals. Our team of nursing tutors consists of highly educated and experienced professionals who have extensive knowledge and expertise in various nursing specialties. They are skilled in providing personalized tutoring services that help students improve their understanding of nursing concepts and develop the skills needed to succeed in their nursing courses. Our tutors are available for one-on-one tutoring sessions, group tutoring sessions, and online tutoring sessions. We understand that every student has unique learning styles, and our tutors work with each student to identify their learning preferences and tailor their tutoring sessions to meet their needs. We also offer a range of resources to support nursing students in their academic journey. Our online resources include study guides, practice exams, and other helpful materials that can help students prepare for exams and improve their understanding of nursing concepts. At Nursing School Tutors, we are committed to providing our students with the highest quality tutoring services and resources. Our goal is to help nursing students achieve academic success and become competent and compassionate nurses who make a positive impact on the healthcare industry. We welcome students from all nursing programs and backgrounds to join our community and benefit from our services. Whether you are struggling with a specific nursing course or looking to improve your overall academic performance, our team of nursing tutors is here to help you achieve your goals. Thank you for considering Nursing School Tutors as your trusted partner in your nursing academic journey. We look forward to working with you and helping you achieve success in your nursing studies!
   image: images/feature-image-2.webp
   features_items:
-    - title: HSM 543  Entire Class Help
+    - title: Personalized tutoring services tailored to your unique learning style and needs
       image: images/features/01.webp
-    - title: NR 224 Entire Course Help
+    - title: Highly qualified and experienced nursing tutors who have extensive knowledge and expertise in various nursing specialties
       image: images/features/02.webp
-    - title: NR 222 Entire Class Help
+    - title: One-on-one, group, and online tutoring sessions available to accommodate your schedule and preferences
       image: images/features/03.webp
-    - title: NR 228 Entire Course Help
+    - title: Access to a range of online resources, including study guides, practice exams, and other helpful materials to support your learning
+      image: images/features/04.webp
+    - title: Improved understanding of nursing concepts and skills needed to succeed in nursing courses
       image: images/features/04.webp
 ---
 

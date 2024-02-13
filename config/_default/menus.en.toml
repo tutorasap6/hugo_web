@@ -1,52 +1,96 @@
 ############# English navigation ##############
 
 # main menu
-[[main]]
-name = "About"
-url = "about/"
-weight = 2
 
 [[main]]
-name = "How It Works"
-url = "how-it-works/"
 weight = 3
-
-[[main]]
-name = "Features"
-url = "features/"
-weight = 4
-
-[[main]]
-weight = 6
-name = "Pages"
+name = "Company"
 hasChildren = true
 
 [[main]]
 weight = 1
-parent = "Pages"
-name = "Blog"
-url = "blog/"
+parent = "Company"
+name = "About Us"
+url = "about/"
 
 [[main]]
 weight = 1
-parent = "Pages"
-name = "Pricing"
-url = "pricing/"
+parent = "Company"
+name = "How it Works"
+url = "how-it-works/"
 
 [[main]]
 weight = 2
-parent = "Pages"
+parent = "Company"
+name = "FAQ"
+url = "faqs/"
+
+[[main]]
+weight = 3
+parent = "Company"
+name = "Terms & Conditions"
+url = "tnc/"
+
+[[main]]
+weight = 4
+parent = "Company"
+name = "Money Back"
+url = "money-back/"
+
+[[main]]
+weight = 5
+parent = "Company"
+name = "Revision Policy"
+url = "revision-policy/"
+
+[[main]]
+weight = 6
+parent = "Company"
+name = "Privacy Policy"
+url = "privacy-policy/"
+
+[[main]]
+weight = 7
+parent = "Company"
 name = "Testimonials"
 url = "testimonials/"
 
 [[main]]
-weight = 3
-parent = "Pages"
-name = "Elements"
-url = "elements/"
+name = "Pricing"
+url = "pricing/"
+weight = 4
 
 [[main]]
-name = "Contact"
+weight = 5
+name = "Services"
+hasChildren = true
+
+[[main]]
+weight = 1
+parent = "Services"
+name = "Entire Online Class Help"
+url = "services/entire-online-class-help"
+
+[[main]]
+weight = 1
+parent = "Services"
+name = "Exam Help service"
+url = "services/exam-help-service"
+
+[[main]]
+weight = 2
+parent = "Services"
+name = "General Writing Service"
+url = "services/general-writing-service"
+
+[[main]]
+weight = 3
+parent = "Services"
+name = "Original Assignment Help"
+url = "services/original-assignment-help"
+
+[[main]]
+name = "Contact Us"
 url = "contact/"
 weight = 7
 

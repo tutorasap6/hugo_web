@@ -158,9 +158,15 @@ export default defineConfig({
               },
               {
                 type: "string",
-                name: "description",
+                name: "description_two",
                 label: "Description",
               },
+              {
+                type: "string",
+                name: "description",
+                label: "Description bottom",
+              },
+              
               {
                 type: "string",
                 name: "image",

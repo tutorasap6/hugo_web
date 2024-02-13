@@ -67,30 +67,26 @@ name = "How It Works"
 url = "how-it-works/"
 weight = 3
 
-[[about]]
-name = "Elements"
-url = "elements/"
-weight = 4
 
 
 [[service]]
 name = "Entire Online Class Help"
-url = "features/"
+url = "services/entire-online-class-help"
 weight = 1
 
 [[service]]
 name = "Exam Help service"
-url = "features/"
+url = "services/exam-help-service"
 weight = 2
 
 [[service]]
 name = "General Writing Service"
-url = "features/"
+url = "services/general-writing-service"
 weight = 3
 
 [[service]]
 name = "Original Assignment Help"
-url = "features/"
+url = "services/original-assignment-help"
 weight = 4
 
 

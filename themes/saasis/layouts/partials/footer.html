@@ -18,7 +18,7 @@
       </div>
       <div class="col-lg-6 col-9">
         <div class="row g-4">
-          <div class="col-md-4 col-xs-6">
+          <div class="col-md-3 col-xs-6">
             <div class="footer-widget">
               <h3 class="h5 mb-4">{{ i18n `about`}}</h3>
               <ul class="list-unstyled">
@@ -30,7 +30,7 @@
               </ul>
             </div>
           </div>
-          <div class="col-md-4 col-xs-6">
+          <div class="col-md-3 col-xs-6">
             <div class="footer-widget">
               <h3 class="h5 mb-4">{{ i18n `service`}}</h3>
               <ul class="list-unstyled">
@@ -42,11 +42,24 @@
               </ul>
             </div>
           </div>
-          <div class="col-md-4 col-xs-6">
+          <div class="col-md-3 col-xs-6">
             <div class="footer-widget">
               <h3 class="h5 mb-4">{{ i18n `help`}}</h3>
               <ul class="list-unstyled">
                 {{ range site.Menus.help }}
+                <li class="mb-2">
+                  <a href="{{.URL | absLangURL}}">{{.Name}}</a>
+                </li>
+                {{end}}
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-xs-6">
+            <div class="footer-widget">
+              <h3 class="h5 mb-4">{{ i18n `legal`}}</h3>
+              <ul class="list-unstyled">
+                {{ range site.Menus.legal }}
                 <li class="mb-2">
                   <a href="{{.URL | absLangURL}}">{{.Name}}</a>
                 </li>
@@ -66,6 +79,7 @@
     </div>
 
     <div class="row justify-content-between align-items-end mt-3">
+      {{/*
       <div class="col-xl-4 col-lg-6 mb-4 mb-xl-0">
         <h5>{{i18n `subscribe_newsletter`}}</h5>
         <form
@@ -93,6 +107,7 @@
           </div>
         </form>
       </div>
+      */}}
       <div class="col-xl-5 col-lg-5 text-start text-xl-center mb-4">
         <p class="mb-0">{{ site.Params.copyright | markdownify }}</p>
       </div>

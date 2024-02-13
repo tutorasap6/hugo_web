@@ -45,60 +45,26 @@ our_story:
     - item: /images/story-02.webp
 team:
   enable: true
-  title: The amazing team behind Tech
-  subtitle: Our Team Members
+  title: Our Amazing Team Behind our Success
+  subtitle: OUR PROFESSIONAL TEAM
   content: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Convallis cursus ac
-    orci diam, facilisis. Quis et pulvinar nec praesent quam magna amet. Magna
-    blandit sodales urna, aenean. Rhoncus bibendum non.
+    
   team_item:
-    - name: Floyd Miles
-      designation: CEO & Co-Founder
-      image: /images/team/01.webp
-      description: >-
-        Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
-        lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
-        Et ipadv azzsum nibh adipiscing Phasaellus
-      social_links:
-        - icon: fab fa-facebook
-          link: '#!'
-        - icon: fab fa-twitter
-          link: '#!'
-    - name: Ralph Edwards
-      designation: Chief Technology Officer
+    - name: Miles White
+      designation: 
       image: /images/team/02.webp
       description: >-
-        Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
-        lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
-        Et ipadv azzsum nibh adipiscing Phasaellus
+        I am an accomplished lecturer and researcher with expertise in various core finance topics, including corporate finance, fundamentals of finance, quantitative finance, banking operations, international financial markets, and fixed income analysis. Additionally, I work as a finance tutor for Nursing School Tutor. My areas of expertise include financial regulations, banking and finance, qualitative and quantitative research, report writing, and international finance. I have worked as a finance intern at a sales company, a financial teacher for the past seven years, and a research coordinator at a university. Currently, I am also working as a finance tutor with Nursing School Tutors. I possess a range of professional skills, including: Collaborating with a team of professionals on various projects Practicing organized classroom management Effectively communicating through oral and written means Maintaining accurate and detailed records for clinical studies and regulatory documents Participating in budgeting, forecasting, and reporting of financials through the use of Hyperion In my free time, I enjoy reading books and novels, writing, participating in quiz games, traveling and exploring new cultures, learning new languages and skills, investing, and following financial markets and trends. Additionally, I enjoy participating in financial research and analysis projects.
       social_links:
         - icon: fab fa-facebook
           link: '#!'
         - icon: fab fa-twitter
-          link: '#!'
-        - icon: fab fa-github
-          link: '#!'
-    - name: Kathryn Murphy
-      designation: Head of Design
-      image: /images/team/03.webp
-      description: >-
-        Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
-        lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
-        Et ipadv azzsum nibh adipiscing Phasaellus
-      social_links:
-        - icon: fab fa-facebook
-          link: '#!'
-        - icon: fab fa-twitter
-          link: '#!'
-        - icon: fab fa-github
           link: '#!'
     - name: Kristin Watson
-      designation: Head of Talent
-      image: /images/team/04.webp
+      designation: 
+      image: /images/team/02.webp
       description: >-
-        Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
-        lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
-        Et ipadv azzsum nibh adipiscing Phasaellus
+        Greetings, Nursing School students! My name is Kristin Watson, and as a Ph.D. holder in molecular biology from Fairleigh Dickinson University, I am here to help you with any biology assignment issues you may be experiencing. I have always had a passion for composing journals on biology-related subjects and sharing my expertise. For six years, I worked as a guest professor in the applied biology department of an Arizona college. I have been a part of Nursingschooltutors.com for five years and have completed over 3200 assignments in a wide range of biology topics. My areas of expertise include anatomy, astrobiology, bacteriology, and genetics. I have spent four years as an online Genetics tutor at NursingSchoolTutors.com, and for the past six years, I have taught Bacteriology in a college. As a tutor, I have developed daily teaching tactics for students, created assessment tasks and practice examinations, and attended microbiology lessons covering both theories and practices. When I'm not working, I enjoy trekking, watching movies, and reading novels.
       social_links:
         - icon: fab fa-facebook
           link: '#!'
@@ -106,25 +72,45 @@ team:
           link: '#!'
         - icon: fab fa-github
           link: '#!'
-    - name: Darrell Steward
-      designation: Head of Support
-      image: /images/team/05.webp
+    - name: Aaron Simonek
+      designation: 
+      image: /images/team/02.webp
       description: >-
-        Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
-        lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
-        Et ipadv azzsum nibh adipiscing Phasaellus
+        Hi students, I'm Aaron S., a practicing lawyer at a district court in Sweden. I have a Master of Laws degree from Stockholm University, and I've been working in the field of law for 10 years. I joined NursingSchoolTutors.com two years ago to share my knowledge and help students with their law assignments. I've completed nearly 1000 law assignments for students and have a passion for teaching law. I'm skilled in communicating complex legal concepts in an engaging way, and I'm always happy to assist students with their assignments. In terms of my expertise, I have excellent communication skills, am an independent learner, have strong research skills, work well in teams, and have commercial awareness. My occupation is as an online tutor and academic assignment writer at NursingSchooTutors.com, while I practice as a lawyer at the district court of Stockholm. My professional skills include verbal communication, complex problem-solving, critical thinking, and logical and analytical skills. My interests include reading books, playing chess, and writing stories and drama. Feel free to reach out to me if you need any help with law assignments.
+      social_links:
+        - icon: fab fa-facebook
+          link: '#!'
+        - icon: fab fa-twitter
+          link: '#!'
+        - icon: fab fa-github
+          link: '#!'
+    - name: Alanna Ubach
+      designation: 
+      image: /images/team/02.webp
+      description: >-
+        Hello students, my name is Alanna Ubach, and I work as a writer at Nursing School Tutors. I have been helping students with their academic struggles for several years now, and I have successfully completed 4500 assignments. My areas of interest include effective communication, patience, a methodical approach, the ability to work long hours under pressure, manual dexterity, teamwork skills, and strong communication skills. Apart from being a writer at Nursing School Tutors, I am also a dentist and can assist you with any complex assignment. My professional skills include instructing patients on oral care, examining and diagnosing dental issues, performing dental treatments like fillings and extractions, teeth whitening, using specialized equipment such as X-ray machines, record-keeping, referring patients to other specialists, managing budgets, and maintaining equipment. In my free time, I enjoy playing chess. Please feel free to contact me if you need any assistance with your assignments.
+      social_links:
+        - icon: fab fa-facebook
+          link: '#!'
+        - icon: fab fa-twitter
+          link: '#!'
+        - icon: fab fa-github
+          link: '#!'
+    - name: Alice Baker
+      designation: 
+      image: /images/team/02.webp
+      description: >-
+       My name is Alice and I have completed a Master's degree in Nursing from Ryerson University and has worked as a nurse assistant for three years. They are currently employed as a nursing professor in a university for the past seven years and also work as a freelancer for NursingSchoolTutors to assist students. Their expertise includes being a Nurse Educator, creating health plans, scheduling patients, providing emotional guidance, and creating sample health plans. They have worked in various roles, including nurse assistant in a hospital, nurse manager in a clinic, nursing professor in a university, and freelancer for NursingSchoolTutors. Their professional skills include knowledge of current nursing trends, developing budgets, involving students in laboratory work, directing and ensuring quality patient care, building trusted relationships with colleagues, managing teams, initiating patient rounds, and evaluating staff performance. They provide reports to the nursing administrator about all activities within the nursing staff. Their interests include exploring new places, horseback riding, stone skipping, and rock climbing.
       social_links:
         - icon: fab fa-facebook
           link: '#!'
         - icon: fab fa-github
           link: '#!'
-    - name: Arlene McCoy
-      designation: Head of Marketing
-      image: /images/team/06.webp
+    - name: Analyza Lee
+      designation: 
+      image: /images/team/02.webp
       description: >-
-        Lorem ipsum dolor sit amet, ceonase ctete adipiscing elit. Phasellus eu
-        lacus cuam nisl in sit nunc in. Impe asrdiet fermentuma vulputate dictu.
-        Et ipadv azzsum nibh adipiscing Phasaellus
+        I have a Master's degree in Nursing from Curtin University in Perth. I have worked as a practicing nurse in a clinic for two years and have been a nurse educator in an institute for the past seven years. Additionally, I have been working as a burn nurse in an organization for the last thirteen years and have been conducting recovery and treatment sessions in different states for the last four years. My areas of expertise include burn nursing theory, advanced practice nursing, ambulatory care nursing, medical case management, and research in nursing. Throughout my career, I have worked in various roles, including a practicing nurse in a clinic, burn nurse in an organization, nurse educator in an institute, and freelancer for NursingShooltutors.com. My professional skills include diagnosing and deciding on the course of care, providing healthcare instructions, having knowledge and experience of wound and burn cases, treating and caring for patients who have experienced injuries caused by electricity or chemicals, being kind and considerate of patients, assessing educational needs, promoting positive behavioral changes, gathering and distributing training materials, implementing training and mentoring programs, and solving problems to make patients happy. In my free time, I enjoy exploring new places, sketching, playing table tennis, and watching thriller movies.
       social_links:
         - icon: fab fa-facebook
           link: '#!'

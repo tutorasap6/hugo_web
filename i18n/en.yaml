@@ -16,6 +16,9 @@
 - id: help
   translation: Help
 
+- id: legal
+  translation: Legal
+
 - id: subscribe_newsletter
   translation: Subscribe to our Newsletter
 

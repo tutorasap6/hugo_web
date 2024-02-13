@@ -74,22 +74,22 @@ weight = 4
 
 
 [[service]]
-name = "Digital Analytics"
+name = "Entire Online Class Help"
 url = "features/"
 weight = 1
 
 [[service]]
-name = "Digital Marketing"
+name = "Exam Help service"
 url = "features/"
 weight = 2
 
 [[service]]
-name = "Custom Project"
+name = "General Writing Service"
 url = "features/"
 weight = 3
 
 [[service]]
-name = "Marketing Toolbox"
+name = "Original Assignment Help"
 url = "features/"
 weight = 4
 
@@ -107,4 +107,24 @@ weight = 2
 [[help]]
 name = "Contact"
 url = "contact/"
+weight = 4
+
+[[legal]]
+name = "Terms"
+url = "tnc/"
+weight = 1
+
+[[legal]]
+name = "Money Back"
+url = "money-back/"
+weight = 2
+
+[[legal]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
+
+[[legal]]
+name = "Revision Policy"
+url = "revision-policy/"
 weight = 4

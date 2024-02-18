@@ -69,7 +69,7 @@
             {{ end }}
 
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">
+              aria-expanded="false" >
               {{ .Name }}
             </a>
 
@@ -81,7 +81,7 @@
 
               <a class="dropdown-item {{if $active}}active{{end}}" {{if findRE `^http` .URL}}target="_blank"
                 rel="noopener" {{end}}
-                href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | absLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
+                href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | absLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}" style="white-space: normal; word-wrap: break-word;">{{
                 .Name }}</a>
               {{ end }}
             </div>

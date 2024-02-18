@@ -36,13 +36,13 @@
           </a>
           
             <div class="dropdown-menu w-100 mt-0" aria-labelledby="navbarDropdown"
-              style="border-top-left-radius: 0; border-top-right-radius: 0">
+              style="border-top-left-radius: 0; border-top-right-radius: 0; max-height: 400px; overflow-y: auto;">
               <div class="container">
                 <div class="row my-2 my-md-2"> <!-- Adjust the number of columns as needed -->
                   {{ range .Pages }}
                   <div class="col-md-6 col-lg-4 mb-3 mb-lg-0">
                     <div class="list-group list-group-flush">
-                      <a href="{{ .Permalink }}" class="dropdown-item list-group-item list-group-item-action">{{ .Params.subject }}</a>
+                      <a href="{{ .Permalink }}" class="dropdown-item list-group-item list-group-item-action" style="max-width: 100%; white-space: normal; word-wrap: break-word;">{{ .Params.subject }}</a>
                     </div>
                   </div>
                   {{ end }}

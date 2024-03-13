@@ -6,7 +6,10 @@ description: >-
   materials or talk directly to our writers
 date: 2021-01-25T05:33:57.000Z
 images:
-  - /images/blogs/03.webp
+  - >-
+    /images/DALL·E 2024-03-13 14.02.42 - Create a logo for a tech startup named
+    'Nursing School Tutors.' The logo should feature a dark-pink color scheme
+    and include an animated cartoon nurse.webp
 tags:
   - 'NR-305: Health Assessment for the Practicing RN-Online class Help'
   - 'NR-305: Health Assessment for the Practicing RN-Online class Help'

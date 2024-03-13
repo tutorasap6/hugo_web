@@ -82,7 +82,8 @@ about_features:
       image: images/features/03.webp
     - title: >-
         Access to a range of online resources, including study guides, practice
-        exams, and other helpful materials to support your learning
+        exams, and other helpful materials for Online class help for your
+        learning
       image: images/features/04.webp
     - title: >-
         Improved understanding of nursing concepts and skills needed to succeed

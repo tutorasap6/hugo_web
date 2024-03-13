@@ -74,7 +74,7 @@ about_features:
       image: images/features/01.webp
     - title: >-
         Highly qualified and experienced nursing tutors who have extensive
-        knowledge and expertise in various nursing specialties
+        knowledge and expertise in Online Class Help in nursing specialties
       image: images/features/02.webp
     - title: >-
         One-on-one, group, and online tutoring sessions available to accommodate

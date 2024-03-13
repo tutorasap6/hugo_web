@@ -77,8 +77,8 @@ about_features:
         knowledge and expertise in Online Class Help in nursing specialties
       image: images/features/02.webp
     - title: >-
-        One-on-one, group, and online tutoring sessions available to accommodate
-        your schedule and preferences
+        One-on-one, group, and online class help and tutoring sessions available
+        to accommodate your schedule and preferences in nursing assignments.
       image: images/features/03.webp
     - title: >-
         Access to a range of online resources, including study guides, practice

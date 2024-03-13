@@ -17,12 +17,12 @@ about_info:
   title: PERFORMANCE
   heading: Our Performance Scorecard
   description: >-
-    As a company dedicated to helping students with challenging tasks and
-    assignments, we understand the importance of tracking and measuring our
-    performance. That’s why we have implemented a Performance Scorecard that
-    helps us to monitor our progress and evaluate our success in meeting our key
-    performance indicators (KPIs). Here are samples of grades for the past few
-    class that we have handled. 
+    As a Nursing School Tutor we're dedicated to helping students with
+    challenging Online class tasks and assignments, we understand the importance
+    of tracking and measuring our performance. That’s why we have implemented a
+    Performance Scorecard that helps us to monitor our progress and evaluate our
+    success in meeting our key performance indicators (KPIs). Here are samples
+    of grades for the past few class that we have handled. 
   image: images/feature-image.webp
 about_features:
   enable: true

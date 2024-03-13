@@ -87,7 +87,7 @@ about_features:
       image: images/features/04.webp
     - title: >-
         Improved understanding of nursing concepts and skills needed to succeed
-        in nursing courses
+        online class help in nursing courses
       image: images/features/04.webp
 ---
 

@@ -1,7 +1,7 @@
 ---
 banner:
   title: >-
-    Get an A for your Nursing Course. Our Nursing Professionals available to
+    Get an A for your Nursing Course. Hire Our Nursing Professionals Today for
     Help
   subtitle: >-
     Are you stuck with your nursing course tasks? Nursing School Tutor's Nursing

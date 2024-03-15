@@ -9,7 +9,10 @@ description: >-
   nursingschooltutors.com.
 date: 2021-02-03T10:56:47.000Z
 images:
-  - /images/blogs/03.webp
+  - >-
+    /images/DALL·E 2024-03-13 14.02.42 - Create a logo for a tech startup named
+    'Nursing School Tutors.' The logo should feature a dark-pink color scheme
+    and include an animated cartoon nurse.webp
 tags:
   - nr-340-critical-care-nursing-comprehensive-guide
   - nr-340-critical-care-nursing-comprehensive-guide

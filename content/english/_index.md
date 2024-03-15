@@ -1,6 +1,8 @@
 ---
 banner:
-  title: Get Your Nursing Course Done By Nursing Professionals to Get an A
+  title: >-
+    Get an A for your Nursing Course. Our Nursing Professionals available to
+    Help
   subtitle: >-
     Are you stuck with your nursing course tasks? Nursing School Tutor's Nursing
     professionals are here to help you. We offer Entire Online Class Help,

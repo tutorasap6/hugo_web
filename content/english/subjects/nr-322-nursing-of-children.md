@@ -1,7 +1,16 @@
 ---
 title: NR 322 Nursing of Children
 description: >-
-   Need assistance with an [NR 322 Nursing of Children](http://www.nursingschooltutors.com/) class assignment? Put away your search! We have a dedicated staff standing by to help you with any aspect of your course work. We provide expert assistance for [NR 322 Nursing of Children](http://www.nursingschooltutors.com/), whether you need help with the material, clarification of a topic, or direction on an assignment. Find the help you require to perform well in your courses and realize your full academic potential. Don't let the difficulty of your [NR 322 Nursing of Children](http://www.nursingschooltutors.com/) course assignments get in the way of your success.
+  Need assistance with an [NR 322 Nursing of
+  Children](http://www.nursingschooltutors.com/) class assignment? Put away your
+  search! We have a dedicated staff standing by to help you with any aspect of
+  your course work. We provide expert assistance for [NR 322 Nursing of
+  Children](http://www.nursingschooltutors.com/), whether you need help with the
+  material, clarification of a topic, or direction on an assignment. Find the
+  help you require to perform well in your courses and realize your full
+  academic potential. Don't let the difficulty of your [NR 322 Nursing of
+  Children](http://www.nursingschooltutors.com/) course assignments get in the
+  way of your success.
 date: 2024-02-06T15:56:19.000Z
 subject: NR 322 Nursing of Children
 ---
@@ -13,16 +22,16 @@ subject: NR 322 Nursing of Children
 3. [NR 322 Pediatric Nursing Overview](#nr-322-pediatric-nursing-overview)
 4. [Effective Pediatric Nursing Practices](#effective-pediatric-nursing-practices)
 5. [FAQs](#faqs)
-   - [Hirschsprung Disease](#hirschsprung-disease)
-   - [Crohn's Disease vs. Ulcerative Colitis](#crohns-disease-vs-ulcerative-colitis)
-   - [Management of Trauma in Children](#management-of-trauma-in-children)
-   - [Pyloric Stenosis](#pyloric-stenosis)
-   - [Intussusception](#intussusception)
-   - [Types of Hepatitis](#types-of-hepatitis)
-   - [Hydrocephalus](#hydrocephalus)
-   - [Acute Glomerulonephritis](#acute-glomerulonephritis)
-   - [Nephrotic Syndrome](#nephrotic-syndrome)
-   - [Appendicitis](#appendicitis)
+   * [Hirschsprung Disease](#hirschsprung-disease)
+   * [Crohn's Disease vs. Ulcerative Colitis](#crohns-disease-vs-ulcerative-colitis)
+   * [Management of Trauma in Children](#management-of-trauma-in-children)
+   * [Pyloric Stenosis](#pyloric-stenosis)
+   * [Intussusception](#intussusception)
+   * [Types of Hepatitis](#types-of-hepatitis)
+   * [Hydrocephalus](#hydrocephalus)
+   * [Acute Glomerulonephritis](#acute-glomerulonephritis)
+   * [Nephrotic Syndrome](#nephrotic-syndrome)
+   * [Appendicitis](#appendicitis)
 6. [Related Searches from Google](#related-searches-from-google)
 7. [Syllabus](#syllabus)
 
@@ -42,7 +51,6 @@ Students who successfully complete [NR 322 Nursing of Children](http://www.nursi
 
 ## FAQs
 
-
 **Hirschsprung Disease:**
 
 The lack of nerve cells in the muscles of a section of the colon is the defining feature of Hirschsprung disease, a congenital disorder. This causes intestinal blockage and makes defecation difficult. Enterocolitis (intestinal inflammation), colon perforation, and malnutrition are all possible complications. The diseased section of the colon is usually surgically removed as part of the treatment.
@@ -51,36 +59,29 @@ The lack of nerve cells in the muscles of a section of the colon is the defining
 
 Both Crohn's disease and ulcerative colitis cause chronic inflammation of the intestines, however these conditions are distinct in how and where their inflammation manifests. While ulcerative colitis primarily affects the colon and rectum, Crohn's disease can affect any portion of the GI tract. Abdominal pain, diarrhea, and a loss of appetite could all be symptoms. Medication, dietary changes, and sometimes surgery are used in an effort to reduce inflammation and control symptoms.
 
-
 **Management of Trauma in Children:**
 
 Management of pediatric trauma focuses on stabilization, maintenance of airway, breathing, and circulation, prevention of more harm, and alleviation of pain. Hematuria, flank pain, and abdominal bruises are all potential indicators of renal damage. The symptoms of cerebral trauma can range from mild to severe, and from one part of the brain to another. Immediate medical assessment and treatment is necessary.
-
 
 **Pyloric Stenosis:**
 
 Infants can develop a disorder called pyloric stenosis, which causes the pylorus (the passageway connecting the stomach and the small intestine) to become abnormally narrow. Dehydration, low weight gain, and violent vomiting are all possible outcomes of this constriction. Pyloromyotomy is a surgical treatment used to treat the condition. The treatment's main objective is to remove the blockage and avoid secondary problems including dehydration and electrolyte imbalances.
 
-
 **Intussusception** :
 
 When one section of the intestine twists around and folds into another section, it's called intussusception. Acute, excruciating stomach discomfort, vomiting, and bloody stools are possible symptoms. An enema can be used for nonsurgical reduction, however in severe situations surgery may be necessary. Bowel perforation and peritonitis can be avoided with prompt diagnosis and treatment.
-
 
 **Types of Hepatitis:**
 
 Hepatitis is a virus that can infect the liver, and there are many different kinds. Hepatitis A can be transmitted through consuming tainted food or drink, whereas Hepatitis B and C can be transmitted through contact with infected blood or other bodily fluids, or even through sexual intercourse. Depending on the severity, symptoms like weariness, jaundice, abdominal pain, and liver malfunction may be present. Complications can be managed and avoided with the use of vaccination, antiviral medicine, and supportive care.
 
-
 **Hydrocephalus:**
 
 Hydrocephalus is a disorder in which excess cerebrospinal fluid causes pressure on the brain. Surgery to implant a shunt to redirect fluid flow and reduce pressure is a common treatment. Care focuses on keeping an eye on symptoms, treating them when they arise, preventing infections and shunt malfunctions, and encouraging healthy brain growth.
 
-
 **Acute Glomerulonephritis:**
 
 Inflammation of the kidney's glomeruli is known as acute glomerulonephritis. Symptoms and signs may include blood in the urine, protein in the urine, swelling, and high blood pressure. The goals of treatment include the alleviation of symptoms, the regulation of blood pressure, and the avoidance of consequences such renal damage. Medication, dietary changes, and frequent testing of kidney function may all be part of the process.
-
 
 **Nephrotic Syndrome:**
 
@@ -92,12 +93,10 @@ Appendicitis is characterized by abdominal pain in the right lower quadrant, nau
 
 ## Related Searches from Google
 
-- **peds nursing final exam**
-
-- **pediatric nursing final exam questions**
-
-- **pediatric learning solutions answer key**
+* **[peds nursing final exam](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
+* **[pediatric nursing final exam questions](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
+* **[pediatric learning solutions answer key](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
 ## Syllabus
 
-[**NR 322 Exam Three Study Guide**](https://www.academicguider.com/devry/nr-322-exam-three-study-guide/)
+**[NR 322 Exam Three Study Guide](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**

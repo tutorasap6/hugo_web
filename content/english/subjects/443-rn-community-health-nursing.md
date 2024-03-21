@@ -117,6 +117,14 @@ Students [in NR 443 Week 1 Discussion](http://nursingschooltutors.com/) consider
 * NR 443 Week 7 Graded Discussion Topic: Healthcare Policy
 * NR 443 Week 8 Graded Discussion Topic: Future Directions
 
+NR 443 Week 1 Discussion 1 Healthy People 2020The federal government developed Healthy People as a set of national health objectives that are periodically evaluated to measure progress in the nation’s health goals and healthcare services. HP 2020 has a renewed focus on identifying, measuring, tracking, and reducing health disparities through a determinants-of-health approach. This week, please briefly discuss a Healthy People 2020 objective under the topic area of your choice. Go to www\.healthypeople.gov and select any one of the objectives under the topic area of your interest. Using the local, national, or international news, describe actions you, as a community health nurse, could take in formulating policy changes to help promote the objective you have selected. Cite references to support your views.
+
+
+NR 443 Week 1 Discussion 2 Determinants of Health
+
+Healthy People 2020 identified four Foundation Health Measures (FHM) that reflect the major health concerns in the United States. The third FHM isDeterminants of Health. The description of Determinants of Health is: A range of personal, social, economic, and environmental factors that influence health status are known as determinants of health. Determinants of health include such things as biology, genetics, individual behavior, access to health services, and the environment in which people are born, live, learn, play, work, and age (U.S. Department of Health and Human Services, n.d., About Determinants of Health section, para. 1).
+Go to the Learn More About Determinants of Health.............and choose one of the five Determinants of Health that you feel is most important for community health. In your posting, share the determinant of health and the rationale for your choice. Remember to cite any references used for developing your rationale.
+
 ## NR 443 Week 2 Assignment: Direct Care Project Part 1: Assessment and Diagnosis (Graded)
 
 [NR 443:2nd Week The goal of this assignment is to diagnose](http://www.nursingschooltutors.com/) and assess a specific health problem facing a local community. Students collect data, analyses the results, and rank the health care priorities of a certain population.

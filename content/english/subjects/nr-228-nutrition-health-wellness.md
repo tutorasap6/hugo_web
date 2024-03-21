@@ -138,7 +138,7 @@ Answer: A balanced diet includes a variety of nutritious foods gives the most mi
 
 Answer: A college student with disordered eating habits eats one little meal a day and takes large quantities of vitamin and mineral supplements to lose weight. Disordered eating includes restricted, binge, and purge habits that may not be classified as eating disorders but can nonetheless harm physical and mental health. Healthcare providers should help disordered eaters develop healthy eating habits.
 
-## Related Searches From Google
+## Other Searches 
 
 * week 5 rua nutritional assessment
 

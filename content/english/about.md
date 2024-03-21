@@ -8,7 +8,17 @@ about_us:
   image: /images/about-image.webp
   title: Our mission is to help you improve your grades
   subtitle: About Us
-  content: Online Nursing Assignment Help-Nursing school tutors
+  content: >-
+    Online Nursing Assignment Help-Nursing school tutors:  What
+    NursingSchoolTutors.com Is About  At NursingSchoolTutors.com, we have one
+    important goal: to give nursing students the tools they need to do well in
+    school and build a culture of success and confidence in their future jobs.
+    As a guide, our platform is there for all nursing students, from the nervous
+    freshman just starting out in the field to the experienced senior studying
+    for their final tests and getting their license. We know the unique problems
+    you face, like the long lists of things you have to learn, the hard tests,
+    the clinical standards, and most of all, the pressure to do well in a field
+    where your future job will depend on other people's health.
 facts:
   enable: true
   fact_item:

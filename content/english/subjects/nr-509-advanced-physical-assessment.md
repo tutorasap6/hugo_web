@@ -1,90 +1,96 @@
 ---
 title: NR 509 Advanced Physical Assessment
 description: >-
-   In need of assistance with your [NR 509 Advanced Physical Assessment](http://www.nursingschooltutors.com/) classwork? We provide dependable support and have the necessary skills to complete your classwork. Let our team of experts handle the workload so you can concentrate on other important tasks. We've got you covered with regards to all of your classwork, including assignments and conversations. Avoid letting the pressure of your homework get to you. You may rely on us to produce excellent work and to assist you in succeeding in [NR 509 Advanced Physical Assessment](http://www.nursingschooltutors.com/). Get in touch with us right now and let us handle your schoolwork for you.
+  In need of assistance with your [NR 509 Advanced Physical
+  Assessment](http://www.nursingschooltutors.com/) classwork? We provide
+  dependable support and have the necessary skills to complete your classwork.
+  Let our team of experts handle the workload so you can concentrate on other
+  important tasks. We've got you covered with regards to all of your classwork,
+  including assignments and conversations. Avoid letting the pressure of your
+  homework get to you. You may rely on us to produce excellent work and to
+  assist you in succeeding in [NR 509 Advanced Physical
+  Assessment](http://www.nursingschooltutors.com/). Get in touch with us right
+  now and let us handle your schoolwork for you.
 date: 2024-02-06T15:56:19.000Z
 subject: NR 509 Advanced Physical Assessment
 ---
 
 **Table of Content**
 
-
-- [NR 509 Advanced Physical Assessment: Mastering the Art of Health Evaluation: Comprehensive Support for Your Coursework](#nr-509-advanced-physical-assessment-mastering-the-art-of-health-evaluation-comprehensive-support-for-your-coursework)
-- [NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System:](#nr-509-week-6-alternative-writing-assignment-for-week-5--the-gastrointestinal-system)
-- [NR 509 Coursework Week 1 – 8:](#nr-509-coursework-week-1--8)
-- [NR 509 Debriefing Assignment of Shadow Health Week 1, Week 4 (Week 2 – 5):](#nr-509-debriefing-assignment-of-shadow-health-week-1-week-4-week-2--5)
-- [NR 509 Alternative Writing Assignment for Week 1 – 6 (Week 2 – 7):](#nr-509-alternative-writing-assignment-for-week-1--6-week-2--7)
-- [NR 509 Midweek Comprehension Quiz Week 1 – 8 (Collection):](#nr-509-midweek-comprehension-quiz-week-1--8-collection)
-- [NR 509 Week 1 Midweek Comprehension Quiz (Collection):](#nr-509-week-1-midweek-comprehension-quiz-collection)
-- [NR 509 Week 2 Alternative Writing, Debriefing Assignment, Midweek Comprehension QUIZ, (Bundle):](#nr-509-week-2-alternative-writing-debriefing-assignment-midweek-comprehension-quiz-bundle)
-- [NR 509 Week 2 Alternative Writing Assignment for Week 1 (Collection):](#nr-509-week-2-alternative-writing-assignment-for-week-1-collection)
-- [NR 509 Week 2 Debriefing Assignment of Shadow Health Week 1 (Collection):](#nr-509-week-2-debriefing-assignment-of-shadow-health-week-1-collection)
-- [NR 509 Week 2 Midweek Comprehension Quiz (Collection):](#nr-509-week-2-midweek-comprehension-quiz-collection)
-- [NR 509 Week 3 Alternate Writing Assignment, Midweek Comprehension Quiz (Bundle):](#nr-509-week-3-alternate-writing-assignment-midweek-comprehension-quiz-bundle)
-- [NR 509 Week 3 Alternate Writing Assignment for Week 2 (Multiple Versions):](#nr-509-week-3-alternate-writing-assignment-for-week-2-multiple-versions)
-- [NR 509 Week 3 Midweek Comprehension Quiz (Collection):](#nr-509-week-3-midweek-comprehension-quiz-collection)
-- [NR 509 Week 4 Midterm Exam – Requires Responds Lockdown Browser + Webcam:](#nr-509-week-4-midterm-exam--requires-responds-lockdown-browser--webcam)
-- [NR 509 Week 4 Midterm Study Guide (Collection):](#nr-509-week-4-midterm-study-guide-collection)
-- [NR 509 Week 4 Alternative Writing Assignment for Week 3 (Multiple Versions):](#nr-509-week-4-alternative-writing-assignment-for-week-3-multiple-versions)
-- [NR 509 Week 4 Midweek Comprehension Quiz (Collection):](#nr-509-week-4-midweek-comprehension-quiz-collection)
-- [NR 509 Week 5 Alternative Writing Assignment for Week 4:](#nr-509-week-5-alternative-writing-assignment-for-week-4)
-- [NR 509 Week 5 Debriefing Assignment of Shadow Health Week 4 – Nervous System (2 Versions):](#nr-509-week-5-debriefing-assignment-of-shadow-health-week-4--nervous-system-2-versions)
-- [NR 509 Week 5 Midweek Comprehension Quiz (Collection):](#nr-509-week-5-midweek-comprehension-quiz-collection)
-- [NR 509 Week 6 Assignments, Midweek Comprehension QUIZ (Bundle):](#nr-509-week-6-assignments-midweek-comprehension-quiz-bundle)
-- [NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System:](#nr-509-week-6-alternative-writing-assignment-for-week-5--the-gastrointestinal-system-1)
-- [NR 509 Week 6 Midweek Comprehension QUIZ (Collection):](#nr-509-week-6-midweek-comprehension-quiz-collection)
-- [NR 509 Week 7 Assignments, Physical Exam, Midweek Comprehension Quiz (Bundle):](#nr-509-week-7-assignments-physical-exam-midweek-comprehension-quiz-bundle)
-- [NR 509 Week 7 and Immersion: Midweek Comprehension QUIZ:](#nr-509-week-7-and-immersion-midweek-comprehension-quiz)
-- [NR 509 Week 7 Alternative Writing Assignment for Week 6: Mental Health Assessment (2 Versions):](#nr-509-week-7-alternative-writing-assignment-for-week-6-mental-health-assessment-2-versions)
-- [NR 509 Week 7 Assignment Physical Exam (Multiple Versions):](#nr-509-week-7-assignment-physical-exam-multiple-versions)
-- [NR 509 Week 7 Assignment Physical Exam (Q\&A):](#nr-509-week-7-assignment-physical-exam-qa)
-- [NR 509 Week 8 Final Exam – Requires Responds Lockdown Browser + Webcam:](#nr-509-week-8-final-exam--requires-responds-lockdown-browser--webcam)
-- [NR 509 Week 8 Final Exam Study Guide (Collection):](#nr-509-week-8-final-exam-study-guide-collection)
-- [NR 509 Week 8 Midweek Comprehension QUIZ (Collection):](#nr-509-week-8-midweek-comprehension-quiz-collection)
-- [NR 509 Week 8 APEA 3P Exam (Practice Q \& A):](#nr-509-week-8-apea-3p-exam-practice-q--a)
-- [NR 509 Week 8 Reflection: Personal Improvement Strategy (2 Variants):](#nr-509-week-8-reflection-personal-improvement-strategy-2-variants)
-- [NR 509 Week 1 Shadow Health Assessment Assignment, Midweek Comprehension Quiz, SOAP Note Template, Notes-Readings (Bundle):](#nr-509-week-1-shadow-health-assessment-assignment-midweek-comprehension-quiz-soap-note-template-notes-readings-bundle)
-- [NR 509 Shadow Health Assignments (Complete Week 1-7):](#nr-509-shadow-health-assignments-complete-week-1-7)
-- [NR 509 SOAP Notes (Weeks 1 – 7):](#nr-509-soap-notes-weeks-1--7)
-- [NR 509 Shadow Health Physical Assessment Assignments Weeks 1, 2, 3, and 4:](#nr-509-shadow-health-physical-assessment-assignments-weeks-1-2-3-and-4)
-- [NR 509 Shadow Health Physical Assessment Assignments Weeks 5, 6, and 7:](#nr-509-shadow-health-physical-assessment-assignments-weeks-5-6-and-7)
-- [NR 509 Shadow Health REVIEW QUESTIONS:](#nr-509-shadow-health-review-questions)
-- [NR 509 Week 1 Shadow Health Assessment Assignment (Multiple Versions):](#nr-509-week-1-shadow-health-assessment-assignment-multiple-versions)
-- [NR 509 Week 1 Health History SOAP Note (Multiple Versions):](#nr-509-week-1-health-history-soap-note-multiple-versions)
-- [NR 509 Week 2 Shadow Health Respiratory Assessment Assignment (Multiple Versions):](#nr-509-week-2-shadow-health-respiratory-assessment-assignment-multiple-versions)
-- [NR 509 Week 2 Shadow Health HEENT Physical Assessment Assignment:](#nr-509-week-2-shadow-health-heent-physical-assessment-assignment)
-- [NR 509 Week 2 SOAP Note Template (Multiple Versions):](#nr-509-week-2-soap-note-template-multiple-versions)
-- [NR 509 Week 2 Shadow Health Assignments, Week 2 Quiz, 3P Week 8 Exam:](#nr-509-week-2-shadow-health-assignments-week-2-quiz-3p-week-8-exam)
-- [NR 509 Week 3 Shadow Health Musculoskeletal Physical Assessment Assignment:](#nr-509-week-3-shadow-health-musculoskeletal-physical-assessment-assignment)
-- [NR 509 Week 3 Shadow Health Neurological Physical Assessment Assignment:](#nr-509-week-3-shadow-health-neurological-physical-assessment-assignment)
-- [NR 509 Week 3 Neurology SOAP Note (2 Versions):](#nr-509-week-3-neurology-soap-note-2-versions)
-- [NR 509 Week 3 Musculoskeletal plus Neuro Quiz:](#nr-509-week-3-musculoskeletal-plus-neuro-quiz)
-- [NR 509 Week 4 Quiz:](#nr-509-week-4-quiz)
-- [NR 509 Week 4 Shadow Health Cardiovascular Physical Assessment Assignment:](#nr-509-week-4-shadow-health-cardiovascular-physical-assessment-assignment)
-- [NR 509 Week 4 Shadow Health Chest Pain Physical Assessment Assignment:](#nr-509-week-4-shadow-health-chest-pain-physical-assessment-assignment)
-- [NR 509 Week 4 Cardiovascular SOAP Note:](#nr-509-week-4-cardiovascular-soap-note)
-- [NR 509 Week 4 Chest Pain SOAP Note (2 Versions):](#nr-509-week-4-chest-pain-soap-note-2-versions)
-- [NR 509 Week 5 Shadow Health Gastrointestinal Physical Assessment Assignment:](#nr-509-week-5-shadow-health-gastrointestinal-physical-assessment-assignment)
-- [NR 509 Week 5 Shadow Health Focused Exam: Abdominal Pain Assignment:](#nr-509-week-5-shadow-health-focused-exam-abdominal-pain-assignment)
-- [NR 509 Week 5 Abdominal Pain SOAP Note:](#nr-509-week-5-abdominal-pain-soap-note)
-- [NR 509 Week 5 Quiz:](#nr-509-week-5-quiz)
-- [NR 509 Week 6 Shadow Health Pediatric Physical Assessment Assignment:](#nr-509-week-6-shadow-health-pediatric-physical-assessment-assignment)
-- [NR 509 Week 6 Shadow Health Mental Health Physical Assessment Assignment:](#nr-509-week-6-shadow-health-mental-health-physical-assessment-assignment)
-- [NR 509 Week 6 Cough SOAP Note:](#nr-509-week-6-cough-soap-note)
-- [NR 509 Week 6 Pediatric SOAP Note:](#nr-509-week-6-pediatric-soap-note)
-- [NR 509 Week 7 Shadow Health Focused Exam Case: Cough:](#nr-509-week-7-shadow-health-focused-exam-case-cough)
-- [NR 509 Week 7 Shadow Health Comprehensive Assessment:](#nr-509-week-7-shadow-health-comprehensive-assessment)
-- [NR 509 Week 7 Cough SOAP Note:](#nr-509-week-7-cough-soap-note)
-- [NR 509 Week 7 Comprehensive SOAP Note:](#nr-509-week-7-comprehensive-soap-note)
-- [NR 509 Week 8 Shadow Health Focused Exam Case: Chest Pain:](#nr-509-week-8-shadow-health-focused-exam-case-chest-pain)
-- [NR 509 Week 8 Shadow Health Comprehensive Assessment:](#nr-509-week-8-shadow-health-comprehensive-assessment)
-- [NR 509 Week 8 Chest Pain SOAP Note:](#nr-509-week-8-chest-pain-soap-note)
-- [NR 509 Week 8 Comprehensive SOAP Note:](#nr-509-week-8-comprehensive-soap-note)
-- [FAQs](#faqs)
-- [Related Searches From Google](#related-searches-from-google)
-- [Syllabus](#syllabus)
-
-
+* [NR 509 Advanced Physical Assessment: Mastering the Art of Health Evaluation: Comprehensive Support for Your Coursework](#nr-509-advanced-physical-assessment-mastering-the-art-of-health-evaluation-comprehensive-support-for-your-coursework)
+* [NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System:](#nr-509-week-6-alternative-writing-assignment-for-week-5--the-gastrointestinal-system)
+* [NR 509 Coursework Week 1 – 8:](#nr-509-coursework-week-1--8)
+* [NR 509 Debriefing Assignment of Shadow Health Week 1, Week 4 (Week 2 – 5):](#nr-509-debriefing-assignment-of-shadow-health-week-1-week-4-week-2--5)
+* [NR 509 Alternative Writing Assignment for Week 1 – 6 (Week 2 – 7):](#nr-509-alternative-writing-assignment-for-week-1--6-week-2--7)
+* [NR 509 Midweek Comprehension Quiz Week 1 – 8 (Collection):](#nr-509-midweek-comprehension-quiz-week-1--8-collection)
+* [NR 509 Week 1 Midweek Comprehension Quiz (Collection):](#nr-509-week-1-midweek-comprehension-quiz-collection)
+* [NR 509 Week 2 Alternative Writing, Debriefing Assignment, Midweek Comprehension QUIZ, (Bundle):](#nr-509-week-2-alternative-writing-debriefing-assignment-midweek-comprehension-quiz-bundle)
+* [NR 509 Week 2 Alternative Writing Assignment for Week 1 (Collection):](#nr-509-week-2-alternative-writing-assignment-for-week-1-collection)
+* [NR 509 Week 2 Debriefing Assignment of Shadow Health Week 1 (Collection):](#nr-509-week-2-debriefing-assignment-of-shadow-health-week-1-collection)
+* [NR 509 Week 2 Midweek Comprehension Quiz (Collection):](#nr-509-week-2-midweek-comprehension-quiz-collection)
+* [NR 509 Week 3 Alternate Writing Assignment, Midweek Comprehension Quiz (Bundle):](#nr-509-week-3-alternate-writing-assignment-midweek-comprehension-quiz-bundle)
+* [NR 509 Week 3 Alternate Writing Assignment for Week 2 (Multiple Versions):](#nr-509-week-3-alternate-writing-assignment-for-week-2-multiple-versions)
+* [NR 509 Week 3 Midweek Comprehension Quiz (Collection):](#nr-509-week-3-midweek-comprehension-quiz-collection)
+* [NR 509 Week 4 Midterm Exam – Requires Responds Lockdown Browser + Webcam:](#nr-509-week-4-midterm-exam--requires-responds-lockdown-browser--webcam)
+* [NR 509 Week 4 Midterm Study Guide (Collection):](#nr-509-week-4-midterm-study-guide-collection)
+* [NR 509 Week 4 Alternative Writing Assignment for Week 3 (Multiple Versions):](#nr-509-week-4-alternative-writing-assignment-for-week-3-multiple-versions)
+* [NR 509 Week 4 Midweek Comprehension Quiz (Collection):](#nr-509-week-4-midweek-comprehension-quiz-collection)
+* [NR 509 Week 5 Alternative Writing Assignment for Week 4:](#nr-509-week-5-alternative-writing-assignment-for-week-4)
+* [NR 509 Week 5 Debriefing Assignment of Shadow Health Week 4 – Nervous System (2 Versions):](#nr-509-week-5-debriefing-assignment-of-shadow-health-week-4--nervous-system-2-versions)
+* [NR 509 Week 5 Midweek Comprehension Quiz (Collection):](#nr-509-week-5-midweek-comprehension-quiz-collection)
+* [NR 509 Week 6 Assignments, Midweek Comprehension QUIZ (Bundle):](#nr-509-week-6-assignments-midweek-comprehension-quiz-bundle)
+* [NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System:](#nr-509-week-6-alternative-writing-assignment-for-week-5--the-gastrointestinal-system-1)
+* [NR 509 Week 6 Midweek Comprehension QUIZ (Collection):](#nr-509-week-6-midweek-comprehension-quiz-collection)
+* [NR 509 Week 7 Assignments, Physical Exam, Midweek Comprehension Quiz (Bundle):](#nr-509-week-7-assignments-physical-exam-midweek-comprehension-quiz-bundle)
+* [NR 509 Week 7 and Immersion: Midweek Comprehension QUIZ:](#nr-509-week-7-and-immersion-midweek-comprehension-quiz)
+* [NR 509 Week 7 Alternative Writing Assignment for Week 6: Mental Health Assessment (2 Versions):](#nr-509-week-7-alternative-writing-assignment-for-week-6-mental-health-assessment-2-versions)
+* [NR 509 Week 7 Assignment Physical Exam (Multiple Versions):](#nr-509-week-7-assignment-physical-exam-multiple-versions)
+* [NR 509 Week 7 Assignment Physical Exam (Q\&A):](#nr-509-week-7-assignment-physical-exam-qa)
+* [NR 509 Week 8 Final Exam – Requires Responds Lockdown Browser + Webcam:](#nr-509-week-8-final-exam--requires-responds-lockdown-browser--webcam)
+* [NR 509 Week 8 Final Exam Study Guide (Collection):](#nr-509-week-8-final-exam-study-guide-collection)
+* [NR 509 Week 8 Midweek Comprehension QUIZ (Collection):](#nr-509-week-8-midweek-comprehension-quiz-collection)
+* [NR 509 Week 8 APEA 3P Exam (Practice Q & A):](#nr-509-week-8-apea-3p-exam-practice-q--a)
+* [NR 509 Week 8 Reflection: Personal Improvement Strategy (2 Variants):](#nr-509-week-8-reflection-personal-improvement-strategy-2-variants)
+* [NR 509 Week 1 Shadow Health Assessment Assignment, Midweek Comprehension Quiz, SOAP Note Template, Notes-Readings (Bundle):](#nr-509-week-1-shadow-health-assessment-assignment-midweek-comprehension-quiz-soap-note-template-notes-readings-bundle)
+* [NR 509 Shadow Health Assignments (Complete Week 1-7):](#nr-509-shadow-health-assignments-complete-week-1-7)
+* [NR 509 SOAP Notes (Weeks 1 – 7):](#nr-509-soap-notes-weeks-1--7)
+* [NR 509 Shadow Health Physical Assessment Assignments Weeks 1, 2, 3, and 4:](#nr-509-shadow-health-physical-assessment-assignments-weeks-1-2-3-and-4)
+* [NR 509 Shadow Health Physical Assessment Assignments Weeks 5, 6, and 7:](#nr-509-shadow-health-physical-assessment-assignments-weeks-5-6-and-7)
+* [NR 509 Shadow Health REVIEW QUESTIONS:](#nr-509-shadow-health-review-questions)
+* [NR 509 Week 1 Shadow Health Assessment Assignment (Multiple Versions):](#nr-509-week-1-shadow-health-assessment-assignment-multiple-versions)
+* [NR 509 Week 1 Health History SOAP Note (Multiple Versions):](#nr-509-week-1-health-history-soap-note-multiple-versions)
+* [NR 509 Week 2 Shadow Health Respiratory Assessment Assignment (Multiple Versions):](#nr-509-week-2-shadow-health-respiratory-assessment-assignment-multiple-versions)
+* [NR 509 Week 2 Shadow Health HEENT Physical Assessment Assignment:](#nr-509-week-2-shadow-health-heent-physical-assessment-assignment)
+* [NR 509 Week 2 SOAP Note Template (Multiple Versions):](#nr-509-week-2-soap-note-template-multiple-versions)
+* [NR 509 Week 2 Shadow Health Assignments, Week 2 Quiz, 3P Week 8 Exam:](#nr-509-week-2-shadow-health-assignments-week-2-quiz-3p-week-8-exam)
+* [NR 509 Week 3 Shadow Health Musculoskeletal Physical Assessment Assignment:](#nr-509-week-3-shadow-health-musculoskeletal-physical-assessment-assignment)
+* [NR 509 Week 3 Shadow Health Neurological Physical Assessment Assignment:](#nr-509-week-3-shadow-health-neurological-physical-assessment-assignment)
+* [NR 509 Week 3 Neurology SOAP Note (2 Versions):](#nr-509-week-3-neurology-soap-note-2-versions)
+* [NR 509 Week 3 Musculoskeletal plus Neuro Quiz:](#nr-509-week-3-musculoskeletal-plus-neuro-quiz)
+* [NR 509 Week 4 Quiz:](#nr-509-week-4-quiz)
+* [NR 509 Week 4 Shadow Health Cardiovascular Physical Assessment Assignment:](#nr-509-week-4-shadow-health-cardiovascular-physical-assessment-assignment)
+* [NR 509 Week 4 Shadow Health Chest Pain Physical Assessment Assignment:](#nr-509-week-4-shadow-health-chest-pain-physical-assessment-assignment)
+* [NR 509 Week 4 Cardiovascular SOAP Note:](#nr-509-week-4-cardiovascular-soap-note)
+* [NR 509 Week 4 Chest Pain SOAP Note (2 Versions):](#nr-509-week-4-chest-pain-soap-note-2-versions)
+* [NR 509 Week 5 Shadow Health Gastrointestinal Physical Assessment Assignment:](#nr-509-week-5-shadow-health-gastrointestinal-physical-assessment-assignment)
+* [NR 509 Week 5 Shadow Health Focused Exam: Abdominal Pain Assignment:](#nr-509-week-5-shadow-health-focused-exam-abdominal-pain-assignment)
+* [NR 509 Week 5 Abdominal Pain SOAP Note:](#nr-509-week-5-abdominal-pain-soap-note)
+* [NR 509 Week 5 Quiz:](#nr-509-week-5-quiz)
+* [NR 509 Week 6 Shadow Health Pediatric Physical Assessment Assignment:](#nr-509-week-6-shadow-health-pediatric-physical-assessment-assignment)
+* [NR 509 Week 6 Shadow Health Mental Health Physical Assessment Assignment:](#nr-509-week-6-shadow-health-mental-health-physical-assessment-assignment)
+* [NR 509 Week 6 Cough SOAP Note:](#nr-509-week-6-cough-soap-note)
+* [NR 509 Week 6 Pediatric SOAP Note:](#nr-509-week-6-pediatric-soap-note)
+* [NR 509 Week 7 Shadow Health Focused Exam Case: Cough:](#nr-509-week-7-shadow-health-focused-exam-case-cough)
+* [NR 509 Week 7 Shadow Health Comprehensive Assessment:](#nr-509-week-7-shadow-health-comprehensive-assessment)
+* [NR 509 Week 7 Cough SOAP Note:](#nr-509-week-7-cough-soap-note)
+* [NR 509 Week 7 Comprehensive SOAP Note:](#nr-509-week-7-comprehensive-soap-note)
+* [NR 509 Week 8 Shadow Health Focused Exam Case: Chest Pain:](#nr-509-week-8-shadow-health-focused-exam-case-chest-pain)
+* [NR 509 Week 8 Shadow Health Comprehensive Assessment:](#nr-509-week-8-shadow-health-comprehensive-assessment)
+* [NR 509 Week 8 Chest Pain SOAP Note:](#nr-509-week-8-chest-pain-soap-note)
+* [NR 509 Week 8 Comprehensive SOAP Note:](#nr-509-week-8-comprehensive-soap-note)
+* [FAQs](#faqs)
+* [Related Searches From Google](#related-searches-from-google)
+* [Syllabus](#syllabus)
 
 ## NR 509 Advanced Physical Assessment: Mastering the Art of Health Evaluation: Comprehensive Support for Your Coursework
 
@@ -164,7 +170,7 @@ Participate in the writing challenge for [NR 509 Week 4](http://www.nursingschoo
 
 The questions in this quiz are designed to test your knowledge of the material covered in [NR 509 Week 4](http://www.nursingschooltutors.com/), which you should use this opportunity to review.
 
-**NR 509 Week 5 Alternative Writing and Debriefing Assignments, Midweek Comprehension**** Quiz (Bundle):**
+**NR 509 Week 5 Alternative Writing and Debriefing Assignments, Midweek Comprehension**\*\* Quiz (Bundle):\*\*
 
 Your immersion into [NR 509 Week 5](http://www.nursingschooltutors.com/) will be complete once you have completed the whole package of writing tasks, debriefing activities, and quizzes.
 
@@ -208,7 +214,7 @@ By completing the writing assignments specifically designed for [NR 509 Week 7](
 
 Utilizing the various iterations of the [NR 509 week 7 assignments](http://www.nursingschooltutors.com/), hone your skills in performing physical examinations.
 
-## NR 509 Week 7 Assignment Physical Exam (Q&A):
+## NR 509 Week 7 Assignment Physical Exam (Q\&A):
 
 The interactive question and answer sessions of [NR 509 Week 7](http://www.nursingschooltutors.com/) will help you become an expert in the art of physical examination.
 
@@ -434,184 +440,180 @@ Percussing solid tissue or muscle produces a flat sound.
 
 The FNP uses percussion sounds to determine abdominal organ size, density, position, and fluid, air, or solid masses.
 
-
-
 ## Related Searches From Google
 
-- nr 509 syllabus
-
-- nr 509 week 1 midweek comprehension quiz
-
-- bates guide to physical examination study guide
+* nr 509 syllabus
+* nr 509 week 1 midweek comprehension quiz
+* bates guide to physical examination study guide
 
 ## Syllabus
 
-[NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System](https://www.academicguider.com/devry/nr-509-week-6-alternative-writing-assignment-abdomen/)
+[NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[**NR 509 Coursework Week 1 – 8**](https://www.academicguider.com/devry/nr-509-coursework/)
+**[NR 509 Coursework Week 1 – 8](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Debriefing Assignment of Shadow Health Week 1, Week 4 (Week 2 – 5)**](https://www.academicguider.com/devry/nr-509-debriefing-assignment/)
+**[NR 509 Debriefing Assignment of Shadow Health Week 1, Week 4 (Week 2 – 5)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Alternative Writing Assignment for Week 1 – 6 (Week 2 – 7)**](https://www.academicguider.com/devry/nr-509-alternative-writing-assignments/)
+**[NR 509 Alternative Writing Assignment for Week 1 – 6 (Week 2 – 7)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Midweek Comprehension Quiz Week 1 – 8 (Collection)**](https://www.academicguider.com/devry/nr-509-midweek-comprehension-quizzes/)
+**[NR 509 Midweek Comprehension Quiz Week 1 – 8 (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 1 Midweek Comprehension Quiz (Collection)**](https://www.academicguider.com/devry/nr-509-week-1-midweek-comprehension-quiz/)
+**[NR 509 Week 1 Midweek Comprehension Quiz (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Alternative Writing, Debriefing Assignment, Midweek Comprehension QUIZ, (Bundle)**](https://www.academicguider.com/devry/nr-509-week-2-assignments-plus-quiz/)
+**[NR 509 Week 2 Alternative Writing, Debriefing Assignment, Midweek Comprehension QUIZ, (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Alternative Writing Assignment for Week 1 (Collection)**](https://www.academicguider.com/devry/nr-509-week-2-alternate-writing-assignment-respiratory/)
+**[NR 509 Week 2 Alternative Writing Assignment for Week 1 (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Debriefing Assignment of Shadow Health Week 1 (Collection)**](https://www.academicguider.com/devry/nr-509-week-2-debriefing-assignment/)
+**[NR 509 Week 2 Debriefing Assignment of Shadow Health Week 1 (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Midweek Comprehension Quiz (Collection)**](https://www.academicguider.com/devry/nr-509-week-2-midweek-comprehension-quiz/)
+**[NR 509 Week 2 Midweek Comprehension Quiz (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Alternate Writing Assignment, Midweek Comprehension Quiz (Bundle)**](https://www.academicguider.com/devry/nr-509-week-3-assignments-plus-quiz/)
+**[NR 509 Week 3 Alternate Writing Assignment, Midweek Comprehension Quiz (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Alternate Writing Assignment for Week 2 (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-week-3-alternate-writing-assignment/)
+**[NR 509 Week 3 Alternate Writing Assignment for Week 2 (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Midweek Comprehension Quiz (Collection)**](https://www.academicguider.com/devry/nr-509-week-3-midweek-comprehension-quiz/)
+**[NR 509 Week 3 Midweek Comprehension Quiz (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Alternative Writing Assignment, Midweek Comprehension Quiz, Midterm Study Guide (Bundle)**](https://www.academicguider.com/devry/nr-509-week-4/)
+**[NR 509 Week 4 Alternative Writing Assignment, Midweek Comprehension Quiz, Midterm Study Guide (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Midterm Exam – Requires Responds Lockdown Browser + Webcam**](https://www.academicguider.com/devry/nr-509-week-4-midterm/)
+**[NR 509 Week 4 Midterm Exam – Requires Responds Lockdown Browser + Webcam](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Midterm Study Guide (Collection)**](https://www.academicguider.com/devry/nr-509-week-4-midterm-study-guide/)
+**[NR 509 Week 4 Midterm Study Guide (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Alternative Writing Assignment for Week 3 (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-week-4-alternative-writing-assignment/)
+**[NR 509 Week 4 Alternative Writing Assignment for Week 3 (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Midweek Comprehension Quiz (Collection)**](https://www.academicguider.com/devry/nr-509-week-4-midweek-comprehension-quiz/)
+**[NR 509 Week 4 Midweek Comprehension Quiz (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Alternative Writing and Debriefing Assignments, Midweek Comprehension Quiz (Bundle)**](https://www.academicguider.com/devry/nr-509-week-5/)
+**[NR 509 Week 5 Alternative Writing and Debriefing Assignments, Midweek Comprehension Quiz (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Alternative Writing Assignment for Week 4**](https://www.academicguider.com/devry/nr-509-week-5-alternative-writing-assignment-for-week-4/)
+**[NR 509 Week 5 Alternative Writing Assignment for Week 4](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Debriefing Assignment of Shadow Health Week 4 – Nervous System (2 Versions)**](https://www.academicguider.com/devry/nr-509-week-5-debriefing-assignment/)
+**[NR 509 Week 5 Debriefing Assignment of Shadow Health Week 4 – Nervous System (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Midweek Comprehension Quiz (Collection)**](https://www.academicguider.com/devry/nr-509-week-5-midweek-comprehension-quiz/)
+**[NR 509 Week 5 Midweek Comprehension Quiz (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Assignments, Midweek Comprehension QUIZ (Bundle)**](https://www.academicguider.com/devry/nr-509-week-6/)
+**[NR 509 Week 6 Assignments, Midweek Comprehension QUIZ (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System**](https://www.academicguider.com/devry/nr-509-week-6-alternative-writing-assignment-abdomen/)
+**[NR 509 Week 6 Alternative Writing Assignment for Week 5 – The Gastrointestinal System](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Midweek Comprehension QUIZ (Collection)**](https://www.academicguider.com/devry/nr-509-week-6-quiz/)
+**[NR 509 Week 6 Midweek Comprehension QUIZ (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Assignments, Physical Exam, Midweek Comprehension Quiz (Bundle)**](https://www.academicguider.com/devry/nr-509-week-7/)
+**[NR 509 Week 7 Assignments, Physical Exam, Midweek Comprehension Quiz (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 and Immersion: Midweek Comprehension QUIZ**](https://www.academicguider.com/devry/nr-509-week-7-quiz/)
+**[NR 509 Week 7 and Immersion: Midweek Comprehension QUIZ](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Alternative Writing Assignment for Week 6: Mental Health Assessment (2 Versions)**](https://www.academicguider.com/devry/nr-509-week-7-alternative-writing-assignment/)
+**[NR 509 Week 7 Alternative Writing Assignment for Week 6: Mental Health Assessment (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Assignment Physical Exam (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-week-7-assignment-physical-exam/)
+**[NR 509 Week 7 Assignment Physical Exam (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Assignment Physical Exam (Q&A)**](https://www.academicguider.com/devry/nr-509-week-7-immersion/)
+**[NR 509 Week 7 Assignment Physical Exam (Q\&A)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 8 Final Exam – Requires Responds Lockdown Browser + Webcam**](https://www.academicguider.com/devry/nr-509-week-8-final-exam-requires-respondus-lockdown-browser-webcam/)
+**[NR 509 Week 8 Final Exam – Requires Responds Lockdown Browser + Webcam](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 8 Final Exam Study Guide (Collection)**](https://www.academicguider.com/devry/nr-509-week-8-final-exam-study-guide-collection/)
+**[NR 509 Week 8 Final Exam Study Guide (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 8 Midweek Comprehension QUIZ (Collection)**](https://www.academicguider.com/devry/nr-509-week-8-midweek-comprehension-quiz/)
+**[NR 509 Week 8 Midweek Comprehension QUIZ (Collection)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 8 APEA 3P Exam (Practice Q & A)**](https://www.academicguider.com/devry/nr-509-week-8-apea-3p-exam/)
+**[NR 509 Week 8 APEA 3P Exam (Practice Q & A)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 8 Reflection: Personal Improvement Strategy (2 Variants)**](https://www.academicguider.com/devry/nr-509-week-8-summary-reflection-post/)
+**[NR 509 Week 8 Reflection: Personal Improvement Strategy (2 Variants)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 1 Shadow Health Assessment Assignment, Midweek Comprehension Quiz, SOAP Note Template, Notes-Readings (Bundle)**](https://www.academicguider.com/devry/nr-509-week-1-assignments-plus-quiz/)
+**[NR 509 Week 1 Shadow Health Assessment Assignment, Midweek Comprehension Quiz, SOAP Note Template, Notes-Readings (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Shadow Health Assignments (Complete Week 1-7)**](https://www.academicguider.com/devry/nr-509-shadow-health-assignments/)
+**[NR 509 Shadow Health Assignments (Complete Week 1-7)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 SOAP Notes (Weeks 1 – 7)**](https://www.academicguider.com/devry/nr-509-soap-note/)
+**[NR 509 SOAP Notes (Weeks 1 – 7)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Shadow Health Physical Assessment Assignments Weeks 1, 2, 3 and 4**](https://www.academicguider.com/devry/nr-509-shadow-health-physical-assessment-assignments/)
+**[NR 509 Shadow Health Physical Assessment Assignments Weeks 1, 2, 3 and 4](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Shadow Health Physical Assessment Assignments Weeks 5, 6 and 7**](https://www.academicguider.com/devry/nr-509-shadow-health-physical-assessment/)
+**[NR 509 Shadow Health Physical Assessment Assignments Weeks 5, 6 and 7](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Shadow Health REVIEW QUESTIONS**](https://www.academicguider.com/devry/nr-509-shadow-health-review-questions/)
+**[NR 509 Shadow Health REVIEW QUESTIONS](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 1 Shadow Health Assessment Assignment (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-health-history/)
+**[NR 509 Week 1 Shadow Health Assessment Assignment (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 1 Health History SOAP Note (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-week-1-health-history-soap-note/)
+**[NR 509 Week 1 Health History SOAP Note (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Shadow Health Respiratory Assessment Assignment (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-week-2-shadow-health-respiratory-assessment/)
+**[NR 509 Week 2 Shadow Health Respiratory Assessment Assignment (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Shadow Health HEENT Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-2-heent-physical-assessment-assignment/)
+**[NR 509 Week 2 Shadow Health HEENT Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 SOAP Note Template (Multiple Versions)**](https://www.academicguider.com/devry/nr-509-week-2-respiratory-soap-note/)
+**[NR 509 Week 2 SOAP Note Template (Multiple Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Shadow Health Assignments, Week 2 Quiz, 3P Week 8 Exam**](https://www.academicguider.com/devry/nr-509-week-2-shadow-health-assignments-quiz-3p-exam/)
+**[NR 509 Week 2 Shadow Health Assignments, Week 2 Quiz, 3P Week 8 Exam](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Shadow Health Musculoskeletal Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-3-shadow-health-assessment-musculoskeletal/)
+**[NR 509 Week 3 Shadow Health Musculoskeletal Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Shadow Health Neurological Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-neurological/)
+**[NR 509 Week 3 Shadow Health Neurological Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Neurology SOAP Note (2 Versions)**](https://www.academicguider.com/devry/nr-509-week-3-neurology-soap-note/)
+**[NR 509 Week 3 Neurology SOAP Note (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Musculoskeletal plus Neuro Quiz**](https://www.academicguider.com/devry/nr-509-musculoskeletal-neuro-quiz/)
+**[NR 509 Week 3 Musculoskeletal plus Neuro Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Quiz**](https://www.academicguider.com/devry/nr-509-week-4-quiz/)
+**[NR 509 Week 4 Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Shadow Health Cardiovascular Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-4-shadow-health-cardiovascular-physical-assessment/)
+**[NR 509 Week 4 Shadow Health Cardiovascular Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Shadow Health Chest Pain Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-4-shadow-health-chest-pain-physical-assessment/)
+**[NR 509 Week 4 Shadow Health Chest Pain Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Cardiovascular SOAP Note**](https://www.academicguider.com/devry/nr-509-week-4-cardiovascular-soap-note/)
+**[NR 509 Week 4 Cardiovascular SOAP Note](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 4 Chest Pain SOAP Note (2 Versions)**](https://www.academicguider.com/devry/nr-509-week-4-chest-pain-soap-note/)
+**[NR 509 Week 4 Chest Pain SOAP Note (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Shadow Health Gastrointestinal Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-5-shadow-health-gastrointestinal-physical-assessment/)
+**[NR 509 Week 5 Shadow Health Gastrointestinal Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Shadow Health Focused Exam: Abdominal Pain Assignment**](https://www.academicguider.com/devry/nr-509-focused-exam-abdominal-pain/)
+**[NR 509 Week 5 Shadow Health Focused Exam: Abdominal Pain Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Abdominal Pain SOAP Note**](https://www.academicguider.com/devry/nr-509-week-5-abdominal-pain-soap-note/)
+**[NR 509 Week 5 Abdominal Pain SOAP Note](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 5 Quiz**](https://www.academicguider.com/devry/nr-509-week-5-quiz/)
+**[NR 509 Week 5 Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Shadow Health Pediatric Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-6-shadow-health-pediatric-physical-assessment/)
+**[NR 509 Week 6 Shadow Health Pediatric Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Shadow Health Mental Health Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-week-6-shadow-health-mental-health-physical-assessment/)
+**[NR 509 Week 6 Shadow Health Mental Health Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Cough SOAP Note**](https://www.academicguider.com/devry/nr-509-week-6-cough-soap-note/)
+**[NR 509 Week 6 Cough SOAP Note](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 6 Pediatric SOAP Note**](https://www.academicguider.com/devry/nr-509-week-6-pediatric-soap-note/)
+**[NR 509 Week 6 Pediatric SOAP Note](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Shadow Health Focused Exam Case: Cough**](https://www.academicguider.com/devry/nr-509-week-7-shadow-health-focused-exam-case-cough/)
+**[NR 509 Week 7 Shadow Health Focused Exam Case: Cough](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Shadow Health Focused Exam Case: Cough**](https://www.academicguider.com/devry/nr-509-focused-exam-cough/)
+**[NR 509 Week 7 Shadow Health Focused Exam Case: Cough](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Focused Exam Cough SOAP Note**](https://www.academicguider.com/devry/nr-509-week-7-comprehensive-health-history-soap-note-2/)
+**[NR 509 Week 7 Focused Exam Cough SOAP Note](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Comprehensive Health History SOAP Note**](https://www.academicguider.com/devry/nr-509-week-7-comprehensive-health-history-soap-note/)
+**[NR 509 Week 7 Comprehensive Health History SOAP Note](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 7 Shadow Health Comprehensive Health History and Physical Assessment Assignment**](https://www.academicguider.com/devry/nr-509-comprehensive-assessment/)
+**[NR 509 Week 7 Shadow Health Comprehensive Health History and Physical Assessment Assignment](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**APEA Bank Questions with Answers (Multiple Subject Areas)**](https://www.academicguider.com/devry/nr-509-apea-exams/)
+**[APEA Bank Questions with Answers (Multiple Subject Areas)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**TEST-BANK (Chapter 1 – 30) Physical Examination & Health Assessment By Jarvis: 7th Edition**](https://www.academicguider.com/devry/nr-509-test-bank/)
+**[TEST-BANK (Chapter 1 – 30) Physical Examination & Health Assessment By Jarvis: 7th Edition](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Problem List and a Differential Diagnoses List**](https://www.academicguider.com/devry/nr-509-problem-list-differential-list/)
+**[NR 509 Problem List and a Differential Diagnoses List](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Bundle (Shadow Health Assignments Week 5, 7 plus APEA 3P Exam)**](https://www.academicguider.com/devry/nr-509-bundle/)
+**[NR 509 Bundle (Shadow Health Assignments Week 5, 7 plus APEA 3P Exam)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Weekly Quizzes: Altogether Week 1 – 7**](https://www.academicguider.com/devry/nr-509-quizzes/)
+**[NR 509 Weekly Quizzes: Altogether Week 1 – 7](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Weekly Quizzes Key Points and Study Guides**](https://www.academicguider.com/devry/nr-509-weekly-quizzes-key-points-study-guides/)
+**[NR 509 Weekly Quizzes Key Points and Study Guides](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Weekly Quizzes 1, 3, 5, 6 and 7 (Version 2: Retired Syllabus)**](https://www.academicguider.com/devry/nr-509-weekly-quizzes/)
+**[NR 509 Weekly Quizzes 1, 3, 5, 6 and 7 (Version 2: Retired Syllabus)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 APEA 3P Exam Study Guide**](https://www.academicguider.com/devry/nr-509-apea-3p-final-exam-study/)
+**[NR 509 APEA 3P Exam Study Guide](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Course Discussions, SOAP Note and Reflection (Retired Fall 2017)**](https://www.academicguider.com/devry/nr-509-course-discussions/)
+**[NR 509 Course Discussions, SOAP Note and Reflection (Retired Fall 2017)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Quizzes Week 1 – 7: Version 1 (Retired Summer 2017)**](https://www.academicguider.com/devry/nr-509-quiz-answers/)
+**[NR 509 Quizzes Week 1 – 7: Version 1 (Retired Summer 2017)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Quiz Neuro/Musculoskeletal with Rational**](https://www.academicguider.com/devry/nr-509-week-3-quiz-neuro-musculoskeletal/)
+**[NR 509 Week 3 Quiz Neuro/Musculoskeletal with Rational](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 3 Quiz**](https://www.academicguider.com/devry/nr-509-week-3-quiz/)
+**[NR 509 Week 3 Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 2 Quiz**](https://www.academicguider.com/devry/nr-509-week-2-quiz/)
+**[NR 509 Week 2 Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 509 Week 1 Quiz**](https://www.academicguider.com/devry/nr-509-week-1-quiz/)
+**[NR 509 Week 1 Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[TEST-BANK (Chapter 1 – 30) Physical Examination & Health Assessment By Jarvis: 7th Edition](https://www.academicguider.com/devry/nr-509-test-bank/)
+[TEST-BANK (Chapter 1 – 30) Physical Examination & Health Assessment By Jarvis: 7th Edition](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[APEA Bank Questions with Answers (Multiple Subject Areas)](https://www.academicguider.com/devry/nr-509-apea-exams/)
+[APEA Bank Questions with Answers (Multiple Subject Areas)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")

@@ -110,15 +110,15 @@ Question: The nurse prepares to obtain a patient's blood sample from a central l
 
 Answer: Trough levels are blood draws preceding drug doses. Trough levels measure a drug's lowest bloodstream concentration before the next dose.
 
-## Related Searches From Google
+## Related Searches that you may need help with.
 
-* pharmacology and the nursing process study guide pdf
-* nr 324 chamberlain
-* Lilley pharmacology and the nursing process final exam
-* nr 226
-* pharmacology practice questions
-* nr 667-week 1 discussion
-* advanced pharmacology question bank
+* [pharmacology and the nursing process study guide pdf](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [nr 324 chamberlain](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [Lilley pharmacology and the nursing process final exam](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [nr 226](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [pharmacology practice questions](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [nr 667-week 1 discussion](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [advanced pharmacology question bank](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
 ## Syllabus
 

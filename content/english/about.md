@@ -51,7 +51,7 @@ facts:
         always making changes to our training materials and tools to keep up
         with the latest changes in nursing education and healthcare.
     - title: In Business Experience
-      counter: '7'
+      counter: '8'
       counter_append: ''
       counter_prepend: ' Years'
       description: >-

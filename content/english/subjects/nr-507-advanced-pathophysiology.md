@@ -150,13 +150,10 @@ Resolution or convalescence ends the infectious process. The immune system destr
 
 ## Related Searches From Google
 
-nr 507-week 4 midterms
-
-nr 507-week 1 case study
-
-advanced pathophysiology final exam questions and answers
-
-advanced pathophysiology syllabus
+* nr 507-week 4 midterms
+* nr 507-week 1 case study
+* advanced pathophysiology final exam questions and answers
+* advanced pathophysiology syllabus
 
 ## Syllabus
 

@@ -39,11 +39,17 @@ facts:
         working in healthcare. We want to remove obstacles to education so that
         all nursing students, no matter where they live or how much money they
         have, can get high-quality tutoring and tools.
-    - title: Funding Raised
-      counter: '23'
+    - title: Our Commitment to Excellence
+      counter: '2'
       counter_append: $
       counter_prepend: M
-      description: 'Lorem ipsum dolor adsmet, consectet adipiscing elit cau.'
+      description: >-
+        At NursingSchoolTutors.com, we are dedicated to upholding the highest
+        standards of honesty and quality in the classroom. Our tutors are
+        carefully chosen based on their knowledge, their ability to teach, and
+        their desire to help the next group of nurses become successful. We are
+        always making changes to our training materials and tools to keep up
+        with the latest changes in nursing education and healthcare.
     - title: In Business
       counter: '7'
       counter_append: ''

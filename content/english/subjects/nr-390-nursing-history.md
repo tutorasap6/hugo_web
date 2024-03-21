@@ -1,13 +1,22 @@
 ---
 title: NR 390 Nursing History
 description: >-
-   Trying to find a substitute student to take [NR 390 Nursing History](http://www.nursingschooltutors.com/) on your behalf? Allow us to assist you. Those enrolled in [NR 390 Nursing Hist](http://www.nursingschooltutors.com/)ory can rely on the full support of our team of qualified experts. We'll take care of everything you need to succeed in school, from showing up to lectures and turning in homework to taking part in class debates and getting ready for tests. Don't worry about [NR 390 Nursing History](http://www.nursingschooltutors.com/); we'll make sure you pass. Let us handle your class so you may concentrate on other matters. Don't let [NR 390 Nursing History's](http://www.nursingschooltutors.com/) hurdles keep you back; we're here to help you succeed.
+  Trying to find a substitute student to take [NR 390 Nursing
+  History](http://www.nursingschooltutors.com/) on your behalf? Allow us to
+  assist you. Those enrolled in [NR 390 Nursing
+  Hist](http://www.nursingschooltutors.com/)ory can rely on the full support of
+  our team of qualified experts. We'll take care of everything you need to
+  succeed in school, from showing up to lectures and turning in homework to
+  taking part in class debates and getting ready for tests. Don't worry about
+  [NR 390 Nursing History](http://www.nursingschooltutors.com/); we'll make sure
+  you pass. Let us handle your class so you may concentrate on other matters.
+  Don't let [NR 390 Nursing History's](http://www.nursingschooltutors.com/)
+  hurdles keep you back; we're here to help you succeed.
 date: 2024-02-06T15:56:19.000Z
 subject: NR 390 Nursing History
 ---
 
 **Table of Content**
-
 
 1. [NR 390 Nursing History: Exploring the Past, Shaping the Future](#nr-390-nursing-history-exploring-the-past-shaping-the-future)
 2. [NR 390 Week 6 Course Project Assignment plus Discussion (Fall 2018)](#nr-390-week-6-course-project-assignment-plus-discussion-fall-2018)
@@ -31,10 +40,9 @@ subject: NR 390 Nursing History
 20. [NR 390 Board Examination: February 2018](#nr-390-board-examination-february-2018)
 21. [NR 390 Study Tips for BOARDS Exam | Nursing Students](#nr-390-study-tips-for-boards-exam-nursing-students)
 22. [NR 390 Boards Study Guide](#nr-390-boards-study-guide)
-23. [FAQs](#faqs)  
-24. [Related Searches From Google](#related-searches-from-google)  
-25. [Syllabus](#syllabus)   
-
+23. [FAQs](#faqs)
+24. [Related Searches From Google](#related-searches-from-google)
+25. [Syllabus](#syllabus)
 
 ## NR 390 Nursing History: Exploring the Past, Shaping the Future
 
@@ -128,24 +136,19 @@ Take [NR 390 Nursing History](http://www.nursingschooltutors.com/) to learn more
 
 ## FAQs
 
-
 Directions: Prior to completing this template, carefully review Course Project Milestone 1 Guidelines, paying particular attention to how to name the document and all rubric requirements. After saving the document to your computer, type your answers directly on this template and save again.
-
 
 **NR 390 Week 1 Discussion Topic with Answer: Nursing History (Fall 2018)**
 
 Nursing history is not just about the past and famous people, but is being made by nurses every day. Who do you know that is making nursing history today? Describe the contributions that one specific nurse is making to nursing history today.
 
-
 **NR 390 Week 3 Course Project: Milestone 2 (Fall 2018)**
 
 Prior to completing this template, carefully review Course Project Milestone 2 Guidelines, paying particular attention to how to name the document and all rubric requirements. After saving the document to your computer, type your answers directly in this template and save again.
 
-
 **NR 390 Week 3 Discussion Topic with Answer: Nightingale Information New to You (Fall 2018)**
 
 The basic story of Florence Nightingale is familiar to most nurses. This week we learned more about Nightingale's life and work. Select at least one piece of the Nightingale legacy that was new to you and tell us how this changed your understanding of this great woman and her contributions to nursing.
-
 
 **NR 390 Week 6 Course Project: Milestone 3 (Fall 2018)**
 
@@ -155,61 +158,57 @@ Assignment Criteria:
 
 Type the statements into the boxes below. Use exact words spoken by each person.
 
-
 **NR 390 Week 6 Discussion Topic with Answer: Amazing Changes and Events (Fall 2018)**
 
 The mid-to-late 20th century was … with amazing changes and events in professional nursing. Select one of these changes or events. Describe it, and explain how that change or event has impacted the quality of nursing practice today.
 
-# Related Searches from Google
+# Related Searches that you may need Assignment help with.
 
-- **What are the 4 periods of nursing?**
-
-- **Who is the first nurse?**
-
-- **What is the history of nursing around the world?**
-
-- **What is evolution of nursing?**
+* **[What are the 4 periods of nursing?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
+* **[Who is the first nurse?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
+* **[What is the history of nursing around the world?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
+* **[What is evolution of nursing?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
 ## Syllabus
 
-[NR 390 Week 6 Course Project Assignment plus Discussion (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-6-assignment-discussion/)
+[NR 390 Week 6 Course Project Assignment plus Discussion (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 3 Course Project Assignment plus Discussion (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-3-assignment-discussion/)
+[NR 390 Week 3 Course Project Assignment plus Discussion (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 1 Course Project Assignment plus Discussion (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-1/)
+[NR 390 Week 1 Course Project Assignment plus Discussion (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 8 Discussion Topic with Answer: AACN BSN Essential VIII and Your Future Practice (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-8-discussion-topic-answer/)
+[NR 390 Week 8 Discussion Topic with Answer: AACN BSN Essential VIII and Your Future Practice (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 7 Discussion Topic with Answer: Interview Impact (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-7-discussion-topic-answer/)
+[NR 390 Week 7 Discussion Topic with Answer: Interview Impact (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 6 Course Project: Milestone 3 (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-6-course-project-milestone-3/)
+[NR 390 Week 6 Course Project: Milestone 3 (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 6 Discussion Topic with Answer: Amazing Changes and Events (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-6-discussion-topic-answer/)
+[NR 390 Week 6 Discussion Topic with Answer: Amazing Changes and Events (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 5 Discussion Topic with Answer: Progress in Nursing in the Early-to-Mid 20th Century (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-5-discussion-topic-answer/)
+[NR 390 Week 5 Discussion Topic with Answer: Progress in Nursing in the Early-to-Mid 20th Century (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 4 Discussion Topic with Answer: Impact of 19th-Century Nurses (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-4-discussion-topic-answer/)
+[NR 390 Week 4 Discussion Topic with Answer: Impact of 19th-Century Nurses (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 3 Course Project: Milestone 2 (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-3-course-project-milestone-2/)
+[NR 390 Week 3 Course Project: Milestone 2 (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 3 Discussion Topic with Answer: Nightingale Information New to You (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-3-discussion-topic-answer/)
+[NR 390 Week 3 Discussion Topic with Answer: Nightingale Information New to You (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 2 Discussion Topic with Answer: Practices from the Past (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-2-discussion-topic-answer/)
+[NR 390 Week 2 Discussion Topic with Answer: Practices from the Past (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 1 Discussion Topic with Answer: Nursing History (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-1-discussion-topic-answer/)
+[NR 390 Week 1 Discussion Topic with Answer: Nursing History (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Week 1 Course Project: Milestone 1 (Fall 2018)](https://www.academicguider.com/devry/nr-390-week-1-course-project-milestone-1/)
+[NR 390 Week 1 Course Project: Milestone 1 (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Discussion Topics with Answers Week 1 – 8 (Fall 2018)](https://www.academicguider.com/devry/nr-390-discussion-topics/)
+[NR 390 Discussion Topics with Answers Week 1 – 8 (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Full Course Project: Milestone 1, 3 and 6 (Fall 2018)](https://www.academicguider.com/devry/nr-390-full-course-project/)
+[NR 390 Full Course Project: Milestone 1, 3 and 6 (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 390 Entire Course Week 1 – 8 (Fall 2018)](https://www.academicguider.com/devry/nr-390-entire-course/)
+[NR 390 Entire Course Week 1 – 8 (Fall 2018)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[Clinical Acronyms for Nursing Students](https://www.academicguider.com/devry/clinical-acronyms-nursing-students/)
+[Clinical Acronyms for Nursing Students](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[Board Examination: February 2018](https://www.academicguider.com/devry/board-examination/)
+[Board Examination: February 2018](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[Study Tips for BOARDS Exam | Nursing Students](https://www.academicguider.com/devry/study-tips-boards-exam/)
+[Study Tips for BOARDS Exam | Nursing Students](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[Boards Study Guide](https://www.academicguider.com/devry/boards-study-guide/)
+[Boards Study Guide](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")

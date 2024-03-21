@@ -177,13 +177,10 @@ Educating and advising
 
 ## Related Searches From Google
 
-**What are the 4 components of nursing informatics?**
-
-**What are the 5 nursing informatics competencies?**
-
-**What are the principles of nursing informatics?**
-
-**What are the 3 nursing informatics competencies?**
+* What are the 4 components of nursing informatics?
+* What are the 5 nursing informatics competencies?
+* What are the principles of nursing informatics?
+* What are the 3 nursing informatics competencies?
 
 ## Syllabus
 

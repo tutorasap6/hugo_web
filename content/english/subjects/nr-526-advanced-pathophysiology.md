@@ -1,30 +1,35 @@
 ---
-title: NR 526 Advanced Pathophysiology, Health Assessment, and Pharmacology for Nurse Educators
+title: >-
+  NR 526 Advanced Pathophysiology, Health Assessment, and Pharmacology for Nurse
+  Educators
 description: >-
-   In the course [NR 526, "Advanced Pathophysiology, Health Assessment, and Pharmacology for Nurse Educators,"](http://www.nursingschooltutors.com/) do you need some online assistance? Join our well regarded online class and we'll have a pro help you out. Learn from the best in the field as we help you master complex ideas in pathophysiology, health assessment, and pharmacology. In this important course for nurse educators, let us help you succeed.
+  In the course [NR 526, "Advanced Pathophysiology, Health Assessment, and
+  Pharmacology for Nurse Educators,"](http://www.nursingschooltutors.com/) do
+  you need some online assistance? Join our well regarded online class and we'll
+  have a pro help you out. Learn from the best in the field as we help you
+  master complex ideas in pathophysiology, health assessment, and pharmacology.
+  In this important course for nurse educators, let us help you succeed.
 date: 2024-02-06T15:56:19.000Z
 subject: NR 526 Advanced Pathophysiology
 ---
 
 **Table of Content**
 
-
-- [NR 526 Advanced Pathophysiology, Health Assessment, and Pharmacology for Nurse Educators: Empowering Nurse Educators with In-Depth Knowledge](#nr-526-advanced-pathophysiology-health-assessment-and-pharmacology-for-nurse-educators-empowering-nurse-educators-with-in-depth-knowledge)
-- [NR 526 Graded Discussion Questions Week 1 – 8](#nr-526-graded-discussion-questions-week-1--8)
-- [NR 526 Course Assignments Weeks 2, 3, 5, and 7](#nr-526-course-assignments-weeks-2-3-5-and-7)
-- [NR 526 Week 8 Graded Discussion: The 3 Ps and the Nurse Educator Reflection (2 Versions)](#nr-526-week-8-graded-discussion-the-3-ps-and-the-nurse-educator-reflection-2-versions)
-- [NR 526 Week 7 Assignment plus Graded Discussion (2 Versions)](#nr-526-week-7-assignment-plus-graded-discussion-2-versions)
-- [NR 526 Week 6 Graded Discussion: Asthma and ADHD (2 Versions)](#nr-526-week-6-graded-discussion-asthma-and-adhd-2-versions)
-- [NR 526 Week 5 Case Study Assignment plus Graded Discussion](#nr-526-week-5-case-study-assignment-plus-graded-discussion)
-- [NR 526 Week 4 Graded Discussion: Teaching Medications (2 Versions)](#nr-526-week-4-graded-discussion-teaching-medications-2-versions)
-- [NR 526 Week 3 Assignment plus Graded Discussion (2 Versions)](#nr-526-week-3-assignment-plus-graded-discussion-2-versions)
-- [NR 526 Week 2 Assignments plus Graded Discussion (2 Versions)](#nr-526-week-2-assignments-plus-graded-discussion-2-versions)
-- [NR 526 Week 1 Graded Discussion: Encouraging Clinical Thinking (2 Versions)](#nr-526-week-1-graded-discussion-encouraging-clinical-thinking-2-versions)
-- [NR 526 Entire Course Weeks 1 – 8](#nr-526-entire-course-weeks-1--8)
-- [FAQs](#faqs)
-- [Related Searches From Google](#related-searches-from-google)
-- [Syllabus](#syllabus)
-
+* [NR 526 Advanced Pathophysiology, Health Assessment, and Pharmacology for Nurse Educators: Empowering Nurse Educators with In-Depth Knowledge](#nr-526-advanced-pathophysiology-health-assessment-and-pharmacology-for-nurse-educators-empowering-nurse-educators-with-in-depth-knowledge)
+* [NR 526 Graded Discussion Questions Week 1 – 8](#nr-526-graded-discussion-questions-week-1--8)
+* [NR 526 Course Assignments Weeks 2, 3, 5, and 7](#nr-526-course-assignments-weeks-2-3-5-and-7)
+* [NR 526 Week 8 Graded Discussion: The 3 Ps and the Nurse Educator Reflection (2 Versions)](#nr-526-week-8-graded-discussion-the-3-ps-and-the-nurse-educator-reflection-2-versions)
+* [NR 526 Week 7 Assignment plus Graded Discussion (2 Versions)](#nr-526-week-7-assignment-plus-graded-discussion-2-versions)
+* [NR 526 Week 6 Graded Discussion: Asthma and ADHD (2 Versions)](#nr-526-week-6-graded-discussion-asthma-and-adhd-2-versions)
+* [NR 526 Week 5 Case Study Assignment plus Graded Discussion](#nr-526-week-5-case-study-assignment-plus-graded-discussion)
+* [NR 526 Week 4 Graded Discussion: Teaching Medications (2 Versions)](#nr-526-week-4-graded-discussion-teaching-medications-2-versions)
+* [NR 526 Week 3 Assignment plus Graded Discussion (2 Versions)](#nr-526-week-3-assignment-plus-graded-discussion-2-versions)
+* [NR 526 Week 2 Assignments plus Graded Discussion (2 Versions)](#nr-526-week-2-assignments-plus-graded-discussion-2-versions)
+* [NR 526 Week 1 Graded Discussion: Encouraging Clinical Thinking (2 Versions)](#nr-526-week-1-graded-discussion-encouraging-clinical-thinking-2-versions)
+* [NR 526 Entire Course Weeks 1 – 8](#nr-526-entire-course-weeks-1--8)
+* [FAQs](#faqs)
+* [Related Searches From Google](#related-searches-from-google)
+* [Syllabus](#syllabus)
 
 ## NR 526 Advanced Pathophysiology, Health Assessment, and Pharmacology for Nurse Educators: Empowering Nurse Educators with In-Depth Knowledge
 
@@ -78,18 +83,15 @@ In order to develop further as a nurse educator, you should take [NR 526 Advance
 
 ## FAQs
 
-
 **NR 526 Week 7 Assignment: 3Ps Handout**
 
 Purpose: The purpose of this assignment is to synthesize advanced knowledge of pathophysiology, pharmacology, and health (physical) assessment into three handouts for nursing students or staff nurses.
-
-
 
 **NR 526 Week 5 Case Study Assignment: Hepatitis C**
 
 **NR-526 Week 5 Case Study Assignment: Congestive Heart Failure**
 
-[**NR-526 Week 5 Case Study Assignment: Inferior wall MI with RT ventricular wall MI**](http://www.nursingschooltutors.com/)
+**[NR-526 Week 5 Case Study Assignment: Inferior wall MI with RT ventricular wall MI](http://www.nursingschooltutors.com/)**
 
 **Purpose:** The purpose of the Case Study assignment is to help students apply and integrate pathophysiology, pharmacology, and health (physical) assessment into simulations of nursing care. Note that case studies such as this can … as a class discussion and as a case study for various forms of simulation.
 
@@ -97,46 +99,33 @@ Purpose: The purpose of this assignment is to synthesize advanced knowledge of p
 
 The case study should start with objectives for the simulation, stated as what the student will do or display and by when (see below). Thereafter, the patient should … presented, along with three questions you will ask your students about the case.
 
-
-
 **NR 526 Week 3 Assignment: Clinical Questioning**
 
 **Purpose:** The purpose of this assignment is to provide educator students with a tool for working with nursing students and staff members when they are caring for complex healthcare cases.
 
 **Requirements:** In this assignment you are the nursing professional development specialist (NPD specialist, formerly called the "staff educator") assisting your assigned new graduate nurse in applying the nursing process. In the role of NPD specialist, you will not only take care of your patient at an advanced level, incorporating advanced physical assessment findings, associated pathophysiologic mechanisms that underlie the presenting disease, and the appropriate pharmacologic treatment approach, you will also consider the educational needs of your orientee.
 
-
-
 **NR 526 Week 2 Assignment: Case Study Topic Approval**
 
 The purpose of this assignment is to obtain approval from your NR526 instructor to use a complex health problem topic in your Week 5 Case Study.
 
-
-
 **NR-526 Week 2 Assignment Upload: Annotated Webliography**
 
 Please upload and share your Annotated Webliography Assignment that answers the question: "Where can educators find credible images, videos, audio files, games, puzzles & the like that can enrich their skills for teaching the 3Ps?"
 
-
-
-[**NR 526 Week 2 Assignment: Case Study Topic Approval**](http://www.nursingschooltutors.com/)
+**[NR 526 Week 2 Assignment: Case Study Topic Approval](http://www.nursingschooltutors.com/)**
 
 The purpose of this assignment is to obtain approval from your NR526 instructor to use a complex health problem topic in your Week 5 Case Study.
 
-
-
 **NR-526 Week 2 Assignment Upload: Annotated Webliography**
 
 Please upload and share your Annotated Webliography Assignment that answers the question: "Where can educators find credible images, videos, audio files, games, puzzles & the like that can enrich their skills for teaching the 3Ps?"
-
-
 
 **NR 526 Week 2 Graded Discussion: Comparing Classes of Medication**
 
 In this first discussion, we will be taking a very close look at two different classes of medications and how we can explore the three Ps through this very in-depth exploration.
 
 Compare and contrast an antiplatelet drug to an anticoagulant drug. Be sure to contrast them based on the pharmacokinetics of their action. Integrate their pharmacokinetics with the related pathophysiology. Also, include the related physical assessments that will apply. Be sure to include which patients would be a candidate to receive each of these therapies independently include classic examples of each.
-
 
 ## Related Searches From Google
 
@@ -150,24 +139,24 @@ Compare and contrast an antiplatelet drug to an anticoagulant drug. Be sure to c
 
 ## Syllabus
 
-[NR 526 Graded Discussion Questions Week 1 – 8](https://www.academicguider.com/devry/nr-526-graded-discussions/)
+[NR 526 Graded Discussion Questions Week 1 – 8](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Course Assignments Weeks 2, 3, 5 and 7](https://www.academicguider.com/devry/nr-526-course-assignments/)
+[NR 526 Course Assignments Weeks 2, 3, 5 and 7](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 8 Graded Discussion: The 3 Ps and the Nurse Educator Reflection (2 Versions)](https://www.academicguider.com/devry/nr-526-week-8/)
+[NR 526 Week 8 Graded Discussion: The 3 Ps and the Nurse Educator Reflection (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 7 Assignment plus Graded Discussion (2 Versions)](https://www.academicguider.com/devry/nr-526-week-7/)
+[NR 526 Week 7 Assignment plus Graded Discussion (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 6 Graded Discussion: Asthma and ADHD (2 Versions)](https://www.academicguider.com/devry/nr-526-week-6/)
+[NR 526 Week 6 Graded Discussion: Asthma and ADHD (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 5 Case Study Assignment plus Graded Discussion](https://www.academicguider.com/devry/nr-526-week-5/)
+[NR 526 Week 5 Case Study Assignment plus Graded Discussion](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 4 Graded Discussion: Teaching Medications (2 Versions)](https://www.academicguider.com/devry/nr-526-week-4/)
+[NR 526 Week 4 Graded Discussion: Teaching Medications (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 3 Assignment plus Graded Discussion (2 Versions)](https://www.academicguider.com/devry/nr-526-week-3/)
+[NR 526 Week 3 Assignment plus Graded Discussion (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 2 Assignments plus Graded Discussion (2 Versions)](https://www.academicguider.com/devry/nr-526-week-2/)
+[NR 526 Week 2 Assignments plus Graded Discussion (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Week 1 Graded Discussion: Encouraging Clinical Thinking (2 Versions)](https://www.academicguider.com/devry/nr-526-week-1/)
+[NR 526 Week 1 Graded Discussion: Encouraging Clinical Thinking (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 526 Entire Course Weeks 1 – 8](https://www.academicguider.com/devry/nr-526-entire-course/)
+[NR 526 Entire Course Weeks 1 – 8](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")

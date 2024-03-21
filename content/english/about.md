@@ -29,11 +29,16 @@ facts:
       description: >-
         Many nursing students are happy and using us from Pre-nursing test to
         their post-graduate assessments
-    - title: Team Members
+    - title: Team of Experts
       counter: '185'
       counter_append: ''
       counter_prepend: +
-      description: 'Lorem ipsum dolor adsmet, consectet adipiscing elit cau.'
+      description: >-
+        Our goal is to be the best academic support platform in the world for
+        nursing students, making it easy for them to go from nursing school to
+        working in healthcare. We want to remove obstacles to education so that
+        all nursing students, no matter where they live or how much money they
+        have, can get high-quality tutoring and tools.
     - title: Funding Raised
       counter: '23'
       counter_append: $

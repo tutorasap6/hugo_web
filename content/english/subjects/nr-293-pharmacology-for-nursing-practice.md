@@ -1,29 +1,32 @@
 ---
 title: NR 293 Pharmacology for Nursing Practice
 description: >-
-  [NR 293](http://www.nursingschooltutors.com/) provides a comprehensive survey of pharmacology which will help you better understand the role of drugs in healthcare and how you can use this understanding throughout your nursing practice. Understand about different kinds of drugs, the way they interact, and the correct amount of each to take. Get enrolled right away to increase your understanding of pharmacology.
+  [NR 293](http://www.nursingschooltutors.com/) provides a comprehensive survey
+  of pharmacology which will help you better understand the role of drugs in
+  healthcare and how you can use this understanding throughout your nursing
+  practice. Understand about different kinds of drugs, the way they interact,
+  and the correct amount of each to take. Get enrolled right away to increase
+  your understanding of pharmacology.
 date: 2024-02-06T15:56:19.000Z
 subject: NR 293 Pharmacology
 ---
 
 **Table of Content**
 
-
-- [NR 293 Pharmacology for Nursing Practice: Comprehensive Support for Your Coursework](#nr-293-pharmacology-for-nursing-practice-comprehensive-support-for-your-coursework)
-- [NR 293 Week 8 Discussion: Glaucoma](#nr-293-week-8-discussion-glaucoma)
-- [NR 293 Week 7 Assignment plus Discussion (Bundle)](#nr-293-week-7-assignment-plus-discussion-bundle)
-- [NR 293 Week 6 Assignments, Discussion, Quiz 4 (Bundle)](#nr-293-week-6-assignments-discussion-quiz-4-bundle)
-- [NR 293 Week 5 Assignment, Discussion, Quiz 3, Exam 2 (Bundle)](#nr-293-week-5-assignment-discussion-quiz-3-exam-2-bundle)
-- [NR 293 Week 4 Discussion plus Quiz 2](#nr-293-week-4-discussion-plus-quiz-2)
-- [NR 293 Week 3 Assignment, Discussion, Quiz plus Exam 1](#nr-293-week-3-assignment-discussion-quiz-plus-exam-1)
-- [NR 293 Week 2 Assignment plus Quiz](#nr-293-week-2-assignment-plus-quiz)
-- [NR 293 Week 1 Assignment plus Discussion](#nr-293-week-1-assignment-plus-discussion)
-- [FAQs](#faqs)
-    - [Chapter 1:](#chapter-1)
-    - [Chapter 2:](#chapter-2)
-- [Related Searches From Google](#related-searches-from-google)
-- [Syllabus](#syllabus)
-
+* [NR 293 Pharmacology for Nursing Practice: Comprehensive Support for Your Coursework](#nr-293-pharmacology-for-nursing-practice-comprehensive-support-for-your-coursework)
+* [NR 293 Week 8 Discussion: Glaucoma](#nr-293-week-8-discussion-glaucoma)
+* [NR 293 Week 7 Assignment plus Discussion (Bundle)](#nr-293-week-7-assignment-plus-discussion-bundle)
+* [NR 293 Week 6 Assignments, Discussion, Quiz 4 (Bundle)](#nr-293-week-6-assignments-discussion-quiz-4-bundle)
+* [NR 293 Week 5 Assignment, Discussion, Quiz 3, Exam 2 (Bundle)](#nr-293-week-5-assignment-discussion-quiz-3-exam-2-bundle)
+* [NR 293 Week 4 Discussion plus Quiz 2](#nr-293-week-4-discussion-plus-quiz-2)
+* [NR 293 Week 3 Assignment, Discussion, Quiz plus Exam 1](#nr-293-week-3-assignment-discussion-quiz-plus-exam-1)
+* [NR 293 Week 2 Assignment plus Quiz](#nr-293-week-2-assignment-plus-quiz)
+* [NR 293 Week 1 Assignment plus Discussion](#nr-293-week-1-assignment-plus-discussion)
+* [FAQs](#faqs)
+  * [Chapter 1:](#chapter-1)
+  * [Chapter 2:](#chapter-2)
+* [Related Searches From Google](#related-searches-from-google)
+* [Syllabus](#syllabus)
 
 ## NR 293 Pharmacology for Nursing Practice: Comprehensive Support for Your Coursework
 
@@ -109,34 +112,28 @@ Answer: Trough levels are blood draws preceding drug doses. Trough levels measur
 
 ## Related Searches From Google
 
-- pharmacology and the nursing process study guide pdf
-
-- nr 324 chamberlain
-
-- Lilley pharmacology and the nursing process final exam
-
-- nr 226
-
-- pharmacology practice questions
-
-- nr 667-week 1 discussion
-
-- advanced pharmacology question bank
+* pharmacology and the nursing process study guide pdf
+* nr 324 chamberlain
+* Lilley pharmacology and the nursing process final exam
+* nr 226
+* pharmacology practice questions
+* nr 667-week 1 discussion
+* advanced pharmacology question bank
 
 ## Syllabus
 
-[NR 293 Week 8 Discussion: Glaucoma](https://www.academicguider.com/devry/nr-293-week-8-discussion/)
+[NR 293 Week 8 Discussion: Glaucoma](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 7 Assignment plus Discussion (Bundle)](https://www.academicguider.com/devry/nr-293-week-7/)
+[NR 293 Week 7 Assignment plus Discussion (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 6 Assignments, Discussion, Quiz 4 (Bundle)](https://www.academicguider.com/devry/nr-293-week-6/)
+[NR 293 Week 6 Assignments, Discussion, Quiz 4 (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 5 Assignment, Discussion, Quiz 3, Exam 2 (Bundle)](https://www.academicguider.com/devry/nr-293-week-5/)
+[NR 293 Week 5 Assignment, Discussion, Quiz 3, Exam 2 (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 4 Discussion plus Quiz 2](https://www.academicguider.com/devry/nr-293-week-4/)
+[NR 293 Week 4 Discussion plus Quiz 2](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 3 Assignment, Discussion, Quiz plus Exam 1](https://www.academicguider.com/devry/nr-293-week-3/)
+[NR 293 Week 3 Assignment, Discussion, Quiz plus Exam 1](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 2 Assignment plus Quiz](https://www.academicguider.com/devry/nr-293-week-2/)
+[NR 293 Week 2 Assignment plus Quiz](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
-[NR 293 Week 1 Assignment plus Discussion](https://www.academicguider.com/devry/nr-293-week-1/)
+[NR 293 Week 1 Assignment plus Discussion](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")

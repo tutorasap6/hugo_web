@@ -11,11 +11,11 @@ subject: NR 224 Fundamentals Skills
 
 **Table of Content**
 
-- [NR 224 Fundamentals: Skills: Comprehensive Support for Your Coursework](#nr-224-fundamentals-skills-comprehensive-support-for-your-coursework)
-- [NR 224 Week 8 Final Exam (Cumulative Exam)](#nr-224-week-8-final-exam-cumulative-exam)
-- [FAQs](#faqs)
-- [Related Searches from Google](#related-searches-from-google)
-- [Syllabus](#syllabus)
+* [NR 224 Fundamentals: Skills: Comprehensive Support for Your Coursework](#nr-224-fundamentals-skills-comprehensive-support-for-your-coursework)
+* [NR 224 Week 8 Final Exam (Cumulative Exam)](#nr-224-week-8-final-exam-cumulative-exam)
+* [FAQs](#faqs)
+* [Related Searches from Google](#related-searches-from-google)
+* [Syllabus](#syllabus)
 
 ## NR 224 Fundamentals: Skills: Comprehensive Support for Your Coursework
 
@@ -84,4 +84,4 @@ Answer: The nurse informs the client that the surgeon placed the stoma in the de
 
 ## Syllabus
 
-[NR 224 Week 8 Final Exam (Cumulative Exam)](https://www.academicguider.com/devry/nr-224-week-8-final-exam/)
+NR 224 Week 8 Final Exam (Cumulative Exam)

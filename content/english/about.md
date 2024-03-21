@@ -74,9 +74,13 @@ our_story:
   title: The great story starts with a great team
   subtitle: Our Story
   content: >-
-    Lorem ipsum dolor sit amet, consectetur adipisacing elit. Nibh sem tellus
-    turpis lectus eu vehicula eget ante. Neque non tristique tincidunt quam
-    commodo, inas consectetur pellen tesrfgb srgbw ssqs dvgsue.
+    The founders of NursingSchoolTutors.com are experienced nurses and teachers
+    who saw a big hole in the academic support for nursing students and decided
+    to fill it. We saw that even though the world needs more skilled nurses, the
+    ways that nursing students are helped haven't changed to keep up with the
+    new academic and professional obstacles. Because of this finding,
+    NursingSchoolTutors.com was created as a platform just for nursing students
+    to get help with their homework.
   image:
     - item: /images/story-01.webp
     - item: /images/story-02.webp

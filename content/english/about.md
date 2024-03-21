@@ -50,11 +50,25 @@ facts:
         their desire to help the next group of nurses become successful. We are
         always making changes to our training materials and tools to keep up
         with the latest changes in nursing education and healthcare.
-    - title: In Business
+    - title: In Business Experience
       counter: '7'
       counter_append: ''
       counter_prepend: ' Years'
-      description: 'Lorem ipsum dolor adsmet, consectet adipiscing elit cau.'
+      description: >-
+        Personalized Tutoring: We offer one-on-one tutoring lessons that are
+        designed to meet your specific needs. Our tutors are nursing teachers,
+        clinicians, and working professionals who use their real-life experience
+        to teach all areas and fields of nursing.      Access our large
+        collection of study tools, such as class notes, practice tests,
+        simulation videos, and case studies, which are all meant to complement
+        your course work and make learning more enjoyable.      Study groups and
+        forums: Come be a part of our active community of nursing students and
+        workers. In our moderated study groups and boards, you can share what
+        you know, talk about tough ideas, and get answers to your
+        questions.      job guidance and mentoring: We do more than just help
+        you with schoolwork; we also get you ready for a job as a nurse. Through
+        our mentoring program, you'll be paired with an experienced nurse who
+        will help you make the change from a student to a working nurse.
 our_story:
   enable: true
   title: The great story starts with a great team

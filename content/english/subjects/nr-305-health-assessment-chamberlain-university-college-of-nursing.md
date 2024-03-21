@@ -216,7 +216,7 @@ Question: A client is being treated for osteoporosis with alendronate (Fosamax),
 
 Answer: Osteoporosis treatment often includes alendronate (Fosamax). The nurse should check if the client understands medication instructions to guarantee teaching effectiveness. Alendronate should be taken on an empty stomach at least 30 minutes before eating or drinking, and before taking any other drugs or supplements.
 
-## Related Searches from Google
+## Related Searches that you may need help with.
 
 * What are the 4 types of assessment in nursing?
 * What is a health assessment in nursing?

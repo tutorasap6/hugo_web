@@ -1,35 +1,43 @@
 ---
 title: NR 393 Nursing History
 description: >-
-   Seeking the best [Nursing History (NR 393)](http://www.nursingschooltutors.com/) note taking service available online? Stop right there! Take [NR 393](http://www.nursingschooltutors.com/) to learn more about the evolution of the nursing profession. To help you succeed in this course, we offer a trustworthy online class taking service. Learn more about the history, development, and pioneers of nursing by enrolling today. Leave the details to us so you can concentrate on your studies and making progress toward your goals. Put your confidence in the top online service for taking classes so that you can ace [NR 393 Nursing History](http://www.nursingschooltutors.com/).
+  Seeking the best [Nursing History (NR
+  393)](http://www.nursingschooltutors.com/) note taking service available
+  online? Stop right there! Take [NR 393](http://www.nursingschooltutors.com/)
+  to learn more about the evolution of the nursing profession. To help you
+  succeed in this course, we offer a trustworthy online class taking service.
+  Learn more about the history, development, and pioneers of nursing by
+  enrolling today. Leave the details to us so you can concentrate on your
+  studies and making progress toward your goals. Put your confidence in the top
+  online service for taking classes so that you can ace [NR 393 Nursing
+  History](http://www.nursingschooltutors.com/).
 date: 2024-02-06T15:56:19.000Z
 subject: NR 393 Nursing History
 ---
 
 **Table of Content**
 
-- [NR 393 Nursing History: All-Inclusive Coursework Help](#nr-393-nursing-history-all-inclusive-coursework-help)
-- [NR 393 Week 3 Discussion: Reflection on Careful Nursing: With Responses (2 Versions)](#nr-393-week-3-discussion-reflection-on-careful-nursing-with-responses-2-versions)
-- [NR 393 Week 3 Course Project Phase 2: Conversation with the Selected Nurse Template](#nr-393-week-3-course-project-phase-2-conversation-with-the-selected-nurse-template)
-- [NR 393 Discussion Questions Week 1 – 8](#nr-393-discussion-questions-week-1--8)
-- [NR 393 Week 8 Discussion: From the Past to the Future](#nr-393-week-8-discussion-from-the-past-to-the-future)
-- [NR 393 Week 7 Discussion: Impact in the 21st Century (With Responses)](#nr-393-week-7-discussion-impact-in-the-21st-century-with-responses)
-- [NR 393 Week 6 Course Project Phase 3 plus Discussion Question (Bundle)](#nr-393-week-6-course-project-phase-3-plus-discussion-question-bundle)
-- [NR 393 Week 6 Discussion: Reflection on 19th and 20th Century Nursing (With Responses)](#nr-393-week-6-discussion-reflection-on-19th-and-20th-century-nursing-with-responses)
-- [NR 393 Week 5 Discussion: Evidence-Based Practice Changes: With Responses (2 Versions)](#nr-393-week-5-discussion-evidence-based-practice-changes-with-responses-2-versions)
-- [NR 393 Week 4 Discussion: Impact of 19th Century Nurses (With Responses)](#nr-393-week-4-discussion-impact-of-19th-century-nurses-with-responses)
-- [NR 393 Week 3 Course Project Phase 2 plus Discussion (Bundle)](#nr-393-week-3-course-project-phase-2-plus-discussion-bundle)
-- [NR 393 Week 1 Course Project Phase 1: Selected Nurse Information Template](#nr-393-week-1-course-project-phase-1-selected-nurse-information-template)
-- [NR 393 Week 2 Discussion: Nightingale Information New to You: With Responses (2 Versions)](#nr-393-week-2-discussion-nightingale-information-new-to-you-with-responses-2-versions)
-- [NR 393 Week 1 Course Project Phase 1 plus Discussion (Bundle)](#nr-393-week-1-course-project-phase-1-plus-discussion-bundle)
-- [NR 393 Entire Course Weeks 1 – 8](#nr-393-entire-course-weeks-1--8)
-- [NR 393 Week 6 Course Project Phase 3: Reflection Paper](#nr-393-week-6-course-project-phase-3-reflection-paper)
-- [NR 393 Week 1 Discussion: Reflection on Leadership and Provision of Care (With Responses)](#nr-393-week-1-discussion-reflection-on-leadership-and-provision-of-care-with-responses)
-- [NR 393 Full Course Project Assignments Phase 1, 2, and 3 (Bundle)](#nr-393-full-course-project-assignments-phase-1-2-and-3-bundle)
-- [FAQs](#faqs)
-- [Related Searches From Google](#related-searches-from-google)
-- [Syllabus](#syllabus)
-
+* [NR 393 Nursing History: All-Inclusive Coursework Help](#nr-393-nursing-history-all-inclusive-coursework-help)
+* [NR 393 Week 3 Discussion: Reflection on Careful Nursing: With Responses (2 Versions)](#nr-393-week-3-discussion-reflection-on-careful-nursing-with-responses-2-versions)
+* [NR 393 Week 3 Course Project Phase 2: Conversation with the Selected Nurse Template](#nr-393-week-3-course-project-phase-2-conversation-with-the-selected-nurse-template)
+* [NR 393 Discussion Questions Week 1 – 8](#nr-393-discussion-questions-week-1--8)
+* [NR 393 Week 8 Discussion: From the Past to the Future](#nr-393-week-8-discussion-from-the-past-to-the-future)
+* [NR 393 Week 7 Discussion: Impact in the 21st Century (With Responses)](#nr-393-week-7-discussion-impact-in-the-21st-century-with-responses)
+* [NR 393 Week 6 Course Project Phase 3 plus Discussion Question (Bundle)](#nr-393-week-6-course-project-phase-3-plus-discussion-question-bundle)
+* [NR 393 Week 6 Discussion: Reflection on 19th and 20th Century Nursing (With Responses)](#nr-393-week-6-discussion-reflection-on-19th-and-20th-century-nursing-with-responses)
+* [NR 393 Week 5 Discussion: Evidence-Based Practice Changes: With Responses (2 Versions)](#nr-393-week-5-discussion-evidence-based-practice-changes-with-responses-2-versions)
+* [NR 393 Week 4 Discussion: Impact of 19th Century Nurses (With Responses)](#nr-393-week-4-discussion-impact-of-19th-century-nurses-with-responses)
+* [NR 393 Week 3 Course Project Phase 2 plus Discussion (Bundle)](#nr-393-week-3-course-project-phase-2-plus-discussion-bundle)
+* [NR 393 Week 1 Course Project Phase 1: Selected Nurse Information Template](#nr-393-week-1-course-project-phase-1-selected-nurse-information-template)
+* [NR 393 Week 2 Discussion: Nightingale Information New to You: With Responses (2 Versions)](#nr-393-week-2-discussion-nightingale-information-new-to-you-with-responses-2-versions)
+* [NR 393 Week 1 Course Project Phase 1 plus Discussion (Bundle)](#nr-393-week-1-course-project-phase-1-plus-discussion-bundle)
+* [NR 393 Entire Course Weeks 1 – 8](#nr-393-entire-course-weeks-1--8)
+* [NR 393 Week 6 Course Project Phase 3: Reflection Paper](#nr-393-week-6-course-project-phase-3-reflection-paper)
+* [NR 393 Week 1 Discussion: Reflection on Leadership and Provision of Care (With Responses)](#nr-393-week-1-discussion-reflection-on-leadership-and-provision-of-care-with-responses)
+* [NR 393 Full Course Project Assignments Phase 1, 2, and 3 (Bundle)](#nr-393-full-course-project-assignments-phase-1-2-and-3-bundle)
+* [FAQs](#faqs)
+* [Related Searches From Google](#related-searches-from-google)
+* [Syllabus](#syllabus)
 
 ## NR 393 Nursing History: All-Inclusive Coursework Help
 
@@ -107,7 +115,6 @@ In [NR 393 Nursing History](http://www.nursingschooltutors.com/), we'll delve in
 
 ## FAQs
 
-
 **NR 393 Week 1 Course Project Phase 1: Selected Nurse Information Template**
 
 Select one registered nurse that you know who is creating nursing history today to be the subject of this course project.
@@ -150,49 +157,45 @@ Date, time, and location of scheduled conversation (30 points)
 
 Submission method planned for Week 3 Phase 2: Conversation with the Selected Nurse
 
+## Related Searches that you may need help with.
 
-## Related Searches From Google
-
-- What is the foundation of nursing?
-
-- What is the history of nursing around the world?
-
-- What is evolution of nursing?
-
-- What is the introduction of nursing?
+* [What is the foundation of nursing?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [What is the history of nursing around the world?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [What is evolution of nursing?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
+* [What is the introduction of nursing?](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")
 
 ## Syllabus
 
-[**NR 393 Week 3 Discussion: Reflection on Careful Nursing: With Responses (2 Versions)**](https://www.academicguider.com/devry/nr-393-week-3-discussion/)
+**[NR 393 Week 3 Discussion: Reflection on Careful Nursing: With Responses (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 3 Course Project Phase 2: Conversation with the Selected Nurse Template**](https://www.academicguider.com/devry/nr-393-week-3-course-project/)
+**[NR 393 Week 3 Course Project Phase 2: Conversation with the Selected Nurse Template](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Discussion Questions Week 1 – 8**](https://www.academicguider.com/devry/nr-393-graded-discussion-topics/)
+**[NR 393 Discussion Questions Week 1 – 8](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 8 Discussion: From the Past to the Future**](https://www.academicguider.com/devry/nr-393-week-8/)
+**[NR 393 Week 8 Discussion: From the Past to the Future](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 7 Discussion: Impact in the 21st Century (With Responses)**](https://www.academicguider.com/devry/nr-393-week-7/)
+**[NR 393 Week 7 Discussion: Impact in the 21st Century (With Responses)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 6 Course Project Phase 3 plus Discussion Question (Bundle)**](https://www.academicguider.com/devry/nr-393-week-6-bundle/)
+**[NR 393 Week 6 Course Project Phase 3 plus Discussion Question (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 6 Discussion: Reflection on 19th and 20th Century Nursing (With Responses)**](https://www.academicguider.com/devry/nr-393-week-6-graded-discussion/)
+**[NR 393 Week 6 Discussion: Reflection on 19th and 20th Century Nursing (With Responses)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 5 Discussion: Evidence-Based Practice Changes: With Responses (2 Versions)**](https://www.academicguider.com/devry/nr-393-week-5-graded-discussion/)
+**[NR 393 Week 5 Discussion: Evidence-Based Practice Changes: With Responses (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 4 Discussion: Impact of 19th Century Nurses (With Responses)**](https://www.academicguider.com/devry/nr-393-week-4-graded-discussion/)
+**[NR 393 Week 4 Discussion: Impact of 19th Century Nurses (With Responses)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 3 Course Project Phase 2 plus Discussion (Bundle)**](https://www.academicguider.com/devry/nr-393-week-3/)
+**[NR 393 Week 3 Course Project Phase 2 plus Discussion (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 1 Course Project Phase 1: Selected Nurse Information Template**](https://www.academicguider.com/devry/nr-393-week-1-course-project/)
+**[NR 393 Week 1 Course Project Phase 1: Selected Nurse Information Template](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 2 Discussion: Nightingale Information New to You: With Responses (2 Versions)**](https://www.academicguider.com/devry/nr-393-week-2-graded-discussion/)
+**[NR 393 Week 2 Discussion: Nightingale Information New to You: With Responses (2 Versions)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 1 Course Project Phase 1 plus Discussion (Bundle)**](https://www.academicguider.com/devry/nr-393-week-1/)
+**[NR 393 Week 1 Course Project Phase 1 plus Discussion (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Entire Course Weeks 1 – 8**](https://www.academicguider.com/devry/nr-393-entire-course/)
+**[NR 393 Entire Course Weeks 1 – 8](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 6 Course Project Phase 3: Reflection Paper**](https://www.academicguider.com/devry/nr-393-week-6-course-project-milestone-3/)
+**[NR 393 Week 6 Course Project Phase 3: Reflection Paper](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Week 1 Discussion: Reflection on Leadership and Provision of Care (With Responses)**](https://www.academicguider.com/devry/nr-393-week-1-discussion/)
+**[NR 393 Week 1 Discussion: Reflection on Leadership and Provision of Care (With Responses)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**
 
-[**NR 393 Full Course Project Assignments Phase 1, 2 and 3 (Bundle)**](https://www.academicguider.com/devry/nr-393-full-course-project/)
+**[NR 393 Full Course Project Assignments Phase 1, 2 and 3 (Bundle)](https://nursingschooltutors.com/get-quote/ "https://nursingschooltutors.com/get-quote/")**

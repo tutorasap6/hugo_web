@@ -182,44 +182,44 @@ This paper will … graded on quality of information, use of citations, use of S
 
 ## Syllabus
 
-[NR 531 Week 7 Discussion: Quality Management and Control (2 Versions)](https://www.academicguider.com/devry/nr-531-week-7-discussion/)
+[NR 531 Week 7 Discussion: Quality Management and Control (2 Versions)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 5 Discussion: Management of Influence, Power, Conflict, and Decision Making (2 Versions)](https://www.academicguider.com/devry/nr-531-week-5-discussion/)
+[NR 531 Week 5 Discussion: Management of Influence, Power, Conflict, and Decision Making (2 Versions)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment: Executive Summary: Empirical Outcomes](https://www.academicguider.com/devry/nr-531-week-7-empirical-outcomes/)
+[NR 531 Week 7 Assignment: Executive Summary: Empirical Outcomes](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment Executive Summary; New Knowledge, Innovations & Improvements](https://www.academicguider.com/devry/nr-531-week-7-assignment-executive-summary/)
+[NR 531 Week 7 Assignment Executive Summary; New Knowledge, Innovations & Improvements](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment: Executive Summary: Exemplary Professional Practice](https://www.academicguider.com/devry/nr-531-week-7-exemplary-professional-practice/)
+[NR 531 Week 7 Assignment: Executive Summary: Exemplary Professional Practice](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment: Executive Summary: Structural Empowerment](https://www.academicguider.com/devry/nr-531-week-7-structural-empowerment/)
+[NR 531 Week 7 Assignment: Executive Summary: Structural Empowerment](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment; Executive Summary: Transformational Leadership](https://www.academicguider.com/devry/nr-531-week-7-transformational-leadership/)
+[NR 531 Week 7 Assignment; Executive Summary: Transformational Leadership](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 8 Discussion: Reflection (2 Versions)](https://www.academicguider.com/devry/nr-531-week-8-discussion-reflection/)
+[NR 531 Week 8 Discussion: Reflection (2 Versions)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 6 Discussion Questions](https://www.academicguider.com/devry/nr-531-week-6-discussion/)
+[NR 531 Week 6 Discussion Questions](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 5 Assignment: Management of Power Paper (2 Versions)](https://www.academicguider.com/devry/nr-531-week-5-assignment/)
+[NR 531 Week 5 Assignment: Management of Power Paper (2 Versions)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 3 Assignment: Shared Governance Journey Paper (2 Versions)](https://www.academicguider.com/devry/nr-531-week-3-assignment/)
+[NR 531 Week 3 Assignment: Shared Governance Journey Paper (2 Versions)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Course Assignments Week 3, 5 and 7](https://www.academicguider.com/devry/nr-531-course-assignments/)
+[NR 531 Course Assignments Week 3, 5 and 7](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Entire Course Week 1 – 8](https://www.academicguider.com/devry/nr-531-entire-course/)
+[NR 531 Entire Course Week 1 – 8](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment plus Discussion Question (Bundle)](https://www.academicguider.com/devry/nr-531-week-7-assignment-discussion/)
+[NR 531 Week 7 Assignment plus Discussion Question (Bundle)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 5 Assignment plus Discussion (Bundle)](https://www.academicguider.com/devry/nr-531-week-5-assignment-discussion/)
+[NR 531 Week 5 Assignment plus Discussion (Bundle)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 4 Discussion Questions-Answers](https://www.academicguider.com/devry/nr-531-week-4-discussion/)
+[NR 531 Week 4 Discussion Questions-Answers](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 3 Assignment plus Discussion Question](https://www.academicguider.com/devry/nr-531-week-3-assignment-discussions/)
+[NR 531 Week 3 Assignment plus Discussion Question](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 2 Discussion Questions-Answers](https://www.academicguider.com/devry/nr-531-week-2-discussions-lesson/)
+[NR 531 Week 2 Discussion Questions-Answers](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 1 Discussion: Organizational Structures](https://www.academicguider.com/devry/nr-531-week-1-discussions-lesson/)
+[NR 531 Week 1 Discussion: Organizational Structures](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Discussion Questions Week 1 – 8](https://www.academicguider.com/devry/nr-531-graded-discussions/)
+[NR 531 Discussion Questions Week 1 – 8](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")
 
-[NR 531 Week 7 Assignment: Executive Summary (All 5 Items)](https://www.academicguider.com/devry/nr-531-week-7-assignment/)
+[NR 531 Week 7 Assignment: Executive Summary (All 5 Items)](https://nursingschooltutors.com/get-quote/ "devry/nr-531-week-7-discussion/")

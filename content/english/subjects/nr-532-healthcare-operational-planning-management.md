@@ -50,25 +50,91 @@ subject: NR 532 Healthcare
 
 The importance of healthcare quality and personnel is explored in NR 532 Week 7. Discuss the difficulties faced, methods used, and optimal methods for improving healthcare quality and staffing efficiency.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 2. NR 532 Week 5 Discussion: Human Resource Management
 
 Learn the ins and outs of healthcare human resource management during NR 532 Week 5. Talk about how HR can help produce a highly trained and engaged team. Talk to your contemporaries and learn from one another.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 3. NR 532 Week 3 Discussion: Evidence-Based Strategic Planning
 
 Strategic healthcare planning based on evidence is the topic of NR 532 Week 3. Discuss how strategic planning affects the success of a company, the value of data-driven decision making, and the role that research plays in informing both.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 4. NR 532 Week 8 Reflection
 
 NR 532 Week 8 is the perfect time to reflect on the learning journey you've been on throughout NR 532. Provide a synopsis of the most important takeaways, insights obtained, and personal growth accomplished throughout the course. Think about the ways in which you can use this information to improve the healthcare management you provide in the future.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 5. NR 532 Week 7 Assignment plus Discussion (Bundle)
 
 Take part in a thorough NR 532 Week 7 bundle that contains both an assignment and an interesting debate by submerging yourself in it. Utilize your expertise in hospital operational planning and management to complete the task, and be sure to join in the engaging conversations that take place among your colleagues.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 6. NR 532 Week 6 Discussion: Meaningful Use of Technology and Information Management (2 Versions)
 
 During NR 532 Week 6, we will have a discussion about the meaningful use of technology in healthcare as well as effective information management. Investigate the ways in which technology might improve the efficacy of operational processes, data security, and patient care. Participate in conversations to share your thoughts and gain new views.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 7. NR 532 Week 5 Assignment plus Discussions (Bundle)
 
@@ -78,9 +144,31 @@ Take part in a combined activity that consists of an assignment for NR 532 Week 
 
 Participate in a discussion during NR 532 Week 4 that focuses on the concepts of licensure and certification in the healthcare industry. Investigate the significance of regulatory compliance, as well as the impact that licensure and accreditation have on the quality of care and the performance of the organization.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 9. NR 532 Week 3 Assignment plus Discussion (Bundle)
 
 Participate in a thorough package for NR 532 Week 3, which consists of an assignment as well as a thought-provoking discussion. Apply what you've learned about strategic planning in healthcare to the task at hand, and be sure to participate in lively conversation with your fellow students throughout the process.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 10. NR 532 Week 2 Discussion: Role of Management
 
@@ -90,21 +178,76 @@ During NR 532 Week 2, we will discuss the various roles that management plays in
 
 Your journey through NR 532 will begin with an introductory week that will lay the groundwork for learning about leadership and management ideas in the healthcare industry. Participate in lively debates, exchange your thoughts with other people, and investigate the fundamental ideas that underpin efficient healthcare administration.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 12. NR 532 Week 7 Assignment: Quality of Healthcare Assignment (2 Versions)
 
 By completing the assignment for NR 532 Week 7, you will be able to demonstrate that you understand quality in healthcare. Investigate fundamental ideas, carry out in-depth case studies, and develop potential solutions for enhancing the standard of medical care provided to patients and the results they achieve.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 13. NR 532 Week 5 Assignment: Legal-Regulatory Issue Paper (3 Versions)
 
-By completing the assignment for NR 532 Week 5, you will broaden your understanding of the legal and regulatory problems that pertain to healthcare administration. Investigate the present legal difficulties that exist, conduct an
+By completing the assignment for NR 532 Week 5, you will broaden your understanding of the legal and regulatory problems that pertain to healthcare administration. Investigate the present legal difficulties that exist, conduct an.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## NR 532 Healthcare Operational Planning and Management: Comprehensive Support for Your Coursework
 
 [NR 532, Healthcare Operational Planning and Management](http://www.nursingschooltutors.com/), is an in-depth course designed to give students a leg up in the healthcare management industry. Learn more about [healthcare operational planning and management](http://www.nursingschooltutors.com/) by delving into related subtopics and having in-depth discussions.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 1 NR 532 Week 7 Discussion: Quality of Healthcare and Staffing
 
 The importance of healthcare quality and personnel is explored in [NR 532 Week 7. Discuss](http://www.nursingschooltutors.com/) the difficulties faced, methods used, and optimal methods for improving healthcare quality and staffing efficiency.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 2 NR 532 Week 5 Discussion: Human Resource Management
 
@@ -113,6 +256,17 @@ Learn the ins and outs of [healthcare human resource management during NR 532 We
 ## 3 NR 532 Week 3 Discussion: Evidence-Based Strategic Planning
 
 [Strategic healthcare planning based on evidence](http://www.nursingschooltutors.com/) is the topic of [NR 532 Week 3](http://www.nursingschooltutors.com/). Discuss how strategic planning affects the success of a company, the value of data-driven decision making, and the role that research plays in informing both.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 4 NR 532 Week 8 Reflection
 
@@ -126,6 +280,17 @@ Take part in a thorough [NR 532 Week 7 bundle](http://www.nursingschooltutors.co
 
 During [NR 532 Week 6](http://www.nursingschooltutors.com/), we will have a discussion about the [meaningful use of technology in healthcare as well as effective information management.](http://www.nursingschooltutors.com/) Investigate the ways in which technology might improve the efficacy of operational processes, data security, and patient care. Participate in conversations to share your thoughts and gain new views.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 7 NR 532 Week 5 Assignment plus Discussions (Bundle)
 
 Take part in a combined activity that consists of an assignment for [NR 532 Week 5](http://www.nursingschooltutors.com/) and thought-provoking conversations. Dive into the project, which focuses on legal and regulatory challenges in healthcare administration, and engage in conversation with your classmates to share your opinions and experiences.
@@ -134,9 +299,31 @@ Take part in a combined activity that consists of an assignment for [NR 532 Week
 
 Participate in a discussion during [NR 532 Week 4](http://www.nursingschooltutors.com/) that focuses on the concepts of [licensure and certification](http://www.nursingschooltutors.com/) in the healthcare industry. Investigate the significance of regulatory compliance, as well as the impact that licensure and accreditation have on the quality of care and the performance of the organization.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 9 NR 532 Week 3 Assignment plus Discussion (Bundle)
 
 Participate in a thorough package for [NR 532 Week 3](http://www.nursingschooltutors.com/), which consists of an assignment as well as a thought-provoking discussion. Apply what you've learned about strategic planning in healthcare to the task at hand, and be sure to participate in lively conversation with your fellow students throughout the process.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 10 NR 532 Week 2 Discussion: Role of Management
 
@@ -150,6 +337,17 @@ Your journey through [NR 532](http://www.nursingschooltutors.com/) will begin wi
 
 By completing the assignment for [NR 532 Week 7](http://www.nursingschooltutors.com/), you will be able to demonstrate that you understand quality in healthcare. Investigate fundamental ideas, carry out in-depth case studies, and develop potential solutions for enhancing the standard of medical care provided to patients and the results they achieve.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 13 NR 532 Week 5 Assignment: Legal-Regulatory Issue Paper (3 Versions)
 
 By completing the assignment for [NR 532 Week 5,](http://www.nursingschooltutors.com/http:/www.nursingschooltutors.com/) you will broaden your understanding of the legal and regulatory problems that pertain to healthcare administration. Investigate the present legal difficulties that exist, conduct an analysis of their ramifications, and suggest solutions in order to guarantee compliance and reduce risks.
@@ -158,9 +356,31 @@ By completing the assignment for [NR 532 Week 5,](http://www.nursingschooltutors
 
 During the third week of the course, you will be responsible for completing an assignment on [strategic planning](http://www.nursingschooltutors.com/). In this project, you will integrate your prior learning and construct a thorough strategy plan for a healthcare organization. Investigate the process of strategic management, carry out a situational analysis, and come up with strategic goals and activities.
 
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
+
 ## 15 NR 532 Discussions Weeks 1-7 and Week 8 Reflection
 
 Engage in thought-provoking dialogue from [NR 532 Week 1 through NR 532 Week 7](http://www.nursingschooltutors.com/http:/www.nursingschooltutors.com/) of the course. You can improve your knowledge of [healthcare operational planning and management](http://www.nursingschooltutors.com/http:/www.nursingschooltutors.com/) by talking to other people about it, thinking critically about it, and working with them. Consider your [NR 532 Week 8](http://www.nursingschooltutors.com/http:/www.nursingschooltutors.com/) learning as a whole.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## 16 NR 532 Course Assignments Week 3, 5 and 7 Only
 
@@ -171,6 +391,17 @@ Pay special attention to [NR 532 Weeks 3, 5, and 7](http://www.nursingschooltuto
 Take the plunge and commit to the entirety of the [NR 532 course](http://www.nursingschooltutors.com/) for a well-rounded education. Learn about and discuss numerous subjects related to healthcare operational planning and management, and complete related projects.
 
 If you're interested in a rewarding career in healthcare management, [NR 532 Healthcare Operational Planning and Management](http://www.nursingschooltutors.com/) is the course for you. Take in the information, take part in the debates, and do your best on the tasks if you want to be a successful healthcare leader.
+
+NR 532 Week 1 Discussion 1, Leadership and Management Theories
+NR532 Week 1 Discussion 2, Influences in Healthcare OrganizationsNR 532 Week 2 Discussion 1, Patient Care Delivery Systems
+NR532 Week 2 Discussion 2, Role ManagementNR 532 Week 3 Assignment, Strategic Planning Paper (2 Versions) NR532 Week 3 Discussion 1, Strategic Planning
+NR 532 Week 3 Discussion 2, Evidence-Based Strategic PlanningNR 532 Week 4 Discussion 1, Licensure and Accreditation
+NR532 Week 4 Discussion 2, Patient SafetyNR 532 Week 5 Assignment, Legal / Regulatory Issue Paper (2 Versions) NR532 Week 5 Discussion 1, Human Resource Management
+NR 532 Week 5 Discussion 2, Legal and Ethical IssuesNR 532 Week 6 Discussion 1, Information Management in Healthcare
+NR532 Week 6 Discussion 2, Meaningful Use of TechnologyNR 532 Week 7 Assignment, Quality of Healthcare Paper NR532 Week 7 Discussion 1, Staffing
+NR 532 Week 7 Discussion 2, Quality of Healthcare
+NR 531 Week 8 Discussion 1, Quality of Healthcare Assignment
+NR531 Week 8 Discussion 2, Reflection
 
 ## FAQs
 

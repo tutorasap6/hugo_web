@@ -1,5 +1,5 @@
 ---
-title: NR 531 Nursing Leadership in Healthcare Organizations Assignments Help
+title: NR 531 Entire Class Help
 description: >-
   Are you a student in need of assistance with a homework assignment for [NR
   531: Nursing Leadership in Healthcare
@@ -7,10 +7,11 @@ description: >-
   of our qualified staff. Our in-depth online course will help you become a more
   effective nurse leader. Learn from the best, and do well on your [NR 531
   assignments](http://www.nursingschooltutors.com/).
-date: '2024-02-06T15:56:19.000Z'
+date: 2024-02-06T15:56:19.000Z
 subject: NR 531 Nursing Leadership
 ---
 
+# **NR 531 Nursing Leadership in Healthcare Organizations Assignments Help**
 
 **Table of Content**
 

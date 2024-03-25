@@ -7,6 +7,10 @@ images:
     /images/DALL·E 2024-03-13 14.02.42 - Create a logo for a tech startup named
     'Nursing School Tutors.' The logo should feature a dark-pink color scheme
     and include an animated cartoon nurse.webp
+tags:
+  - NR 443 Week 2 Discussion 1 Census Data and Epidemiological Data
+categories:
+  - NR 443 Week 2 Discussion 1 Census Data and Epidemiological Data
 ---
 
 NR 443 Week 2 Discussion 1 Census Data and Epidemiological Data

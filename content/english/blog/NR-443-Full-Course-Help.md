@@ -8,23 +8,6 @@ images:
     'Nursing School Tutors.' The logo should feature a dark-pink color scheme
     and include an animated cartoon nurse.webp
 tags:
-  - >-
-    NR 443 Week 6 DQ 1 Environmental Pollutants NR 443 Week 6 DQ 2 Disaster
-    Preparedness NR 443 Week 7 DQ 1 How Do You Define Health NR 443 Week 7 DQ 2
-    Affordable Healthcare
-  - >-
-    NR 443 Week 3 DQ 2 Resources NR 443 Week 4 Caring for Populations; Milestone
-    2; Assessment and Diagnosis NR 443 Week 4 DQ 1 Concerns for the School Nurse
-    NR 443 Week 4 DQ 2 Nurse's Role in Community Health Settings NR 443 Week 5
-    DQ 1 Vulnerable Populations NR 443 Week 5 DQ 2 Priority Setting When Working
-    With Vulnerable Populations NR 443 Week 6 Caring for Populations; Milestone
-    3; Intervention and Evaluation (Presentation)
-  - >-
-    NR 443 Week 1 DQ 2 Determinants of Health NR 443 Week 2 Caring for
-    Populations; Milestone 1; Windshield Survey Form NR 443 Week 2 DQ 1 Census
-    Data and Epidemiological Data NR 443 Week 2 DQ 2 Communicable Diseases
-    (graded) NR 443 Week 3 DQ 1 Collaborating With the Community
-  - NR 443 Week 1 DQ 1 Healthy People 2020
   - NR 443 Full Course help
 categories:
   - NR 443 Entire Coursework

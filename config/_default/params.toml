@@ -1,8 +1,8 @@
 #################### default parameters ################################
 favicon = "images/favicon.png"
 logo_text = "Boilerplate"
-logo = "images/logo.svg"
-logo_width = "101px"
+logo = "images/logo.jpeg"
+logo_width = "150px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

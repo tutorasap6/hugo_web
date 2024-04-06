@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = ""
-title = "Saasis - Hugo Saas Landing Theme"
+title = "Nursing School Tutor"
 theme = "saasis"
 # post pagination
 paginate = "6"

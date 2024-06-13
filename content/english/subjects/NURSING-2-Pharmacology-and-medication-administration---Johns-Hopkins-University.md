@@ -237,26 +237,9 @@ the whole class and at the same time prepare adequately for Exam 1.
 
 ## NURSING 2: Continuing Education in Nursing
 
-Another aspect of [NURSING 2 is the continued education](https://nursing.ucsf.edu/) which is significant in the
-nursing field to enhance the professional practice in the coming years. This
-topic is good for encouraging students to pursue continuing education as they
-seek more information to apply in their current working environment. Given that
-the academic assignments students are subjected to most of the times fall under
-group five, it is not surprising to find many of them opting for it.
+Another aspect of [NURSING 2 is the continued education](https://nursing.ucsf.edu/) which is significant in the nursing field to enhance the professional practice in the coming years. This topic is good for encouraging students to pursue continuing education as they seek more information to apply in their current working environment. Given that the academic assignments students are subjected to most of the times fall under group five, it is not surprising to find many of them opting for it.
 
-As for the type of the continuous learning, I can define it as the learning process
-that takes place when the participants do not attend the class and such events
-as workshops, conferences, and online courses. They outline the benefits
-associated with CE; enhanced quality of the patient care that is provided,
-career progression chances in one’s line of work, as well as personal growth.
-Students also receive information on regulation relative to the formulation and
-renewal of the nursing license and certification. Replacing face-to-face
-instruction with an online class does not leave the students without leadership
-as the need for continuing education can be regarded as the most crucial for
-overall professional development of an individual. Support services as such
-could assist the student in the achievement of his or her lifelong learning
-goals while at the same time ensuring that the student is fully in control of
-his or her entire class.
+As for the type of the continuous learning, I can define it as the learning process that takes place when the participants do not attend the class and such events as workshops, conferences, and online courses. They outline the benefits associated with CE; enhanced quality of the patient care that is provided, career progression chances in one’s line of work, as well as personal growth. Students also receive information on regulation relative to the formulation and renewal of the nursing license and certification. Replacing face-to-face instruction with an online class does not leave the students without leadership as the need for continuing education can be regarded as the most crucial for overall professional development of an individual. Support services as such could assist the student in the achievement of his or her lifelong learning goals while at the same time ensuring that the student is fully in control of his or her entire class.
 
 ## NURSING 2: Competency-Based Education
 

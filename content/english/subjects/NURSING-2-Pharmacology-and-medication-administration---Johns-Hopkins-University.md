@@ -63,7 +63,7 @@ In this part, the students consider its negative effects on environment such as,
 
 ## NURSING 2: NARRATION - Patho
 
-\`Patho’ stands for pathophysiology, which is the study of health conditions and changes
+Patho’ stands for pathophysiology, which is the study of health conditions and changes
 happening within the body during diseases and injuries, as a part of NURSING 2.
 Knowledge and comprehension of pathophysiology play an important role in the
 nursing practices since they are based upon the concepts of nursing assessment

@@ -23,35 +23,35 @@ subject: >-
 
 #### **Table of  Content**
 
-NURSING 2 Pharmacology and medication administration. 4
+NURSING 2 Pharmacology and medication administration.
 
-NURSING 2. 4
+NURSING 2.
 
-NURSING 2: Environmental Effects of Agriculture Science Educational Presentation. 4
+NURSING 2: Environmental Effects of Agriculture Science Educational Presentation.
 
-NURSING 2: NARRATION - Patho. 5
+NURSING 2: NARRATION - Patho.
 
-NURSING 2: FRONT-PAGE-116. 5
+NURSING 2: FRONT-PAGE-116.
 
-NURSING 2: Fundamentals of Nursing-2. 6
+NURSING 2: Fundamentals of Nursing-2.
 
-NURSING 2: Psychosocial Theories of Aging. 6
+NURSING 2: Psychosocial Theories of Aging.
 
-NURSING 2: Reflections on Aging as Developmental Process or Disease. 6
+NURSING 2: Reflections on Aging as Developmental Process or Disease.
 
-NURSING 2: CGA Summary. 7
+NURSING 2: CGA Summary.
 
-NURSING 2: Psych Final Exam.. 7
+NURSING 2: Psych Final Exam
 
-NURSING 2: 120\_516 Exam 1 Review\.. 8
+NURSING 2: 120\_516 Exam 1 Review.
 
-NURSING 2: Continuing Education in Nursing. 8
+NURSING 2: Continuing Education in Nursing
 
-NURSING 2: Competency-Based Education. 8
+NURSING 2: Competency-Based Education
 
-NURSING 2: Disaster Nursing. 9
+NURSING 2: Disaster Nursing
 
-### NURSING 2 Pharmacology and medication administration. 4
+### NURSING 2 Pharmacology and medication administration.
 
 [NURSING 2 can](https://nursing.ucsf.edu/) thus be considered as a course that explores more of the details and the actual practice of nursing as compared to other prior courses offered. These include such topics as Environmental Issues in Modern Agriculture, Pathophysiology, Psychosocial Perspective on Aging, and Disaster Nursing. Because of the extent and difficulty of some lessons in NURSING 2 services like taking my online class for me, online class help or pay someoneto do my class are sought. These services play important roles since theyassist the students to cope with the pressure and achievements expected of them.
 

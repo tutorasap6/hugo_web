@@ -1,7 +1,9 @@
 ---
 draft: false
-title: Get a Free Quote
-description: this is meta description
+title: Get Your Assignments Done Here
+description: >-
+  Get Your Assignments done here from Scratch. We take your assignments in
+  person and no AI or plagairism for your final paper.
 layout: get-quote
 contact_info:
   title: Get in touch today!

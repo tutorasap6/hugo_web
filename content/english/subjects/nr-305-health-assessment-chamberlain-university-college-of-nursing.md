@@ -86,7 +86,7 @@ During the [NR 305 iHuman orientation in Week 1,](http://www.nursingschooltutors
 
 Understanding health assessment concepts is essential for [NR 305 week 2](http://www.nursingschooltutors.com/). We will assist you with the task at hand and join in on the group conversations to help you learn from one another.  NR 305 Entire Course Weeks 1 – 8
 
-(NR 305 Entire Course ) NR 305 Week 1 Graded Topic NR-305 Week 2 Assignment NR-305 Week 2 Graded Topic NR 305 Week 3 Graded Topic NR 305 Week 4 Assignment NR-305 Week 4 Graded Topic NR-305 Week 5 Graded Topic NR-305 Week 6 Graded Topic NR-305 Week 7 Graded Topic NR-305 Week 8 Graded Topic NR-305 HESI REVIEW QUESTIONS WITH ANSWERS
+(NR 305 Entire Course ) NR 305 Week 1 Graded Topic NR-305 Week 2 Assignment NR-305 Week 2 Graded Topic NR 305 Week 3 Graded Topic NR 305 Week 4 Assignment NR-305 Week 4 Graded Topic NR-305 Week 5 Graded Topic NR-305 Week 6 Graded Topic NR-305 Week 7 Graded Topic NR-305 Week 8 Graded Topic NR-305 HESI REVIEW QUESTIONS WITH ANSWERS.
 
 ## **NR 305 Week 2 Assignment: Wellness Assessment- Luciana Gonzalez (iHuman)-Help**
 

@@ -74,7 +74,7 @@ We also provide templates and examples to guide your charter creation process. A
 
 For further guidance, consider exploring [educational websites](https://www.cdc.gov/nutrition/) and [team collaboration tools](https://www.asana.com/) to streamline your project management. Our support ensures your team operates efficiently and meets project milestones.
 
-## NR 228 Discussion Questions Week 1 – 8
+## **NR 228 Discussion Questions Week 1 – 8**
 
 Participating in NR 228 discussion questions from Week 1 to Week 8 is crucial for engaging with course material and enhancing your understanding. At NursingSchoolTutors.com, we provide strategies and insights to help you contribute effectively to discussions, improving your critical thinking and analytical skills.
 
@@ -111,6 +111,8 @@ A) Center for Food Control
 B) Women, Infants, and Children (WIC)
 C) Healthy Food for Less
 D) American Society for Organic Food
+
+
 8\) What is the most likely cause of vitamin toxicity?
 A) Low intake of nutrient-dense foods
 B) Low intake of fortified foods
@@ -137,7 +139,7 @@ E) Frequently skipping breakfast
 A) Weight-bearing exercise
 B) Consumption of calcium
 C) Decreasing Vitamin A intake
-D) Exposure to sunlig
+D) Exposure to sunlight
 
 ## NR 228 Week 5 (Assignments & Discussion)
 

@@ -94,6 +94,51 @@ We also offer tips on effective study techniques and test-taking strategies. For
 
 For further study aids, explore [Quizlet](https://quizlet.com/) and other [educational resources](https://www.khanacademy.org/). Our comprehensive support ensures you feel confident and well-prepared for your Week 1 exam, leading to excellent results.
 
+Sample Exam
+
+6\) If a client complained of muscle weakness, confusion, decreased appetite, and irregular
+heartbeat, which blood levels should the nurse check?
+A) Magnesium
+B) Sodium
+C) Calcium
+D) Potassium
+
+
+7\) A pregnant client states to the nurse, “I cannot afford to buy healthy foods and I often
+skip meals or go to a fast-food restaurant.” Which public resource would be appropriate
+for the nurse to suggest?
+A) Center for Food Control
+B) Women, Infants, and Children (WIC)
+C) Healthy Food for Less
+D) American Society for Organic Food
+8\) What is the most likely cause of vitamin toxicity?
+A) Low intake of nutrient-dense foods
+B) Low intake of fortified foods
+C) Decreased absorption as a result of medications
+D) Long-term use of megadose supplements
+
+
+9\) Which condition is a female adult client at most risk for developing after menopause?
+A) Iron deficiency anemia
+B) Osteoporosis
+C) Bronchial asthma
+D) Type 2 diabetes
+
+
+10\) Which of the following are indicators of nutritional risk among adolescents? SATA
+A) Eating without family supervision frequently
+B) Eating fast food once weekly
+C) Maintaining a hearty appetite
+D) Skipping more than three meals per week
+E) Frequently skipping breakfast
+
+
+11\) Which is required to support the formation of vitamin D in the body?
+A) Weight-bearing exercise
+B) Consumption of calcium
+C) Decreasing Vitamin A intake
+D) Exposure to sunlig
+
 ## NR 228 Week 5 (Assignments & Discussion)
 
 Week 5 of the NR 228 course involves various assignments and discussions that require careful attention and preparation. At NursingSchoolTutors.com, we provide support for completing assignments accurately and participating in discussions meaningfully.
@@ -132,6 +177,154 @@ Our tutors provide practice quizzes, study guides, and discussion tips. For exam
 
 For additional study aids, check out [educational platforms](https://www.edx.org/) and [nursing forums](https://www.ncsbn.org/). Our comprehensive support ensures you excel in your Week 1 quizzes and discussions, setting a positive tone for the rest of the course.
 
+Example Quiz is as here below:
+
+Quiz 4
+
+1\) A nurse is teaching a group of older adult clients about taking measures for maintaining
+
+healthy bones. Which statement made by an older client indicates a need for additional
+
+teaching?
+
+A) I will safely expose myself to sunlight for at least 20 minutes a day
+
+B) I will increase my fluid intake
+
+C) I should eat foods high in calcium or take a calcium supplement
+
+D) I should participate in weight-bearing exercises
+
+2\) A parent calls the pediatric clinic for advice on how to treat constipation for a school-
+
+aged child. What instruction should the nurse provide?
+
+A) Restrict fluids at mealtimes
+
+B) Slowly increase fiber with high-fiber cereals and skinless fruits
+
+C) Provide a low-fiber diet to increase the stimulation of the bowel
+
+D) Give the child an over-the-counter mild laxative
+
+3\) What is the best approach to ensure adequate amounts of vitamins?
+
+A) Include a variety of foods from all the food groups
+
+B) Use a daily multivitamin supplement
+
+C) Decrease fortification of key foods in the food supply
+
+D) Increase specific supplements for specific subgroups of the population
+
+4\) The nurse performs nutritional screenings on clients at a senior center. Based on the
+
+results, which client does the nurse refer for a consultation with the dietitian?
+
+A) BMI 30, follows low-fat low sodium diet for cardiac disease, lives alone in senior
+
+community, independent with daily cares, food shopping, and preparation
+
+B) BMI 20, follows strict vegan diet, lives alone, is independent with daily care, food
+
+shopping, and preparation
+
+C) BMI 30, eats foods prepared in the community dining room, lives alone in senior
+
+apartment, independent in daily cares, does not shop or prepare food
+
+D) BMI 24, eats whatever the spouse fixes which is usually balanced, required assistance
+
+with mobility, does not shop or prepare food
+
+5\) Which of the following is necessary for blood clotting?
+
+A) Heparin
+
+B) Carotene
+
+C) Vitamin B12
+
+D) Vitamin K
+
+Downloaded by Dissertation-hero uk (ukdissertationhero\@gmail.com)
+
+lOMoARcPSD|8500837
+
+Which supplement(s) should the nurse recommend to a client who is planning to
+
+become pregnant? SATA
+
+A) Vitamin D
+
+B) Iron
+
+C) Calcium
+
+D) Folate
+
+E) Vitamin E
+
+13\) Which food source is high in vitamin C?
+
+A) Milk
+
+B) Orange
+
+C) Coffee
+
+D) Rice
+
+14\) A family with three young children has limited income, relies on public transportation,
+
+and has just moved into a very old apartment complex with old plumbing and lead
+
+pipes. What should the nurse plan to teach the family in order to provide the best
+
+recommendation to minimize lead exposure?
+
+A) Use only hot water for drinking, cooking, and preparing food
+
+B) Use only bottled water
+
+C) Run the tap water for 2 minutes before using it
+
+D) Boil the tap water for 2 minutes before using it
+
+15\) A nurse is planning nutritional instructions for a client experiencing fatigue due to iron
+
+deficiency anemia. Which food should the nurse recommend to the client?
+
+A) 8 oz (240 mL) whole milk
+
+B) 1 egg white
+
+C) 8 oz (240 mL) black tea
+
+D) 1 cup (200 g) canned black beans
+
+16\) What important cell function does Vitamin B12 serve?
+
+A) The maintenance of nerve cells and blood cells
+
+B) Secretion of erythropoietin
+
+C) Bone formation and resorption
+
+D) The production of thrombin and fibrinogen
+
+17\) A nurse on a postpartum unit is providing education to a new mother about formula
+
+feeding. Which instruction should the nurse include about how to prepare formula?
+
+A) Cow’s milk is an appropriate substitute for infant formula prior to one year of age
+
+B) Unused formula can be saved and served again within 24 hours
+
+C) Boiling water should be used for formula preparation
+
+D) Formula should never be heated in the microwave
+
 ## NR 228 Course Assignments Week 2 and 5
 
 Week 2 and Week 5 of the NR 228 course involve critical assignments that require careful planning and execution. At NursingSchoolTutors.com, we provide guidance to help you complete these assignments successfully.
@@ -150,7 +343,7 @@ Our tutors offer personalized guidance, study resources, and feedback on your as
 
 For further resources, explore [educational websites](https://www.khanacademy.org/) and [nursing forums](https://allnurses.com/). Our expert support ensures you excel in your NR 228 coursework throughout the semester, making the most of your academic opportunities.
 
-## **FAQs For **NR 228
+## \*\*FAQs For \*\*NR 228
 
 **Question: Which principle of a healthy diet suggests selecting a wide range of foods as represented by the USDA's MyPlate food plan?**
 

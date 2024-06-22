@@ -103,7 +103,6 @@ B) Sodium
 C) Calcium
 D) Potassium
 
-
 7\) A pregnant client states to the nurse, “I cannot afford to buy healthy foods and I often
 skip meals or go to a fast-food restaurant.” Which public resource would be appropriate
 for the nurse to suggest?
@@ -112,13 +111,11 @@ B) Women, Infants, and Children (WIC)
 C) Healthy Food for Less
 D) American Society for Organic Food
 
-
 8\) What is the most likely cause of vitamin toxicity?
 A) Low intake of nutrient-dense foods
 B) Low intake of fortified foods
 C) Decreased absorption as a result of medications
 D) Long-term use of megadose supplements
-
 
 9\) Which condition is a female adult client at most risk for developing after menopause?
 A) Iron deficiency anemia
@@ -126,14 +123,12 @@ B) Osteoporosis
 C) Bronchial asthma
 D) Type 2 diabetes
 
-
 10\) Which of the following are indicators of nutritional risk among adolescents? SATA
 A) Eating without family supervision frequently
 B) Eating fast food once weekly
 C) Maintaining a hearty appetite
 D) Skipping more than three meals per week
 E) Frequently skipping breakfast
-
 
 11\) Which is required to support the formation of vitamin D in the body?
 A) Weight-bearing exercise
@@ -249,7 +244,7 @@ C) Vitamin B12
 
 D) Vitamin K
 
-Downloaded by Dissertation-hero uk (ukdissertationhero\@gmail.com)
+Downloaded by Dissertation-hero uk ([ukdissertationhero@gmail.com](mailto:ukdissertationhero@gmail.com))
 
 lOMoARcPSD|8500837
 

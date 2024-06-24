@@ -1,5 +1,5 @@
 ---
-title: ' NR-224 RUA Safety Goals Assignment'
+title: NR-224 RUA Safety Goals Assignment
 description: >-
   Speak Up for New Parents is a brochure that was developed in February 2021 as
   a  guideline to help new mothers understand some important things for you to

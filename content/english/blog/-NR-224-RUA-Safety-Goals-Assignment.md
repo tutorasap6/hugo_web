@@ -11,7 +11,7 @@ description: >-
   pregnancy and after birth.  The Joint Commission (TJC) provides common signs
   and symptoms of hypertension,  preeclampsia, hemorrhage, infection, and
   depression. These are all serious and common risks of  pregnancy. 
-date: 2024-06-23T21:00:00.000Z
+date: 2024-05-31T21:00:00.000Z
 images:
   - /images/Screenshot 2024-06-24 at 19.01.38.png
 tags:
@@ -28,7 +28,7 @@ categories:
 
 Get your Online class for NRR224 be done by experts on your behalf. [Contact us Here ](https://nursingschooltutors.com/get-quote/ "Get a Quote")
 
-RUA: Safety Goals Assignment 
+RUA: Safety Goals Assignment
 
 Marissa Daniels
 
@@ -41,7 +41,7 @@ Professor Stacey Hobbick
 
 August 15, 2021
 
-## Summary of Brochure 
+## Summary of Brochure
 
 Speak Up for New Parents is a
 brochure that was developed in February 2021 as a guideline to help new mothers
@@ -73,7 +73,7 @@ your OB provider know if you are experiencing any difficultly eating or
 sleeping, feelings of helplessness or sadness, not wanting to get out of bed,
 avoiding contact or bonding with your baby, or thoughts of wanting to harm
 yourself (TJC, 2021). Open communication is the best way to make sure you are
-decreasing your chances of these serious pregnancy complications. 
+decreasing your chances of these serious pregnancy complications.
 
 ## Personal Reflection
 
@@ -92,7 +92,7 @@ providers so that they can help you if or when you need it. They are not mind
 readers though, so if there is not an open line of communication, then they
 will not know that you need help at all. 
 
-## Evaluation of Brochure 
+## Evaluation of Brochure
 
 This brochure has information
 that is very beneficial for pregnant patients. As a future labor and delivery
@@ -108,15 +108,15 @@ towards new mothers but is great for seasoned mothers as well. Especially,
 because not all women have their babies backto-back. Some women have big age
 gaps between their children, so this brochure would be great for those women as
 well because these are risks they may have forgotten about since their last
-baby. 
+baby.
 
-## Evidence Review & Application 
+## Evidence Review & Application
 
 According to Ghaedrahmati et. al,
 postpartum depression is a high prevalence mental disorder. They mention that
 postpartum depression could be associated with obstetrical history such as
 hypertension and preeclampsia (Ghaedramhmati et. al, 2017). Making this
-brochure more important for pregnant women. 
+brochure more important for pregnant women.
 
 ## Conclusion
 
@@ -128,12 +128,12 @@ infection, and postpartum depression. The best way to combat these problems is
 to have open communication with your close friends, family, spouse, and
 healthcare providers so that they can help. Following the brochure and
 communicating with your healthcare provider when things do not seem right ill
-help to decrease those at risk for any of these complications. 
+help to decrease those at risk for any of these complications.
 
 ## References
 
 Ghaedrahmati, M., Kazemi,
-A., Kheirabadi, G., Ebrahimi, A., & Bahrami, M. (2017). 
+A., Kheirabadi, G., Ebrahimi, A., & Bahrami, M. (2017).
 
 Postpartum
 depression risk factors: A narrative review. Journal of education and health promotion, 6, 60. [https://doi.org/10.4103/jehp.jehp\_9\_16](https://doi.org/10.4103/jehp.jehp_9_16 "Postpartum depression risk factors")

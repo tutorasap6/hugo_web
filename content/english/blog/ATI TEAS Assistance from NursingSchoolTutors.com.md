@@ -62,7 +62,7 @@ Upon enrolling in our ATI TEAS Comprehensive Package, you are welcomed into a [c
 
 It is not enough to simply accept our word for it. On the TEAS examination, our program has assisted countless students in attaining their desired scores. Our comprehensive bundle has enabled the success of students who previously struggled with the Science section and those who were intimidated by mathematics. Satisfied students have provided testimonials and feedback directly on our website.
 
-## Commencing Our Work
+## Commencing Our work
 
 Are you prepared to initiate the process of passing the ATI TEAS and furthering your nursing profession? It is simple to enroll in our ATI TEAS Comprehensive Package. Register immediately by visiting NursingSchoolTutors.com and selecting the ATI TEAS Comprehensive Package. Our team is ecstatic to assist you in achieving success on your exam preparation endeavors and extend a warm welcome.
 

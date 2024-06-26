@@ -11,21 +11,14 @@ description: >-
   pregnancy and after birth.  The Joint Commission (TJC) provides common signs
   and symptoms of hypertension,  preeclampsia, hemorrhage, infection, and
   depression. These are all serious and common risks of  pregnancy. 
-date: '2024-05-31T21:00:00.000Z'
+date: 2024-05-31T21:00:00.000Z
 images:
   - /images/Screenshot 2024-06-24 at 19.01.38.png
 tags:
-  - >-
-    RUA Week 7 Safety Goals RUA assignment RUA Week 7 Safety Goals RUA
-    assignment,52 Week 2 Edapt- Carbohydrates, Water and Wellness Week 2 Edapt-
-    Carbohydrates, Water and Wellness,Dosage Calculation Practice Questions
-    Dosage Calculation Practice Questions,Community Cafe Week 1 - Initial post
-    for week one discussion Community Cafe Week 1 - Initial post for week one
-    discussion,
+  - 'NR224: Fundamentals Skills'
 categories:
   - 'NR224: Fundamentals Skills'
 ---
-
 
 Get your Online class for NRR224 be done by experts on your behalf. [Contact us Here ](https://nursingschooltutors.com/get-quote/ "Get a Quote")
 

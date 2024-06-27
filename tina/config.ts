@@ -828,6 +828,63 @@ export default defineConfig({
 
         ],
       },
+
+      // faq
+
+      {
+        name: "faq",
+        label: "FAQ Page",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "faqs",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "string",
+            name: "heading",
+            label: "Description",
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+          },
+          {
+            type: "object",
+            name: "faq",
+            label: "FAQ",
+            itemProps: (item) => ({
+              label: item.title, // Use the name
+            }),
+            list: true,
+            fields: [
+              
+                {
+                  type: "string",
+                  name: "title",
+                  label: "FAQ Title",
+                },
+                {
+                  type: "rich-text",
+                  name: "content",
+                  label: "FAQ Content",
+                },
+            ],
+          },
+        ],
+      },
+
       // contact  page
 
       {

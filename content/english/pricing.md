@@ -38,7 +38,7 @@ pricing:
       - Money Back Guarantee Blow Grade B
       - ENL writers to Take your Class
       - 100% Confidentiality
-  - name: Premium Online Class Doer
+  - name: Premium Online Class Doer-Best Nursing Assignment Help
     price: $100
     per: / page per each assignment
     features_list:

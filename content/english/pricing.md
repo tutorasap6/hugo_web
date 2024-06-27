@@ -14,7 +14,7 @@ pricing:
       - Early Delivery
       - 100% Confidentiality
   - name: Premium Single Assignment Help
-    price: $40
+    price: $12
     per: / page per each assignment
     features_list:
       - Original Turnitin pass

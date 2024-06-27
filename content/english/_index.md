@@ -2,13 +2,13 @@
 banner:
   title: Hire us to Take Your Online Nursing Course
   subtitle: >-
-    Are you stuck with your nursing course tasks or Online Exams? Nursing School
-    Tutor's Nursing professionals are here to help you get an A or B. We offer
-    Entire Online Class Help, Single Assignment writing Help,Proctored Nursing
-    Exams, ATI.TEAS, HESI, GED, Nursing Quizzes tests, Paediatric Nursing
-    Proctored Tests, Midterms Nursing Assignments Projects, Nursing Lab Reports,
-    Nursing Capstone Projects, Nursing Final Exams, Nursing Research Papers, BSN
-    papers, NCLEX-RN, NCLEX-PN, Nursing Case Studies and Many more!
+    Are you stuck with your nursing course tasks or online exams? Best Nursing
+    Help's professionals are here to ensure you get an A or B. We offer entire
+    online class help, single assignment writing help, proctored nursing exams,
+    ATI TEAS, HESI, GED, nursing quizzes, pediatric nursing proctored tests,
+    midterm nursing assignments, nursing lab reports, nursing capstone projects,
+    nursing final exams, nursing research papers, BSN papers, NCLEX-RN,
+    NCLEX-PN, nursing case studies, and much more!
   character_image: images/banner/character.webp
   lamp_image: images/banner/lamp.webp
   cube_image: images/banner/cube.webp

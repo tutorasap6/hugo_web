@@ -13,7 +13,7 @@ pricing:
       - Human Regenerated content; not AIs
       - Early Delivery
       - 100% Confidentiality
-  - name: Premium Single Assignment Help
+  - name: Premium Single Best Nursing Assignment Help
     price: $12
     per: / page per each assignment
     features_list:

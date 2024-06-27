@@ -94,30 +94,7 @@
           </li>
           {{ end }}
           {{ end }}
-          <li class="nav-item mx-auto">
-            <!-- Language List -->
-            {{ if .IsTranslated }}
-            <select class="nav-link border-0 fw-semibold bg-transparent px-0 ms-0 ms-xl-3" id="select-language"
-              onchange="location = this.value;">
-              {{ $siteLanguages := site.Languages}}
-              {{ $pageLang := .Page.Lang}}
-              {{ range .Page.AllTranslations }}
-              {{ $translation := .}}
-              {{ range $siteLanguages }}
-              {{ if eq $translation.Lang .Lang }}
-              {{ $selected := false }}
-              {{ if eq $pageLang .Lang}}
-              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-              </option>
-              {{ else }}
-              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-              {{ end }}
-              {{ end }}
-              {{ end }}
-              {{ end }}
-            </select>
-            {{ end }}
-          </li>
+          
         </ul>
 
         {{ if site.Params.navigation_button.enable }}

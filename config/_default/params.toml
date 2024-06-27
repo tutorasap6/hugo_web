@@ -27,7 +27,7 @@ enable = true
 # Navigation button
 [navigation_button]
 enable = true
-label = "Get A Free Quote"
+label = "Order AI Free Paper Here"
 link = "get-quote/"
 
 # cookies

@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hire us to Take Your Online Nursing Course.
+  title: Hire us to Take Your Online Nursing Course
   subtitle: >-
     Are you stuck with your nursing course tasks or Online Exams? Nursing School
     Tutor's Nursing professionals are here to help you get an A or B. We offer

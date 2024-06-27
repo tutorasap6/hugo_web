@@ -1,11 +1,11 @@
 ---
-title: 'Plans & Pricing'
-heading: 'Plans & Pricing'
-layout: pricing
+heading: Plans & Pricing
 draft: false
+title: Plans & Pricing
+layout: pricing
 pricing:
   - name: Single Assignment Help
-    price: $20
+    price: $8
     per: / page per each assignment
     features_list:
       - Original Turnitin pass
@@ -55,3 +55,4 @@ pricing:
       - 100% Confidentiality
       - Discount for Every new Class Registered
 ---
+

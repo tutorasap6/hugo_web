@@ -19,10 +19,15 @@ contact_info:
     plagiarism-free Paper We are here to serve you the best!
   blocks:
     - image: images/features/07.webp
-      title: Press
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'
-      email: poress@tech.com
-      phone: (855) 360-0512
+      title: Quick Contact Email
+      description: >-
+        If you are stuck with your assignment and it's urgent hurry and email us
+        or whatsapp us and we shall sort your assignment needs asap
+      email: >-
+        Nursingschooltutors@gmail.com Other Quick Email Address  include:
+        Tutorasap6@gmail.com, Instanthelp123@gmail.com,
+        Instanthelp24hr@gmail.com
+      phone: 'Call or Whatsapp: +1(765) 470-9090'
     - image: images/features/08.webp
       title: Help & Support
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'

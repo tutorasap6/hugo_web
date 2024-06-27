@@ -38,7 +38,7 @@ pricing:
       - Money Back Guarantee Blow Grade B
       - ENL writers to Take your Class
       - 100% Confidentiality
-  - name: Premium Entire Class Help
+  - name: Premium Online Class Doer
     price: $100
     per: / page per each assignment
     features_list:

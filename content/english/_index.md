@@ -1,8 +1,6 @@
 ---
 banner:
-  title: >-
-    Hire Our Nursing Professionals Today and Get an A for your Online Nursing
-    Course. 
+  title: 'Hire Our Nursing Professionals  to Take  Online Nursing Course. '
   subtitle: >-
     Are you stuck with your nursing course tasks or Online Exams? Nursing School
     Tutor's Nursing professionals are here to help you. We offer Entire Online

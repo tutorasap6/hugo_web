@@ -25,7 +25,7 @@ pricing:
       - Early Delivery
       - 100% Confidentiality
       - Plagiarism Report
-  - name: Professional Online Class Doer -Popular
+  - name: Professional Online Class Doer -Best Nursing Assignment Help
     price: $65
     per: /week
     features_list:

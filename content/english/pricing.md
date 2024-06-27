@@ -25,7 +25,7 @@ pricing:
       - Early Delivery
       - 100% Confidentiality
       - Plagiarism Report
-  - name: Professional Entire Class Help -Popular
+  - name: Professional Online Class Doer -Popular
     price: $65
     per: /week
     features_list:

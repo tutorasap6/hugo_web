@@ -19,12 +19,13 @@ about_info:
   title: PERFORMANCE
   heading: 'Our Performance Scorecard: Best Nursing Help'
   description: >-
-    At Best Nursing Help, we’re dedicated to assisting students with challenging
-    online class tasks and assignments. We understand the importance of tracking
-    and measuring our performance, which is why we have implemented a
-    Performance Scorecard. This tool helps us monitor our progress and evaluate
-    our success in meeting key performance indicators (KPIs). Here are samples
-    of grades from the past few classes we've handled.
+    At Nursingschooltutors we're the Best Nursing Helper, we’re dedicated to
+    assisting students with challenging online class tasks and assignments. We
+    understand the importance of tracking and measuring our performance, which
+    is why we have implemented a Performance Scorecard. This tool helps us
+    monitor our progress and evaluate our success in meeting key performance
+    indicators (KPIs). Here are samples of grades from the past few classes
+    we've handled.
   image: images/feature-image.webp
 about_features:
   enable: true

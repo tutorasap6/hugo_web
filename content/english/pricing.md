@@ -4,7 +4,7 @@ draft: false
 title: Plans & Pricing
 layout: pricing
 pricing:
-  - name: Single Assignment Help
+  - name: Single Best Nursing Assignment Help
     price: $8
     per: / page per each assignment
     features_list:

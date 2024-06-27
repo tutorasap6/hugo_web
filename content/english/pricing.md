@@ -26,7 +26,7 @@ pricing:
       - 100% Confidentiality
       - Plagiarism Report
   - name: Professional Entire Class Help -Popular
-    price: $100
+    price: $65
     per: /week
     features_list:
       - Original work guaranteed

@@ -2,11 +2,8 @@
 title: "FAQ"
 heading: "Have a question?"
 draft: false
-_build:
-  render: never
-
+layout: "faqs"
 image: "images/feature-image-3.webp"
-
 faq:
 - title: "Pay someone to take my online class for me-Nursing?"
   content: "Nursing School Tutor is a reputable company that provides online class help services to nursing students. Many nursing students have to juggle their studies with work and personal responsibilities, making it difficult for them to attend all their online classes. As a result, they may feel overwhelmed and stressed out, which can negatively affect their academic performance. One solution to this problem is to pay someone to take your online class for you. Nursing School Tutor has a team of experienced nursing tutors who are knowledgeable about various nursing subjects, including pharmacology, anatomy, and physiology. These tutors are available to take your online classes, complete your assignments, and even take your exams on your behalf. Hiring Nursing School Tutor to take your online class for you can be a great way to reduce stress and free up time for other important activities. With the help of their expert tutors, you can rest assured that you will receive top-notch grades in your online nursing classes. Moreover, Nursing School Tutor takes confidentiality seriously and ensures that all your personal and academic information remains private. They also provide round-the-clock customer support to answer any questions or concerns you may have. In conclusion, paying someone to take your online class for you is a practical solution for busy nursing students who want to maintain good grades without sacrificing their personal and work-life balance. Nursing School Tutor is a reliable and trustworthy company that can provide you with the support you need to succeed in your nursing program."

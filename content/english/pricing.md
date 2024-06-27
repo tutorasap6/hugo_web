@@ -39,7 +39,7 @@ pricing:
       - ENL writers to Take your Class
       - 100% Confidentiality
   - name: Premium Entire Class Help
-    price: $249
+    price: $100
     per: / page per each assignment
     features_list:
       - Original work guaranteed

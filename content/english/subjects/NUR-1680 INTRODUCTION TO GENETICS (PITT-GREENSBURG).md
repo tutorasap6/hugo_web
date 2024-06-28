@@ -1,7 +1,7 @@
 ---
 title: >-
-  NUR 1680 - INTRODUCTION TO GENETICS AND MOLECULAR THERAPEUTICS -
-  PITT-GREENSBURG 
+  NUR 1680 - Introduction To Genetics And Molecular Therapeutics -
+  Pitt-Greensburg
 description: >-
   Having trouble keeping up with the requirements for [NUR 1680 - INTRODUCTION
   TO GENETICS AND MOLECULAR THERAPEUTICS] (http://www.nursingschooltutors.com/)
@@ -17,7 +17,7 @@ date: 2024-06-16T04:00:00.000Z
 subject: NUR 1680
 ---
 
-NUR 1680 - INTRODUCTION TO GENETICS AND MOLECULAR THERAPEUTICS
+## NUR 1680 - Introduction To Genetics And Molecular Therapeutics - Pitt-Greensburg
 
 ### Table of Contents
 
@@ -25,7 +25,7 @@ NURSING 1680. 1
 
 NURSING 1680 Ch 6 Review. 1
 
-## NURSING 1680 Ch 6 Review.
+## **NURSING 1680 Ch 6 Review.**
 
 The quiz is a foundational part of your learning process and its goal is to assist you in reviewing the information that has been presented in the chapter to help you to reinforce your understanding of the content. It probably includes activities that help you to reinforce or improve the knowledge you have gained as well as evaluate your achievement.
 
@@ -42,3 +42,19 @@ In the process [of NURSING 1680 Chapter 6 Review](https://www.greensburg.pitt.ed
 
 Moreover, the interaction with the review activities helps develop an understanding of the significance of nursing in the achievement of health and health-related objectives as well as various populations of patients. Writing pay balance when
 finishing the class will maintain constant support throughout the review process so as to enhance the achievement in the program and make a positive difference in healthcare.
+
+## **Sample Paper**
+
+Nur 1680 Chapter 6 Review
+
+1. Aneuploidy refers to a numerical change in part of the chromosome set, leading to an abnormal number of chromosomes. This condition arises when chromosomes are not distributed equally during cell division, resulting in cells with either extra chromosomes (trisomy) or missing chromosomes (monosomy). In contrast, euploidy denotes a condition where the chromosome number is an exact multiple of the haploid number for the species. For example, humans normally have a diploid number of 46 chromosomes (23 pairs), which is a euploid state.Scholarly reference:Nagaoka, S. I., Hassold, T. J., & Hunt, P. A. (2012). Human aneuploidy: mechanisms and new insights into an age-old problem. Nature Reviews Genetics, 13(7), 493-504. [https://doi.org/10.1038/nrg3245](https://doi.org/10.1038/nrg3245)
+2. Chromosome mutations during meiosis often result from non-disjunction, a process where chromosomes fail to separate properly during cell division. This failure can occur during either meiosis I or meiosis II and leads to the production of gametes with an abnormal number of chromosomes, contributing to conditions such as Down syndrome, Turner syndrome, and Klinefelter syndrome.Scholarly reference:Nagaoka, S. I., Hassold, T. J., & Hunt, P. A. (2012). Human aneuploidy: mechanisms and new insights into an age-old problem. Nature Reviews Genetics, 13(7), 493-504. [https://doi.org/10.1038/nrg3245](https://doi.org/10.1038/nrg3245)
+3. Non-disjunction is primarily associated with two phases of meiosis:Scholarly reference:Hassold, T., & Hunt, P. (2001). To err (meiotically) is human: the genesis of human aneuploidy. Nature Reviews Genetics, 2(4), 280-291. [https://doi.org/10.1038/35066065](https://doi.org/10.1038/35066065)
+4. Meiosis I: During anaphase I, homologous chromosomes fail to separate and move to opposite poles. This results in one cell with an extra chromosome and another with one less.
+5. Meiosis II: During anaphase II, sister chromatids fail to separate, leading to similar consequences as non-disjunction in meiosis I.
+
+References:
+
+Hassold, T., & Hunt, P. (2001). To err (meiotically) is human: the genesis of human aneuploidy. Nature Reviews Genetics, 2(4), 280-291. [https://doi.org/10.1038/35066065](https://doi.org/10.1038/35066065)
+
+Nagaoka, S. I., Hassold, T. J., & Hunt, P. A. (2012). Human aneuploidy: mechanisms and new insights into an age-old problem. Nature Reviews Genetics, 13(7), 493-504. [https://doi.org/10.1038/nrg3245](https://doi.org/10.1038/nrg3245)

@@ -13,10 +13,10 @@ description: >-
   assistance in completing your [NURS 8499 ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NURS 8499
+subject: NURS 8499 Nursing Practicum or Clinical Experience
 ---
 
-# NURS 8499 Nursing Practicum or Clinical Experience
+## **NURS 8499 Nursing Practicum or Clinical Experience - Boston  college**
 
 Table of Content
 

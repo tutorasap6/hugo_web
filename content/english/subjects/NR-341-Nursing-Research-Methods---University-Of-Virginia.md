@@ -12,10 +12,10 @@ description: >-
   assistance in completing your [NR 341] (http://www.nursingschooltutors.com/)
   coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NR 341
+subject: NR 341 Nursing Research Methods
 ---
 
-# NR 341 Nursing Research Methods
+## **NR 341 Nursing Research Methods - University Of Virginia**
 
 ### Table of Contents
 

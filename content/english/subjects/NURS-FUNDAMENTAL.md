@@ -1,5 +1,5 @@
 ---
-title: NURS FUNDAMENTAL
+title: NURS Fundamental
 description: >-
   Having trouble keeping up with the requirements for [NURS FUNDAMENTAL -
   Boston  college] (http://www.nursingschooltutors.com/) Get dependable

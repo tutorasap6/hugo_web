@@ -12,10 +12,10 @@ description: >-
   assistance in completing your [NURS 542] (http://www.nursingschooltutors.com/)
   coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NURS 542
+subject: 'NURS 542 Advanced Pathophysiology '
 ---
 
-# NURS 542 Advanced Pathophysiology
+## **NURS 542 Advanced Pathophysiology - Rush University**
 
 ### Table of Content
 

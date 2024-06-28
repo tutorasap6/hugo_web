@@ -15,7 +15,7 @@ date: 2024-06-17T07:00:00.000Z
 subject: NUR 121 Introduction to Nursing
 ---
 
-## **NUR 121 Introduction to Nursing**
+## **NUR 121 Introduction to Nursing-Boston College**
 
 ### Table of Contents
 

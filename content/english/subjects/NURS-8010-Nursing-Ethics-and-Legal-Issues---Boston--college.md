@@ -11,7 +11,7 @@ description: >-
   Get in connect with us as soon as possible if you're looking for qualified
   assistance in completing your [NURS 8010 ]
   (http://www.nursingschooltutors.com/) coursework.
-subject: NURS 8010
+subject: NURS 8010 Nursing Ethics and Legal Issues
 ---
 
 # NURS 8010 Nursing Ethics and Legal Issues

@@ -12,16 +12,16 @@ description: >-
   assistance in completing your [NR 449] (http://www.nursingschooltutors.com/)
   coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NR 449
+subject: NR 449 Advanced Nursing Practice
 ---
 
-# NR 449 Advanced Nursing Practice
+## **NR 449 Advanced Nursing Practice**
 
 ### Table of Content
 
 NR 449 RUA. Analyzing Published Research-5-1,
 
-## NR 449 RUA. Analyzing Published Research-5-1, 
+## **NR 449 RUA. Analyzing Published Research-5-1,**
 
 The course entitled [NR 449 RUA Analyzing Published Research -5-1](https://www.nursing.virginia.edu/)is designed to provide nursing students with the basic tools and background needed for evaluation and analysis of published research articles on the investigation
 of the discipline. In particular, in this course, the students are honored to understand how to assess the credibility, dependability, and applicability of the evidence and conclusions derived from research investigations aimed at the

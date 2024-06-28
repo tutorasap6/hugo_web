@@ -15,12 +15,12 @@ description: >-
   assistance in completing your [NR 503] (http://www.nursingschooltutors.com/)
   coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NR 503
+subject: NR 503 Advanced Concepts in Nursing Theory and Practice
 ---
 
-# NR 503 Advanced Concepts in Nursing Theory and Practice
+## **NR 503 Advanced Concepts in Nursing Theory and Practice - University Of Virginia**
 
-### Table of Content 
+### Table of Content
 
 NR 503 Advanced Concepts in Nursing Theory and Practice
 

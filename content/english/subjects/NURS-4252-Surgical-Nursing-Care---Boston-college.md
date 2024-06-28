@@ -12,10 +12,10 @@ description: >-
   assistance in completing your [NURS 4252 ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-16T04:00:00.000Z
-subject: NURS 4252
+subject: NURS 4252 Surgical Nursing Care
 ---
 
-# NURS 4252 Surgical Nursing Care
+## **NURS 4252 Surgical Nursing Care - Boston college**
 
 ### Table of Content
 

@@ -13,10 +13,10 @@ description: >-
   assistance in completing your [NURS 2070]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-16T04:00:00.000Z
-subject: NURS 2070
+subject: NURS 2070 Advanced Nursing Concepts and Practice
 ---
 
-# NURS 2070 Advanced Nursing Concepts and Practice
+## **NURS 2070 Advanced Nursing Concepts and Practice - Boston college**
 
 ### Table of Content
 
@@ -24,7 +24,7 @@ NURS 2070 Advanced Nursing Concepts and Practice.
 
 NURS 2070 provides knowledge in working with the homeless or homeless individuals.
 
-NURS 2070 Health promotion. 
+NURS 2070 Health promotion.
 
 NURS 2070 provides knowledge in working with the homeless or homeless individuals.
 
@@ -34,7 +34,7 @@ NURS 2070:Strengths, Weaknesses, Opportunities, Threats of Wound care.
 
 NURS 2070 Adult Learning and Nursing Final (2).
 
-NURS 2070: Autism Assessment course. 
+NURS 2070: Autism Assessment course.
 
 NURS 2070 and Integrated Marketing Strategy.
 

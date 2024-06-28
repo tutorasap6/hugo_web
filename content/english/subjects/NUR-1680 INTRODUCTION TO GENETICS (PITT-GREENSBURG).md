@@ -14,7 +14,7 @@ description: >-
   assistance in completing your [NUR 1680 ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-01T21:00:00.000Z
-subject: NUR 1680
+subject: NUR 1680 - Introduction To Genetics And Molecular Therapeutics
 ---
 
 ## NUR 1680 - Introduction To Genetics And Molecular Therapeutics - Pitt-Greensburg

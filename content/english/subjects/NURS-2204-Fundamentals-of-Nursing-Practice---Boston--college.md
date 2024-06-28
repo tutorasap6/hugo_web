@@ -12,10 +12,10 @@ description: >-
   assistance in completing your [NURS 2204]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-16T04:00:00.000Z
-subject: NURS 2204
+subject: NURS 2204 Fundamentals of Nursing Practice
 ---
 
-# NURS 2204 Fundamentals of Nursing Practice
+## **NURS 2204 Fundamentals of Nursing Practice**
 
 ### Table of Content
 

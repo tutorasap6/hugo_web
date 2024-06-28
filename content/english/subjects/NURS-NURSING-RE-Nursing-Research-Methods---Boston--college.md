@@ -1,5 +1,5 @@
 ---
-title: 'NURS NURSING RE: Nursing Research Methods - Boston  college'
+title: 'NURS Nursing Research Methods: Boston  college'
 description: >-
   Having trouble keeping up with the requirements for [NURS NURSING RE: Nursing
   Research Methods - Boston  college] (http://www.nursingschooltutors.com/) Get
@@ -12,10 +12,10 @@ description: >-
   assistance in completing your [NURS NURSING RE ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: 'NURS NURSING RE: Nursing Research Methods'
+subject: NURS Nursing Research Methods
 ---
 
-## NURS NURSING RE: Nursing Research Methods - Boston  college
+## **NURS Nursing Research Methods: Boston  college**
 
 ### Table of Content
 

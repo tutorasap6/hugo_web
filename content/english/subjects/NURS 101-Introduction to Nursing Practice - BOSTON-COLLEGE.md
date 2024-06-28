@@ -11,7 +11,7 @@ description: >-
   possible if you're looking for qualified assistance in completing your [NURS
   101] (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-16T04:00:00.000Z
-subject: NURS 101 Introduction To Nursing Practice - Boston College
+subject: NURS 101 Introduction To Nursing Practice
 ---
 
 ## NURS 101 Introduction To Nursing Practice - Boston College

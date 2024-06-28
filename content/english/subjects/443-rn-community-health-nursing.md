@@ -1,12 +1,12 @@
 ---
 title: 443 RN Community Health Nursing
 description: >-
-  [NR 443 RN Community Health Nursing](http://nursingschooltutors.com/) is a
-  dynamic course that prepares future nurses to handle the particular healthcare
-  requirements of communities. Students may improve population health outcomes
-  by understanding the importance of community health, employing effective
-  techniques, and implementing evidence-based programmers. If you need help with
-  your [NR 443](http://www.nursingschooltutors.com/) online class, contact our
+  NR 443 RN Community Health Nursing is a dynamic course that prepares future
+  nurses to handle the particular healthcare requirements of communities.
+  Students may improve population health outcomes by understanding the
+  importance of community health, employing effective techniques, and
+  implementing evidence-based programmers. If you need help with your [NR
+  443](http://www.nursingschooltutors.com/) online class, contact our
   specialists for dependable online class assistance.
 date: 2021-02-06T15:56:19.000Z
 subject: NR 443 RN Community Health Nursing
@@ -30,6 +30,7 @@ subject: NR 443 RN Community Health Nursing
 * NR 443 Week 6 Graded Discussion Topic: Environmental Health
 * NR 443 Week 7 Graded Discussion Topic: Healthcare Policy
 * NR 443 Week 8 Graded Discussion Topic: Future Directions
+
 ## NR-443 Week 6 Graded Discussion Topic: Summer 2019 Environmental Health
 
 [NR 443 RN Environmental health](http://nursingschooltutors.com/) is critical to community well-being. [NR-443 Graded Discussion for Week 6](http://nursingschooltutors.com/) The impact of environmental factors on health outcomes, such as pollution, climate change, and occupational risks, is investigated in this topic.
@@ -116,8 +117,7 @@ Students [in NR 443 Week 1 Discussion](http://nursingschooltutors.com/) consider
 * NR 443 Week 7 Graded Discussion Topic: Healthcare Policy
 * NR 443 Week 8 Graded Discussion Topic: Future Directions
 
-NR 443 Week 1 Discussion 1 Healthy People 2020The federal government developed Healthy People as a set of national health objectives that are periodically evaluated to measure progress in the nation’s health goals and healthcare services. HP 2020 has a renewed focus on identifying, measuring, tracking, and reducing health disparities through a determinants-of-health approach. This week, please briefly discuss a Healthy People 2020 objective under the topic area of your choice. Go to www\.healthypeople.gov and select any one of the objectives under the topic area of your interest. Using the local, national, or international news, describe actions you, as a community health nurse, could take in formulating policy changes to help promote the objective you have selected. Cite references to support your views.
-
+NR 443 Week 1 Discussion 1 Healthy People 2020The federal government developed Healthy People as a set of national health objectives that are periodically evaluated to measure progress in the nation’s health goals and healthcare services. HP 2020 has a renewed focus on identifying, measuring, tracking, and reducing health disparities through a determinants-of-health approach. This week, please briefly discuss a Healthy People 2020 objective under the topic area of your choice. Go to [www.healthypeople.gov](http://www.healthypeople.gov) and select any one of the objectives under the topic area of your interest. Using the local, national, or international news, describe actions you, as a community health nurse, could take in formulating policy changes to help promote the objective you have selected. Cite references to support your views.
 
 NR 443 Week 1 Discussion 2 Determinants of Health
 
@@ -343,4 +343,3 @@ Tables of results:
 **[NR 443 Week 8 Social Media Discussion: Past, Present, and Future (Graded)](https://nursingschooltutors.com/get-quote/ "Get a Free Price Quote")**
 
 **[NR-443 Week 6 Graded Discussion Topic: Environmental Health (Summer 2019)](https://nursingschooltutors.com/get-quote/ "Get a Free Price Quote")**
-

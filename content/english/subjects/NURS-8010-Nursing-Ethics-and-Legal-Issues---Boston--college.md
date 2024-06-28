@@ -14,7 +14,7 @@ description: >-
 subject: NURS 8010 Nursing Ethics and Legal Issues
 ---
 
-# NURS 8010 Nursing Ethics and Legal Issues
+## **NURS 8010 Nursing Ethics and Legal Issues**
 
 ### Table of Content
 

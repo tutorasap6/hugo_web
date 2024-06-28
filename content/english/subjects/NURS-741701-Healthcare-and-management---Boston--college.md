@@ -12,10 +12,10 @@ description: >-
   assistance in completing your [NURS 741701 ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NURS 741701
+subject: NURS 741701 Healthcare and management
 ---
 
-# NURS 741701Healthcare and management
+## **NURS 741701Healthcare and management**
 
 ### Table of Content
 
@@ -23,7 +23,7 @@ NURS 741701. 28
 
 NURS 741701 Healthcare and management. 30
 
-## NURS 741701 Healthcare and management.
+## **NURS 741701 Healthcare and management.**
 
 In connecting with the course [Healthcare and Management in the NURS 741701](https://www.bc.edu/bc-web/schools/cson.html), the following areas
 of concern are considered to be fundamental to understanding the system of

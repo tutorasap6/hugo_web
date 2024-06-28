@@ -13,10 +13,10 @@ description: >-
   assistance in completing your [NURS 322] (http://www.nursingschooltutors.com/)
   coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NURS 322
+subject: NURS 322 Introduction to Professional Nursing Practice.
 ---
 
-# NURS 322 Introduction to Professional Nursing Practice.
+## **NURS 322 Introduction to Professional Nursing Practice - Rush University**
 
 ### Table of Contents
 

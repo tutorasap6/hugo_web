@@ -13,10 +13,10 @@ description: >-
   assistance in completing your [NURS 7463 ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-16T04:00:00.000Z
-subject: NURS 7463
+subject: NURS 7463 Nursing Leadership and Management
 ---
 
-# NURS 7463 Nursing Leadership and Management
+## **NURS 7463 Nursing Leadership and Management**
 
 #### Table of Content
 

@@ -13,14 +13,14 @@ description: >-
   assistance in completing your [NURS 7672 ]
   (http://www.nursingschooltutors.com/) coursework.
 date: 2024-06-17T07:00:00.000Z
-subject: NURS 7672
+subject: NURS 7672 Advanced Concepts in Nursing Theory
 ---
 
-# NURS 7672 Advanced Concepts in Nursing Theory
+## **NURS 7672 Advanced Concepts in Nursing Theory- Boston  college**
 
 ### Table of Content
 
-NURS 7672 Advanced Concepts in Nursing Theory. 
+NURS 7672 Advanced Concepts in Nursing Theory.
 
 NURS 7672 Patho Exam 2 Study Guide.
 

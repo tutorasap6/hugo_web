@@ -201,21 +201,19 @@ export default defineConfig({
         ],
       },
 
-      // ... Blog...
+      // ... Subjects...
 
       {
-        name: "post",
-        label: "Blogs",
-        path: "content/english/blog",
+        name: "subjects",
+        label: "Subjects",
+        path: "content/english/subjects",
         ui: {
           allowedActions: {
             create: true,
             delete: true,
           },
         },
-        match: {
-          exclude: "_index*",
-        },
+
         fields: [
           {
             type: "string",
@@ -235,24 +233,13 @@ export default defineConfig({
             name: "date",
             label: "Publish Date",
           },
-          {
-            type: "image",
-            name: "images",
-            label: "Image",
-            list: true,
-            description: "Upload or select an image.",
-          },
+
           {
             type: "string",
-            name: "tags",
-            label: "tags",
-            list: true,
-          },
-          {
-            type: "string",
-            name: "categories",
-            label: "categories",
-            list: true,
+            name: "subject",
+            label: "subject ",
+            description: "Example: NR 222",
+            required: true,
           },
           {
             type: "rich-text",
@@ -262,7 +249,7 @@ export default defineConfig({
           },
         ],
       },
-
+      // About US
       {
         name: "about",
         label: "About Us",
@@ -520,54 +507,7 @@ export default defineConfig({
         ],
       },
 
-      // ... Subjects...
-
-      {
-        name: "subjects",
-        label: "Subjects",
-        path: "content/english/subjects",
-        ui: {
-          allowedActions: {
-            create: true,
-            delete: true,
-          },
-        },
-
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "string",
-            name: "description",
-            label: "Description",
-            description: "Enter the meta description",
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Publish Date",
-          },
-
-          {
-            type: "string",
-            name: "subject",
-            label: "subject ",
-            description: "Example: NR 222",
-            required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-        ],
-      },
+      
 
 
       // How it works
@@ -885,6 +825,150 @@ export default defineConfig({
         ],
       },
 
+      // terms 
+
+      {
+        name: "terms",
+        label: "Terms & Conditions Page",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "tnc",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
+       // money back 
+
+       {
+        name: "moneyback",
+        label: "Money Back Page",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "money-back",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
+      // Revision Policy
+
+      {
+        name: "Revision_Policy",
+        label: "Revision Policy",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "revision-policy",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
+      // Privacy Policy
+
+      {
+        name: "Privacy_Policy",
+        label: "Privacy Policy",
+        path: "content/english",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "privacy-policy",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
       // contact  page
 
       {
@@ -1105,35 +1189,7 @@ export default defineConfig({
         ],
       },
       
-      //elements
-      {
-        name: "elements",
-        label: "Elements Page",
-        path: "content/english", // Adjust the path based on your folder structure
-        match: {
-          include: "elements", // Adjust the filename based on your actual file name
-        },
-        fields: [
-          {
-            label: "Title",
-            name: "title",
-            type: "string",
-          },
-          {
-            label: "Description",
-            name: "description",
-            type: "string",
-          },
-
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-        
-        ],
-      },
+      
       
       // get quote page
 
@@ -1225,6 +1281,68 @@ export default defineConfig({
                 }),
               },
             ],
+          },
+        ],
+      },
+
+      // ... Blog...
+
+      {
+        name: "post",
+        label: "Blogs",
+        path: "content/english/blog",
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+        },
+        match: {
+          exclude: "_index*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            description: "Enter the meta description",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Publish Date",
+          },
+          {
+            type: "image",
+            name: "images",
+            label: "Image",
+            list: true,
+            description: "Upload or select an image.",
+          },
+          {
+            type: "string",
+            name: "tags",
+            label: "tags",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "categories",
+            label: "categories",
+            list: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
           },
         ],
       },

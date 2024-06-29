@@ -1126,6 +1126,83 @@ export default defineConfig({
         ],
       },
 
+      // Services 
+
+      {
+        name: "services",
+        label: "Services Page",
+        path: "content/english/services", // Adjust the path based on your folder structure
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+        },
+        
+        fields: [
+          {
+            label: "Title",
+            name: "title",
+            type: "string",
+          },
+          {
+            label: "Heading",
+            name: "heading",
+            type: "string",
+          },
+
+          {
+            label: "Description",
+            name: "description",
+            type: "string",
+            description: "Meta Description",
+          },
+        
+          {
+            label: "Layout",
+            name: "layout",
+            type: "string",
+            description: "DO NOT CHANGE - It is default value",
+          },
+
+          {
+            label: "Bullet Points",
+            name: "bullet_points",
+            type: "string",
+            list: true,
+          },
+          
+          {
+            label: "Features",
+            name: "features",
+            type: "object",
+            list: true,
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                type: "string",
+              },
+              {
+                label: "Description",
+                name: "description",
+                type: "string",
+              },
+              {
+                label: "Image",
+                name: "image",
+                type: "string",
+              },
+            ],
+            itemProps: (item) => ({
+              label: item.title, // Use the feature title as the display label
+            }),
+          },
+          
+        ],
+      },
+
+
       // testimonials page
 
       {

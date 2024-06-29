@@ -1,6 +1,6 @@
 ---
 title: "Entire Online Class Help"
-#heading: "Why we are the Best Nursing Tutors and Writers"
+heading: "Why we are the Best Nursing Tutors and Writers"
 description: "As nursing schools transition to online learning environments, students face new challenges in completing their coursework. Online classes require students to be self-motivated, organized, and disciplined. However, not all students possess these qualities, and some may struggle to keep up with the rigorous demands of online classes. To alleviate this challenge, nursing school tutors offer entire online class help services that can assist students in completing their coursework and achieving academic success."
 layout: "services"
 bullet_points:

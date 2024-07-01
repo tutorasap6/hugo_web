@@ -11,7 +11,7 @@ description: >-
   510](http://www.nursingschooltutors.com/). Get in touch with us right now for
   expert assistance with your coursework.
 date: 2024-02-06T15:56:19.000Z
-subject: NR 510 Leadership
+subject: NR 510 - Chamberlain College of Nursing
 ---
 
 **Table of Content**

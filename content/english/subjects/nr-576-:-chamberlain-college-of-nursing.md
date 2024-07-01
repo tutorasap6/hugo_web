@@ -10,9 +10,9 @@ date: 2024-06-30T21:00:00.000Z
 subject: 'NR 576 :Differential Diagnosis In Adult-Gerontology'
 ---
 
-NURSING NR 576: Differential Diagnosis in Adult-Gerontology
+## **NURSING NR 576: Differential Diagnosis in Adult-Gerontology**
 
-Course Syllabus
+**Course Syllabus**
 
 Course Overview:This course focuses on developing advanced diagnostic reasoning skills necessary for accurate and comprehensive assessment of adult-gerontology patients. Emphasis is placed on the integration of pathophysiological, psychosocial, and developmental knowledge in the differential diagnosis process.
 
@@ -32,92 +32,92 @@ Course Objectives:
 5. Apply evidence-based practice guidelines to inform clinical decision-making.
 6. Demonstrate effective communication with patients and healthcare teams in the diagnostic process.
 
-Course Schedule:
+## **Course Schedule:**
 
-Week 1: Introduction to Differential Diagnosis
+### Week 1: Introduction to Differential Diagnosis
 
 * Overview of course and expectations
 * Fundamentals of differential diagnosis
 * Case studies: Initial patient assessments
 
-Week 2: Diagnostic Reasoning and Clinical Decision Making
+### **Week 2: Diagnostic Reasoning and Clinical Decision Making**
 
 * Principles of clinical reasoning
 * Decision-making frameworks
 * Case studies: Applying clinical reasoning
 
-Week 3: Cardiovascular Disorders
+### Week 3: Cardiovascular Disorders
 
 * Common cardiovascular conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Cardiovascular diagnoses
 
-Week 4: Respiratory Disorders
+### Week 4: Respiratory Disorders
 
 * Common respiratory conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Respiratory diagnoses
 
-Week 5: Neurological Disorders
+### Week 5: Neurological Disorders
 
 * Common neurological conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Neurological diagnoses
 
-Week 6: Endocrine and Metabolic Disorders
+### Week 6: Endocrine and Metabolic Disorders
 
 * Common endocrine and metabolic conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Endocrine and metabolic diagnoses
 
-Week 7: Gastrointestinal Disorders
+### Week 7: Gastrointestinal Disorders
 
 * Common gastrointestinal conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Gastrointestinal diagnoses
 
-Week 8: Renal and Urological Disorders
+### Week 8: Renal and Urological Disorders
 
 * Common renal and urological conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Renal and urological diagnoses
 
-Week 9: Musculoskeletal and Rheumatologic Disorders
+### Week 9: Musculoskeletal and Rheumatologic Disorders
 
 * Common musculoskeletal and rheumatologic conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Musculoskeletal and rheumatologic diagnoses
 
-Week 10: Hematologic and Oncologic Disorders
+### Week 10: Hematologic and Oncologic Disorders
 
 * Common hematologic and oncologic conditions in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Hematologic and oncologic diagnoses
 
-Week 11: Infectious Diseases
+### Week 11: Infectious Diseases
 
 * Common infectious diseases in adult-gerontology patients
 * Diagnostic approaches and tools
 * Case studies: Infectious disease diagnoses
 
-Week 12: Integrative Case Studies
+### Week 12: Integrative Case Studies
 
 * Comprehensive case studies
 * Integration of knowledge and skills
 * Diagnostic challenges and solutions
 
-Week 13: Final Project Presentations
+### Week 13: Final Project Presentations
 
 * Presentation of differential diagnosis projects
 * Peer review and feedback
 
-Week 14: Course Review and Final Exam
+### Week 14: Course Review and Final Exam
 
 * Review of key concepts
 * Final exam preparation
 * Final exam
 
-Required Textbooks:
+## **Required Textbooks:**
 
 * Differential Diagnosis in Primary Care by Rhoads, J., & Petersen, S.
 * Advanced Health Assessment and Clinical Diagnosis in Primary Care by Dains, J.E., Baumann, L.C., & Scheibel, P.
@@ -148,13 +148,13 @@ Course Technology Requirements:
 * Computer with webcam and microphone
 * Access to the Chamberlain learning management system
 
-# NR 576: Differential Diagnosis in Adult-Gerontology
+## **NR 576: Differential Diagnosis in Adult-Gerontology**
 
-## Introduction to NR 576: Differential Diagnosis in Adult-Gerontology
+## **Introduction to NR 576: Differential Diagnosis in Adult-Gerontology**
 
 The course "NR 576: Differential Diagnosis in Adult-Gerontology" at Chamberlain College of Nursing is designed to enhance the diagnostic reasoning skills of nursing students. This course is vital for advanced practice nurses as it prepares them to accurately assess and diagnose various health conditions in adult and geriatric patients. With an emphasis on comprehensive assessment, clinical decision-making, and evidence-based practice, NR 576 is a cornerstone for those pursuing advanced nursing roles.
 
-## Course Overview and Objectives
+## **Course Overview and Objectives**
 
 ### Objectives of NR 576: Differential Diagnosis in Adult-Gerontology
 
@@ -167,7 +167,7 @@ The primary objectives of NR 576: Differential Diagnosis in Adult-Gerontology in
 5. Applying Evidence-Based Practice: Incorporating evidence-based practice guidelines into clinical decision-making is a crucial skill developed during the course.
 6. Effective Communication: Students enhance their communication skills, which are essential for interacting with patients and healthcare teams during the diagnostic process.
 
-## Week-by-Week Breakdown of NR 576: Differential Diagnosis in Adult-Gerontology
+## **Week-by-Week Breakdown of NR 576: Differential Diagnosis in Adult-Gerontology**
 
 ### Week 1: Introduction to Differential Diagnosis
 

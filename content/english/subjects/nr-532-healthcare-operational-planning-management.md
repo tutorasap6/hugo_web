@@ -8,7 +8,7 @@ description: >-
   management](http://www.nursingschooltutors.com/), enabling you to thrive on
   assignments and meet your academic objectives.
 date: 2024-02-06T15:56:19.000Z
-subject: NR 532 Healthcare
+subject: NR 532 - Chamberlain College of Nursing
 ---
 
 **Table of Content**

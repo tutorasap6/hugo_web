@@ -28,8 +28,10 @@ contact_info:
       phone: 'Whatsapp us Now: +1(765) 470-9090'
     - image: images/features/09.webp
       title: Sales
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'
-      email: sales@tech.com
-      phone: (855) 360-0512
+      description: >-
+        We are here to ensure you get you order delivered on time! We value your
+        Purchase!
+      email: Instanthelp24hr@gmail.com
+      phone: 'Whatsapp in case of any Delay, Chat us Here: +1(765) 470-9090'
 ---
 

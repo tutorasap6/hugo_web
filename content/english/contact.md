@@ -17,10 +17,10 @@ contact_info:
     plagiarism-free Paper We are here to serve you the best!
   blocks:
     - image: images/features/07.webp
-      title: Press
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'
-      email: poress@tech.com
-      phone: (855) 360-0512
+      title: Chat with us in our Email
+      description: We shall respond your email immediately
+      email: Nursingschooltutors@gmail.com
+      phone: +1(765) 470-9090
     - image: images/features/08.webp
       title: Help & Support
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'

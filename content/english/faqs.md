@@ -949,7 +949,7 @@ faq:
       and effective nursing care plans, with support from professional nursing
       tutors available at
       [nursingschooltutors.com](https://www.nursingschooltutors.com).
-  - title: Do you have Examples of Essays For Review of Assignment Help For Nursing?
+  - title: Do you Have Examples of Essays For Review of Assignment Help For Nursing?
     content: >
       ### Essay Example 1: The Importance of Patient-Centered Care in Nursing
 

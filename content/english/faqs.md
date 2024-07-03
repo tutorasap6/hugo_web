@@ -97,6 +97,9 @@ faq:
       [homepage](https://www.nursingschooltutors.com)
   - title: Need Someone To Take My Online Nursing Class For Me?
     content: >
+      ## Need Someone To Take My Online Nursing Class For Me?
+
+
       Are you finding it difficult to balance your academic studies with work
       and other commitments? If you're struggling with your online nursing
       class, you may have thought, "I need someone to take my online nursing

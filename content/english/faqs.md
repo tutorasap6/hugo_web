@@ -1274,7 +1274,7 @@ faq:
 
       For more information and to get started with their services, visit
       [nursingschooltutors.com](https://www.nursingschooltutors.com).
-  - title: Can professors take me off my Nursing class?
+  - title: Can Professors Take me off my Nursing class?
     content: >
       Nursing School Tutor is an online class help company that provides
       assistance to nursing students who are struggling to keep up with their

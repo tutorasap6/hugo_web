@@ -1,10 +1,10 @@
 ---
 draft: false
 title: Contact
-description: this is meta description
+description: Get to Talk to Us instantly so that we can serve you
 layout: contact
 contact_info:
-  title: Get in touch today!
+  title: Get in touch today.
   subtitle: Contact
   content: >-
     Hello to you all, In case you want to reach us instantly for unlock or for

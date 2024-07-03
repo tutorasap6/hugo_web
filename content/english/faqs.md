@@ -1,7 +1,9 @@
 ---
 draft: false
 title: FAQ
-heading: Have a question?
+heading: >-
+  Do have any Burning Question that you would like to ask? Chat with us Below
+  Today!
 layout: faqs
 faq:
   - title: >-

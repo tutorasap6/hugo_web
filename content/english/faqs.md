@@ -1713,9 +1713,7 @@ faq:
       understanding these situations and knowing how to respond, you can better
       navigate your academic journey and maintain your path to becoming a
       successful nurse.
-  - title: >-
-      Should i take Nursing class as I work or let my Nursingschooltutors Help
-      me?
+  - title: Should i take Nursing class as I work or let Nursingschooltutors Help me?
     content: >
       ## Should I Take a Nursing Class as I Work or Let My NursingSchoolTutors
       Help Me?

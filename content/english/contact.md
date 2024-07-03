@@ -23,9 +23,9 @@ contact_info:
       phone: +1(765) 470-9090
     - image: images/features/08.webp
       title: Help & Support
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'
-      email: support@tech.com
-      phone: (855) 360-0512
+      description: We are Here to serve you!
+      email: instanthelp123@gmail.com
+      phone: 'Whatsapp us Now: +1(765) 470-9090'
     - image: images/features/09.webp
       title: Sales
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus dui.'

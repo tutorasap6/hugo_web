@@ -1,7 +1,10 @@
 ---
-title: "Terms & Conditions"
-description: "this is meta description"
 draft: false
+title: Terms & Conditions
+description: >-
+  At Nursing School Tutors, we are committed to providing high-quality tutoring
+  services to nursing students. We understand the importance of a safe and
+  productive learning environment
 ---
 
 ### Terms & Conditions

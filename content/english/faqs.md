@@ -25,20 +25,20 @@ faq:
       Key Features of Nursing School Tutors' Services:
 
 
-      1. Human-Written, Plagiarism-Free Assignments: All assignments are written
-      by experienced professionals, not AI, ensuring originality and quality.
-      Each assignment is checked with Turnitin software to guarantee it is
-      plagiarism-free.
+      1. **Human-Written, Plagiarism-Free Assignments:** All assignments are
+      written by experienced professionals, not AI, ensuring originality and
+      quality. Each assignment is checked with Turnitin software to guarantee it
+      is plagiarism-free.
 
-      2. Unlimited Revisions: Nursing School Tutors has a revision policy that
-      allows unlimited revisions to ensure that your work meets all your
+      2. **Unlimited Revisions:** Nursing School Tutors has a revision policy
+      that allows unlimited revisions to ensure that your work meets all your
       requirements and expectations.
 
-      3. Full Class Management: We can take the entire class for you, managing
-      all assignments, quizzes, and exams to ensure everything passes through
-      quality assurance checks.
+      3. **Full Online Class Management**: We can take the entire class for you,
+      managing all assignments, quizzes, and exams to ensure everything passes
+      through quality assurance checks.
 
-      4. Quality Assurance: Every assignment goes through a rigorous quality
+      4. **Quality Assurance**: Every assignment goes through a rigorous quality
       assurance process to ensure it meets academic standards and requirements.
 
 
@@ -58,7 +58,7 @@ faq:
       Tutors](https://nursingschooltutors.com) stands out as a premier platform.
       Specializing in providing resources, tutoring, and assignment writing
       services, this website is tailored specifically for nursing students,
-      ensuring they receive the support they need to excel in their studies. 
+      ensuring they receive the support they need to excel in their studies.
 
 
       ## How to Write Nursing Assignments with Nursing Assignment Writing Help?

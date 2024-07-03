@@ -14,7 +14,7 @@ pricing:
       - Early Delivery
       - 100% Confidentiality
   - name: Premium Single Best Nursing Assignment Help
-    price: $12
+    price: $13
     per: / page per each assignment
     features_list:
       - Original Turnitin pass

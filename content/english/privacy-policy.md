@@ -1,7 +1,10 @@
 ---
-title: "Our Commitment to Your Privacy"
-description: "this is meta description"
 draft: false
+title: Our Commitment to Your Privacy
+description: >-
+  At Nursing School Tutors, we understand the importance of protecting your
+  personal information. We are committed to safeguarding your privacy and
+  maintaining the confidentiality of your personal information.
 ---
 
 At Nursing School Tutors, we understand the importance of protecting your personal information. We are committed to safeguarding your privacy and maintaining the confidentiality of your personal information.

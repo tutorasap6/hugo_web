@@ -1,7 +1,11 @@
 ---
-title: "Revision Policy"
-description: "this is meta description"
 draft: false
+title: Revision Policy
+description: >-
+  At Nursing School Tutors, we understand that sometimes tutoring sessions may
+  not meet the expectations of our students. That’s why we offer a revision
+  policy designed to provide our students with the highest quality tutoring
+  services
 ---
 
 ### Revision Policy

@@ -428,7 +428,7 @@ faq:
       us today.
   - title: Can I get Help with 4 week travel nurse assignments?
     content: >
-      # Can I Get Help with 4 Week Travel Nurse Assignments?
+      ## **Can I Get Help with 4 Week Travel Nurse Assignments?**
 
 
       Travel nursing offers an exciting opportunity for nurses to explore new
@@ -442,7 +442,7 @@ faq:
       juggling short-term assignments and educational demands.
 
 
-      ## The Challenges of 4-Week Travel Nurse Assignments
+      ## **The Challenges of 4-Week Travel Nurse Assignments**
 
 
       ### 1. Time Management
@@ -481,7 +481,7 @@ faq:
       on the road.
 
 
-      ## How nursingschooltutors.com Can Help
+      ## **How nursingschooltutors.com Can Help**
 
 
       At [nursingschooltutors.com](https://nursingschooltutors.com), we
@@ -534,7 +534,7 @@ faq:
       connected and get the help you need, regardless of your location.
 
 
-      ## FAQs
+      ## **You may also like to know\..**
 
 
       ### 1. How can I balance my travel nurse assignments with my academic

@@ -2,6 +2,11 @@
 title: NR 305 Health Assessment at Chamberlain College of Nursing
 description: NR 305 Health Assessment at Chamberlain College of Nursing
 date: 2024-05-25T21:00:00.000Z
+images:
+  - >-
+    /images/DALL·E 2024-03-13 14.02.42 - Create a logo for a tech startup named
+    'Nursing School Tutors.' The logo should feature a dark-pink color scheme
+    and include an animated cartoon nurse.webp
 ---
 
 ## Table of Contents

@@ -33,6 +33,8 @@ Prerequisites:
 
 [Nr 576 Week 5 reflection.docx](https://nursingschooltutors.com/blog/nr-576-week-5-reflection/ "nr-576-week-5-reflection")
 
+NR 576 Week 8 Reflection.docx
+
 **Nr 576 differential diagnosis in adult gerontology pdf**
 
 **Nr 576 differential diagnosis in adult gerontology quizlet**

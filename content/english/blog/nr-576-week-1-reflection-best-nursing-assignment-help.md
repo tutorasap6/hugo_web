@@ -4,7 +4,7 @@ description: Nr 576 Week 1 Reflection Pay Someone to Take my Online Class
 date: 2024-06-30T21:00:00.000Z
 ---
 
-## Nr 576 Week 1: Reflection on Providing Care to Uninsured Patients
+**Nr 576 Week 1: Reflection on Providing Care to Uninsured Patients**
 
 Introduction
 

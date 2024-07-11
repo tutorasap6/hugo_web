@@ -6,7 +6,7 @@ date: 2024-07-11T21:00:00.000Z
 
 # NR 341 Complex Adult Health: Week 5 Assignment on Trauma and Emergency Care
 
-## Trauma and Emergency Care Overview
+## Trauma and Emergency Care Overview.
 
 In the United States, more than 130 million people visit emergency departments (ED) annually, with approximately 16 million admitted for continued treatment (Centers for Disease Control and Prevention \[CDC], 2021). The primary goal of emergency nursing is the early recognition of life-threatening injuries. This often necessitates immediate intervention to stabilize the patient before a medical diagnosis is made. Emergency nurses must remain calm and organized, rapidly adapting to unexpected situations while providing care for patients of all age groups and a variety of medical conditions. Common emergencies include heat- and cold-related injuries, submersion injuries, violence, penetrating trauma, and poisoning. It is crucial for nurses to quickly identify patients needing urgent treatment and determine appropriate interventions.
 

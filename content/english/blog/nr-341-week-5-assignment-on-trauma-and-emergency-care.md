@@ -23,9 +23,22 @@ The primary survey focuses on identifying life-threatening conditions to initiat
 * Exposure and Environmental Control: Removing clothing for a thorough assessment while preserving forensic evidence and preventing hypothermia.
 * Facilitation of Adjuncts and Family: Allowing family presence during resuscitation and invasive procedures to reduce patient anxiety and provide comfort.
 
-### Secondary Survey
+In addition, primary survey in the emergency department (ED) aims to identify life-threatening conditions so that immediate interventions can be initiated. The components of the primary survey include:
+
+* Airway and Alertness: Ensuring the airway is clear and assessing the patient's level of alertness.
+* Breathing: Monitoring for signs of respiratory distress, such as dyspnea, gasping, and abnormal breathing patterns.
+* Circulation: Assessing for adequate blood circulation to prevent shock by monitoring pulses, skin temperature, mental status, and capillary refill.
+* Catastrophic Hemorrhage: Identifying and controlling severe bleeding.
+* Disability: Evaluating the patient's level of consciousness and neurological status using the Glasgow Coma Scale (GCS).
+* Exposure and Environmental Control: Removing clothing to perform a thorough assessment while preventing hypothermia and preserving forensic evidence if necessary.
+
+These steps are crucial for identifying life-threatening conditions and implementing necessary interventions to stabilize the patient.
+
+### S**econdary survey**
 
 After the primary survey and life-saving interventions, the secondary survey identifies all injuries through a brief, systematic process. This includes obtaining a history using the SAMPLE mnemonic (Symptoms, Allergies, Medications, Past health history, Last meal, Events leading to injury), performing a head-to-toe assessment, and inspecting posterior surfaces for injuries.
+
+More than 130 million people visit emergency departments annually in the United States, with around 16 million requiring hospital admission for further treatment (Centers for Disease Control and Prevention \[CDC], 2021). The primary goal of emergency nursing is the early recognition of life-threatening injuries. This often means that interventions to prevent or reverse these situations take precedence over making a medical diagnosis. Emergency nurses must swiftly adapt to unexpected and unanticipated scenarios while remaining calm and organized. Comprehensive knowledge of care for all age groups with a wide range of health issues is essential. Common emergency situations include heat- and cold-related emergencies, submersion injuries, violence, penetrating trauma, and various types of poisoning. Nurses must quickly identify clients in need of emergent treatment and determine appropriate collaborative interventions.
 
 ## Adjunct Measures for Monitoring
 

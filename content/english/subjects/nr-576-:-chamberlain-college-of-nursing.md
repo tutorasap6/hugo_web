@@ -10,7 +10,7 @@ date: 2024-06-30T21:00:00.000Z
 subject: 'NR 576 :Differential Diagnosis In Adult-Gerontology'
 ---
 
-**NURSING NR 576: Differential Diagnosis in Adult-Gerontology**
+## **NURSING NR 576: Differential Diagnosis in Adult-Gerontology**
 
 **Course Syllabus**
 

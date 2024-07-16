@@ -80,7 +80,7 @@ Utilizing the [NR 601 Week 7 Reflection](http://www.nursingschooltutors.com/) pr
 
 ## NR 601 Week 8 Clinical Performance Evaluation and Clinical Encounter Log
 
-Keep track of your [NR 601 WEEK 8 clinical performance and keep a journal of your encounters](/http:/nursingschooltutors.com/) so that you may document your improvement as a healthcare practitioner as well as your practical experiences.
+Keep track of your [NR 601 WEEK 8 clinical performance and keep a journal of your encounters](http://www.nursingschooltutors.com/) so that you may document your improvement as a healthcare practitioner as well as your practical experiences.
 
 ## NR 601 Final Exam Study Guide
 

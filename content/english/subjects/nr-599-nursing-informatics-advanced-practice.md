@@ -1,7 +1,7 @@
 ---
 title: NR 599 Nursing Informatics for Advanced Practice
 description: >-
-   [NR 599 Nursing Informatics for Advanced Practice (Updated 2023](http://www.nursingschooltutors.com/)): Which Online Course Taking Service Is Best for You? Our in-depth online course will help you learn nursing informatics and improve your skills. Our service guarantees a trouble-free education by giving you all the resources you need to succeed in this area. Sign up right away to further your knowledge in the field of nursing informatics.
+   NR 599 Nursing Informatics for Advanced Practice Updated 2023 Which Online Course Taking Service Is Best for You? Our in-depth online course will help you learn nursing informatics and improve your skills. Our service guarantees a trouble-free education by giving you all the resources you need to succeed in this area. Sign up right away to further your knowledge in the field of nursing informatics.
 date: 2024-02-06T15:56:19.000Z
 subject: NR 599 Nursing Informatics for Advanced Practice
 ---
@@ -45,15 +45,15 @@ Your trip will begin with the introductions provided for [NR 599 week 1](http://
 
 **NR 599 Week 2 Midweek Comprehension Questions plus Pre-TANIC Self-Assessment, Readings (Bundle)**
 
-During [NR 599 week 2](http://www.nursingschooltutors.com/http:/www.nursingschooltutors.com/), put your knowledge to the test with some midweek comprehension questions, and be ready for the pre-TANIC self-assessment so you can evaluate how much you already know.
+During [NR 599 week 2](http://www.nursingschooltutors.com/), put your knowledge to the test with some midweek comprehension questions, and be ready for the pre-TANIC self-assessment so you can evaluate how much you already know.
 
 ## NR 599 Week 3 EHRs Benefits and Drawbacks (4 Versions)
 
-In [NR 599 Week 3](/http:/www.nursingschooltutors.com/), we look into Electronic Health Records, or EHRs, and investigate the benefits and drawbacks of using these records throughout all four content iterations.
+In [NR 599 Week 3](http://www.nursingschooltutors.com/), we look into Electronic Health Records, or EHRs, and investigate the benefits and drawbacks of using these records throughout all four content iterations.
 
 ## NR 599 Week 4 Midterm Exam Material plus Midweek Comprehension Questions (Bundle)
 
-Prepare yourself for the midterm exam, which will be given during [NR 599 week 4](http://www.nursingschooltutors.com/http:/www.nursingschooltutors.com/) and will test your understanding of the course material. In addition, around the middle of the week, you should review key ideas by answering comprehension questions.
+Prepare yourself for the midterm exam, which will be given during [NR 599 week 4](http://www.nursingschooltutors.com/) and will test your understanding of the course material. In addition, around the middle of the week, you should review key ideas by answering comprehension questions.
 
 ## NR 599 Week 8 Final Exam Study Guide
 

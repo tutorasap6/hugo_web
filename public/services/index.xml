@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Nursing School Tutor</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Services on Nursing School Tutor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entire Online Class Help</title>
+      <link>//localhost:1313/services/entire-online-class-help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/entire-online-class-help/</guid>
+      <description>test</description>
+    </item>
+    <item>
+      <title>General Writing Service</title>
+      <link>//localhost:1313/services/general-writing-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/general-writing-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Original Assignment Help</title>
+      <link>//localhost:1313/services/original-assignment-help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/original-assignment-help/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proctored Exam Help service</title>
+      <link>//localhost:1313/services/exam-help-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/exam-help-service/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

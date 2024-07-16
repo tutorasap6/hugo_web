@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Toy on Saasis - Hugo Saas Landing Theme</title>
-    <link>/fr/tags/toy/</link>
-    <description>Recent content in Toy on Saasis - Hugo Saas Landing Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Toy on Nursing School Tutor</title>
+    <link>//localhost:1313/fr/tags/toy/</link>
+    <description>Recent content in Toy on Nursing School Tutor</description>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
-    <copyright>Conçu Par [Themefisher](https://themefisher.com/) &amp; Développé Par [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Mon, 25 Jan 2021 11:35:57 +0600</lastBuildDate><atom:link href="/fr/tags/toy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 11:35:57 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/tags/toy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DIY Paper Diamond Tutorial with HUNGRY HEART</title>
-      <link>/fr/blog/blog-3/</link>
+      <link>//localhost:1313/fr/blog/blog-3/</link>
       <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
-      
-      <guid>/fr/blog/blog-3/</guid>
+      <guid>//localhost:1313/fr/blog/blog-3/</guid>
       <description>A paper diamond is such a pretty way to bring a flair of stylish luxury to your home.</description>
     </item>
-    
   </channel>
 </rss>

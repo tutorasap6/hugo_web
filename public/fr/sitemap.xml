@@ -2,413 +2,193 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/</loc>
+    <loc>//localhost:1313/fr/</loc>
     <lastmod>2021-02-03T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/"
+                href="//localhost:1313/fr/"
                 />
   </url><url>
-    <loc>/fr/tags/alarm/</loc>
+    <loc>//localhost:1313/fr/tags/alarm/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/blog/blog-6/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/blog/blog-8/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/blog/</loc>
     <lastmod>2021-02-03T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/alarm/"
+                href="//localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/tags/alarm/"
+                href="//localhost:1313/fr/blog/"
                 />
   </url><url>
-    <loc>/fr/blog/blog-6/</loc>
+    <loc>//localhost:1313/fr/categories/</loc>
     <lastmod>2021-02-03T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/blog-6/"
+                href="//localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/blog/blog-6/"
+                href="//localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/blog/blog-8/</loc>
+    <loc>//localhost:1313/fr/tags/clock/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/categories/lifestyle/</loc>
+    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/</loc>
     <lastmod>2021-02-03T16:56:47+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/blog-8/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/blog/blog-8/"
+                href="//localhost:1313/fr/tags/"
                 />
   </url><url>
-    <loc>/fr/blog/</loc>
-    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/blog/"
-                />
-  </url><url>
-    <loc>/fr/categories/</loc>
-    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/categories/"
-                />
-  </url><url>
-    <loc>/fr/tags/clock/</loc>
-    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/clock/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/clock/"
-                />
-  </url><url>
-    <loc>/fr/categories/lifestyle/</loc>
-    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/lifestyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/categories/lifestyle/"
-                />
-  </url><url>
-    <loc>/fr/tags/</loc>
-    <lastmod>2021-02-03T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/"
-                />
-  </url><url>
-    <loc>/fr/categories/accessories/</loc>
+    <loc>//localhost:1313/fr/categories/accessories/</loc>
     <lastmod>2021-02-02T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/accessories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/categories/accessories/"
-                />
   </url><url>
-    <loc>/fr/tags/balloon/</loc>
+    <loc>//localhost:1313/fr/tags/balloon/</loc>
     <lastmod>2021-02-02T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/balloon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/balloon/"
-                />
   </url><url>
-    <loc>/fr/tags/gas/</loc>
+    <loc>//localhost:1313/fr/tags/gas/</loc>
     <lastmod>2021-02-02T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/gas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/gas/"
-                />
   </url><url>
-    <loc>/fr/blog/blog-5/</loc>
+    <loc>//localhost:1313/fr/blog/blog-5/</loc>
     <lastmod>2021-02-02T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/blog/blog-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/blog/blog-5/"
-                />
   </url><url>
-    <loc>/fr/blog/blog-7/</loc>
+    <loc>//localhost:1313/fr/blog/blog-7/</loc>
     <lastmod>2021-02-02T10:56:47+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/blog/blog-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/blog/blog-7/"
-                />
   </url><url>
-    <loc>/fr/blog/blog-4/</loc>
+    <loc>//localhost:1313/fr/blog/blog-4/</loc>
     <lastmod>2021-01-25T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/blog/blog-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/blog/blog-4/"
-                />
   </url><url>
-    <loc>/fr/tags/food/</loc>
+    <loc>//localhost:1313/fr/tags/food/</loc>
     <lastmod>2021-01-25T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/food/"
-                />
   </url><url>
-    <loc>/fr/categories/food/</loc>
+    <loc>//localhost:1313/fr/categories/food/</loc>
     <lastmod>2021-01-25T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/categories/food/"
-                />
   </url><url>
-    <loc>/fr/tags/gold/</loc>
+    <loc>//localhost:1313/fr/tags/gold/</loc>
     <lastmod>2021-01-25T16:56:47+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/gold/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/gold/"
-                />
   </url><url>
-    <loc>/fr/tags/diy/</loc>
+    <loc>//localhost:1313/fr/tags/diy/</loc>
     <lastmod>2021-01-25T11:35:57+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/diy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/diy/"
-                />
   </url><url>
-    <loc>/fr/blog/blog-3/</loc>
+    <loc>//localhost:1313/fr/blog/blog-3/</loc>
     <lastmod>2021-01-25T11:35:57+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/blog/blog-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/blog/blog-3/"
-                />
   </url><url>
-    <loc>/fr/tags/toy/</loc>
+    <loc>//localhost:1313/fr/tags/toy/</loc>
     <lastmod>2021-01-25T11:35:57+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/toy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/toy/"
-                />
   </url><url>
-    <loc>/fr/blog/blog-2/</loc>
+    <loc>//localhost:1313/fr/blog/blog-2/</loc>
     <lastmod>2021-01-25T11:33:57+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/blog/blog-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/blog/blog-2/"
-                />
   </url><url>
-    <loc>/fr/tags/photography/</loc>
+    <loc>//localhost:1313/fr/tags/photography/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/tags/photography/"
-                />
   </url><url>
-    <loc>/fr/categories/photography/</loc>
+    <loc>//localhost:1313/fr/categories/photography/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/categories/photography/"
-                />
   </url><url>
-    <loc>/fr/blog/blog-1/</loc>
+    <loc>//localhost:1313/fr/blog/blog-1/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/blog-1/"
+                href="//localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/blog/blog-1/"
+                href="//localhost:1313/fr/about/"
                 />
   </url><url>
-    <loc>/fr/about/</loc>
+    <loc>//localhost:1313/fr/features/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/about/"
+                href="//localhost:1313/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/about/"
+                href="//localhost:1313/fr/features/"
                 />
   </url><url>
-    <loc>/fr/features/</loc>
+    <loc>//localhost:1313/fr/how-it-works/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/features/"
+                href="//localhost:1313/how-it-works/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/features/"
+                href="//localhost:1313/fr/how-it-works/"
                 />
   </url><url>
-    <loc>/fr/how-it-works/</loc>
+    <loc>//localhost:1313/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/how-it-works/"
+                href="//localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/how-it-works/"
+                href="//localhost:1313/fr/contact/"
                 />
   </url><url>
-    <loc>/fr/contact/</loc>
+    <loc>//localhost:1313/fr/elements/</loc>
+  </url><url>
+    <loc>//localhost:1313/fr/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/contact/"
+                href="//localhost:1313/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/contact/"
+                href="//localhost:1313/fr/pricing/"
                 />
   </url><url>
-    <loc>/fr/elements/</loc>
+    <loc>//localhost:1313/fr/testimonials/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/elements/"
+                href="//localhost:1313/testimonials/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/elements/"
-                />
-  </url><url>
-    <loc>/fr/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/pricing/"
-                />
-  </url><url>
-    <loc>/fr/testimonials/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/testimonials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="/fr/testimonials/"
+                href="//localhost:1313/fr/testimonials/"
                 />
   </url>
 </urlset>

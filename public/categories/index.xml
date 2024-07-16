@@ -1,48 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Saasis - Hugo Saas Landing Theme</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Saasis - Hugo Saas Landing Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on Nursing School Tutor</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Nursing School Tutor</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Wed, 03 Feb 2021 16:56:47 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 21:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LifeStyle</title>
-      <link>/categories/lifestyle/</link>
-      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/categories/lifestyle/</guid>
+      <title>NR224: Fundamentals Skills</title>
+      <link>//localhost:1313/categories/nr224-fundamentals-skills/</link>
+      <pubDate>Fri, 31 May 2024 21:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr224-fundamentals-skills/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Accessories</title>
-      <link>/categories/accessories/</link>
-      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/categories/accessories/</guid>
+      <title>NR 224 Fundamentals: Skills</title>
+      <link>//localhost:1313/categories/nr-224-fundamentals-skills/</link>
+      <pubDate>Sat, 24 Feb 2024 21:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-224-fundamentals-skills/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Food</title>
-      <link>/categories/food/</link>
-      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/categories/food/</guid>
+      <title>NR 443 - RN Community Health Nursing Help DeVry University</title>
+      <link>//localhost:1313/categories/nr-443---rn-community-health-nursing-help-devry-university/</link>
+      <pubDate>Sat, 24 Feb 2024 21:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-443---rn-community-health-nursing-help-devry-university/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Photography</title>
-      <link>/categories/photography/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>/categories/photography/</guid>
+      <title>NR 443 Entire Coursework</title>
+      <link>//localhost:1313/categories/nr-443-entire-coursework/</link>
+      <pubDate>Sat, 24 Feb 2024 21:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-443-entire-coursework/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>NR 443 Week 2 Discussion 1 Census Data and Epidemiological Data</title>
+      <link>//localhost:1313/categories/nr-443-week-2-discussion-1-census-data-and-epidemiological-data/</link>
+      <pubDate>Sat, 24 Feb 2024 21:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-443-week-2-discussion-1-census-data-and-epidemiological-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NR 340 Critical Care Nursing</title>
+      <link>//localhost:1313/categories/nr-340-critical-care-nursing/</link>
+      <pubDate>Wed, 03 Feb 2021 10:56:47 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-340-critical-care-nursing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NR 361 Information Systems in Healthcare: Excelling With Nursingschooltutors.com</title>
+      <link>//localhost:1313/categories/nr-361-information-systems-in-healthcare-excelling-with-nursingschooltutors.com/</link>
+      <pubDate>Wed, 03 Feb 2021 10:56:47 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-361-information-systems-in-healthcare-excelling-with-nursingschooltutors.com/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ATI TEAS Assistance From NursingSchoolTutors.com</title>
+      <link>//localhost:1313/categories/ati-teas-assistance-from-nursingschooltutors.com/</link>
+      <pubDate>Tue, 02 Feb 2021 10:56:47 +0000</pubDate>
+      <guid>//localhost:1313/categories/ati-teas-assistance-from-nursingschooltutors.com/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NR 392 Quality Improvement in Nursing-Chamberlain College</title>
+      <link>//localhost:1313/categories/nr-392-quality-improvement-in-nursing-chamberlain-college/</link>
+      <pubDate>Tue, 02 Feb 2021 10:56:47 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-392-quality-improvement-in-nursing-chamberlain-college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nursing Online Class Help- Chamberlain College|</title>
+      <link>//localhost:1313/categories/nursing-online-class-help--chamberlain-college/</link>
+      <pubDate>Mon, 25 Jan 2021 10:56:47 +0000</pubDate>
+      <guid>//localhost:1313/categories/nursing-online-class-help--chamberlain-college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ace Your ATI TEAS Exam With Expert Help From NursingSchoolTutors.com</title>
+      <link>//localhost:1313/categories/ace-your-ati-teas-exam-with-expert-help-from-nursingschooltutors.com/</link>
+      <pubDate>Mon, 25 Jan 2021 05:35:57 +0000</pubDate>
+      <guid>//localhost:1313/categories/ace-your-ati-teas-exam-with-expert-help-from-nursingschooltutors.com/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NR-305: Health Assessment for the Practicing RN-Online Class Help</title>
+      <link>//localhost:1313/categories/nr-305-health-assessment-for-the-practicing-rn-online-class-help/</link>
+      <pubDate>Mon, 25 Jan 2021 05:33:57 +0000</pubDate>
+      <guid>//localhost:1313/categories/nr-305-health-assessment-for-the-practicing-rn-online-class-help/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HESI Admission Assessment Exam Help by NursingSchoolTutors.com</title>
+      <link>//localhost:1313/categories/hesi-admission-assessment-exam-help-by-nursingschooltutors.com/</link>
+      <pubDate>Sun, 24 Jan 2021 12:19:25 +0000</pubDate>
+      <guid>//localhost:1313/categories/hesi-admission-assessment-exam-help-by-nursingschooltutors.com/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

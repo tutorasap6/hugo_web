@@ -1,93 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Saasis - Hugo Saas Landing Theme</title>
-    <link>/fr/tags/</link>
-    <description>Recent content in Tags on Saasis - Hugo Saas Landing Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on Nursing School Tutor</title>
+    <link>//localhost:1313/fr/tags/</link>
+    <description>Recent content in Tags on Nursing School Tutor</description>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
-    <copyright>Conçu Par [Themefisher](https://themefisher.com/) &amp; Développé Par [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Wed, 03 Feb 2021 16:56:47 +0600</lastBuildDate><atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 16:56:47 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alarm</title>
-      <link>/fr/tags/alarm/</link>
+      <link>//localhost:1313/fr/tags/alarm/</link>
       <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/fr/tags/alarm/</guid>
+      <guid>//localhost:1313/fr/tags/alarm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Clock</title>
-      <link>/fr/tags/clock/</link>
+      <link>//localhost:1313/fr/tags/clock/</link>
       <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/fr/tags/clock/</guid>
+      <guid>//localhost:1313/fr/tags/clock/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Balloon</title>
-      <link>/fr/tags/balloon/</link>
+      <link>//localhost:1313/fr/tags/balloon/</link>
       <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/fr/tags/balloon/</guid>
+      <guid>//localhost:1313/fr/tags/balloon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gas</title>
-      <link>/fr/tags/gas/</link>
+      <link>//localhost:1313/fr/tags/gas/</link>
       <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/fr/tags/gas/</guid>
+      <guid>//localhost:1313/fr/tags/gas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Food</title>
-      <link>/fr/tags/food/</link>
+      <link>//localhost:1313/fr/tags/food/</link>
       <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/fr/tags/food/</guid>
+      <guid>//localhost:1313/fr/tags/food/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gold</title>
-      <link>/fr/tags/gold/</link>
+      <link>//localhost:1313/fr/tags/gold/</link>
       <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      
-      <guid>/fr/tags/gold/</guid>
+      <guid>//localhost:1313/fr/tags/gold/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Diy</title>
-      <link>/fr/tags/diy/</link>
+      <link>//localhost:1313/fr/tags/diy/</link>
       <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
-      
-      <guid>/fr/tags/diy/</guid>
+      <guid>//localhost:1313/fr/tags/diy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Toy</title>
-      <link>/fr/tags/toy/</link>
+      <link>//localhost:1313/fr/tags/toy/</link>
       <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
-      
-      <guid>/fr/tags/toy/</guid>
+      <guid>//localhost:1313/fr/tags/toy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photography</title>
-      <link>/fr/tags/photography/</link>
+      <link>//localhost:1313/fr/tags/photography/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>/fr/tags/photography/</guid>
+      <guid>//localhost:1313/fr/tags/photography/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

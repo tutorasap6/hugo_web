@@ -102,6 +102,26 @@ Subheadings:
 
 [NR 509 WEEK 6 Alternate writing tasks](http://www.nursingschooltutors.com/) will allow you to delve deeply into the digestive system and hone your knowledge and analytical skills.
 
+### Week 5 Alternative Writing Assignment
+
+#### HEENT1 Assessment
+
+The Head, Eyes, Ears, Nose, and Throat (HEENT) assessment is typically the initial part of a general physical exam and focuses on the patient's specific complaints across these five systems. When conducting a complete exam, it should be performed systematically from the top (head) to the bottom (neck). Common or concerning symptoms prompting a HEENT assessment include headaches, head injuries, visual disturbances, flashing lights, eye pain, eye redness, double vision, hearing loss, tinnitus, earaches, ear discharge, vertigo, rhinorrhea, epistaxis, sore throats, coughs, gum bleeding, swollen glands, and goiters.
+
+Beginning with a thorough history of the patient's medical background and current symptoms is crucial. The assessment employs specific devices such as an otoscope, ophthalmoscope, or tongue depressor to gather vital information about the patient’s health. This comprehensive approach helps lay the foundation for developing an initial patient care strategy.
+
+#### Physiology of the Body System
+
+Understanding the anatomy of the abdomen is essential when assessing abdominal pain. The right upper quadrant (RUQ) contains the liver, gallbladder, right kidney and adrenal gland, hepatic flexure of the colon, head of the pancreas, and parts of the ascending and transverse colon. The left upper quadrant (LUQ) includes the spleen, left kidney and adrenal gland, stomach, left lobe of the liver, body of the pancreas, splenic flexure of the colon, and parts of the transverse and descending colon.
+
+The right lower quadrant (RLQ) contains the appendix, cecum, right ureter, right iliac artery, and, in females, the right ovary and fallopian tube. In males, the right spermatic cord is located in this quadrant. The left lower quadrant (LLQ) houses the sigmoid colon, part of the descending colon, left iliac artery, and left ureter. In females, the left ovary and fallopian tube are present, while in males, the left spermatic cord is found in this quadrant.
+
+#### Gastrointestinal Assessment
+
+The gastrointestinal (GI) assessment requires a review of common or concerning symptoms, which include changes in appetite, weight gain or loss, dysphagia, intolerance to certain foods, nausea, vomiting, changes in bowel habits, and abdominal pain. When assessing appetite, inquire if the patient has experienced any changes in appetite or food intake. If changes are reported, further investigate potential gastrointestinal diseases, socioeconomic factors (such as food availability and cultural practices), and any loss of taste.
+
+By conducting a thorough HEENT and gastrointestinal assessment, healthcare practitioners can obtain crucial information to guide the patient's care and management plan.
+
 ## NR 509 Coursework Week 1 – 8:
 
 Prepare yourself for an adventure in self-development as you tackle the varied [NR 509 assignments](http://www.nursingschooltutors.com/) spread out over eight weeks.

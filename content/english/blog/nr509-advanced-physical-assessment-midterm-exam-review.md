@@ -19,7 +19,7 @@ Here is the reproduced information with the word "correct" inserted for every co
 5. A 32 years old woman presents with dull puffiness of the eyes pronounced not pitting periorbital edema. This finding is suggestive of this condition? APEA
    * b) correct Myxedema
 6. A 42 years old woman with a past medical history of migraine headaches is requesting prophylactic medication treatment. Which medication should the Nurse practitioner prescribe?
-   * b) correct Amitriptyline (Elavil)
+   * b) correct Amitriptyline (Elavil).
 7. A pediatric patient has areas of scaling on the scalp with round patches of alopecia. This clinical finding is consistent with:
    * a) correct Tinea capitis
 8. Why would a combined hormonal contraceptive be contraindicated in a 36 year old patient with a past medical history of type 2 diabetes, obesity, chronic smoking and sedentary life

@@ -8,11 +8,24 @@ work_process:
   title: How Nursing School Tutors Really Works?
   subtitle: Work Process
   content: >-
-    Our goal is to be the world's leading academic support platform for nursing
-    students, facilitating a seamless journey through nursing school and into
-    the healthcare industry. We aim to break down educational barriers, making
-    high-quality tutoring and resources accessible to nursing students
-    everywhere, regardless of their geographical location or economic status.
+    The ordering process is done in three simple steps;  1. Fill in your order
+    details on the order form (Order AI free Paper Here). This will include your
+    contact details as well as the assignment instructions. There is also the
+    facility to attach instruction files if you have any, the upload/attach
+    files button will appear after placing the order. For orders that are a
+    continuation of a previous order, share the previous order details or upload
+    the previous paper.   2. The second step is to make the payment so that the
+    most qualified writer is assigned your paper. This step is important because
+    writing cannot commence before the payment is made. You can check out safely
+    using any debit or credit card, or funds in your wallet.  3. After the
+    payment, you can now relax, the order is in progress and will be delivered
+    to you before your set deadline.  NB. For Proctored online exams, iHuman, 
+    Shadowhealth, Full Online Classes, etc,  use the live online chat option(at
+    the bottom right corner of any page), messages on +1 (765) 470-9090 (bottom
+    left corner), or email us if we are not online(email address:
+    instanthelp123@gmail.com or Nursingschooltutors@gmail.com) for for further
+    guidelines before you place the order or you can as well place direct order
+    throught his link https://devrysolutions.com/order-original-papers-here/.
   tablist:
     - title: For Regular Users
       tablist_item:

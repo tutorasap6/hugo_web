@@ -1,10 +1,10 @@
 ---
-title: Antibiotic Review rev. 08-2019Advanced Pharmacology Chamberlain University
+title: Antibiotic Review rev. 08-2019
 description: Antibiotic Review rev. 08-2019Advanced Pharmacology Chamberlain University
 date: 2024-07-16T21:00:00.000Z
 ---
 
-Antibiotic Review rev. 08-2019Advanced Pharmacology (Chamberlain University)
+### Antibiotic Review rev. 08-2019Advanced Pharmacology (Chamberlain University)
 
 ANTIBIOTIC REVIEWNRHS Infectious Disease Primer
 

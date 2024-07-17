@@ -6,13 +6,13 @@ date: 2024-07-16T21:00:00.000Z
 
 # Pharm Week 1 Study Guide: Advanced Pharmacology (Chamberlain University)
 
-## Week 1 Outline:
+### Week 1 Outline:
 
 ### Chapter 1: The Role of the Advanced Practice Nurse as Prescriber
 
 #### Roles and Responsibilities of APRN Prescribers
 
-Advanced Practice Registered Nurses (APRNs) include Certified Nurse-Midwives (CNMs), Certified Registered Nurse Anesthetists (CRNAs), Nurse Practitioners (NPs), and Clinical Nurse Specialists (CNS). The degree of autonomy and the breadth of drugs that APRNs can prescribe vary from state to state based on the Nurse Practice Act of the state. Legislative updates are provided annually in the January issue of the Nurse Practitioner Journal and the American Journal for Nurse Practitioners, summarizing each state’s practice as it relates to titling, roles, and prescriptive authority.
+Advanced Practice Registered Nurses (APRNs) encompass Certified Nurse-Midwives (CNMs), Certified Registered Nurse Anesthetists (CRNAs), Nurse Practitioners (NPs), and Clinical Nurse Specialists (CNS). The degree of autonomy and the breadth of drugs that APRNs can prescribe vary from state to state based on the Nurse Practice Act of the state. Legislative updates are provided annually in the January issue of the Nurse Practitioner Journal and the American Journal for Nurse Practitioners, summarizing each state’s practice as it relates to titling, roles, and prescriptive authority.
 
 Regulation of NP Practice and Prescribing Authority:
 
@@ -26,12 +26,7 @@ Regulation of NP Practice and Prescribing Authority:
 
 ### Clinical Judgment in Prescribing
 
-Prescribing a Drug Requires Clinical Judgment Based On:
-
-* A thorough assessment of the patient and their environment.
-* Determination of medical and nursing diagnoses.
-* Review of potential alternative therapies.
-* Specific knowledge about the chosen drug and the disease process it is designed to treat.
+Prescribing a drug results from clinical judgment based on a thorough assessment of the patient and their environment, the determination of medical and nursing diagnoses, a review of potential alternative therapies, and specific knowledge about the chosen drug and the disease process it is designed to treat.
 
 Best Therapy Considerations:
 
@@ -42,7 +37,7 @@ Questions to Consider Before Drug Therapy:
 
 1. Is there a clear indication for drug therapy?
    * Indications and necessity should be carefully considered.
-   * Example: Antibiotic guidelines for Otitis Media have evolved due to the high percentage of infections resolving without intervention.
+   * Example: Antibiotic guidelines for Otitis Media have evolved due to the high percentage of infections resolving without intervention. Over-treatment with antibiotics can lead to resistance.
 2. What drugs are effective in treating this disorder?
    * Best and most effective drug class.
    * Refer to guidelines from AHCQ, NIH, and specialty organizations.
@@ -82,17 +77,13 @@ State Legislation and Trends:
 
 ### Chapter 2: Review of Basic Principles of Pharmacology
 
-How Drugs are Developed:
+#### How Drugs are Developed
 
-* Drugs are developed by pharmaceutical companies to help patients and make money.
-* The preclinical stage involves identifying a drug target and performing studies on cells, tissues, organs, and laboratory animals.
-* The FDA requires drugs to be both safe and effective, undergoing Phase I, II, and III clinical trials before approval.
+Drugs are developed by pharmaceutical companies to help patients and make money. The preclinical stage involves identifying a drug target and performing studies on cells, tissues, organs, and laboratory animals. The FDA requires drugs to be both safe and effective, undergoing Phase I, II, and III clinical trials before approval.
 
-Drug Responses:
+#### Drug Responses
 
-* Homeostasis is the tendency of a cell, tissue, or the body not to respond to drugs but instead to maintain the internal environment by adjusting physiological processes.
-* Before a medication can produce a response, it often must overcome homeostatic mechanisms.
-* Drug effects depend on the amount of drug that is administered.
+Homeostasis is the tendency of a cell, tissue, or the body not to respond to drugs but instead to maintain the internal environment by adjusting physiological processes. Before a medication can produce a response, it often must overcome homeostatic mechanisms. Drug effects depend on the amount of drug that is administered.
 
 Types of Drug Responses:
 
@@ -230,10 +221,10 @@ Cephalosporins:
 
 Antibiotic Use Guidelines:
 
-* Acute bronchitis, URIs, and sinusitis: Treat only if symptoms persist or are severe.
-* Pharyngitis: Treat Group A beta-hemolytic strep (GABHS) with penicillin or alternatives for those allergic to penicillin.
+* Sinusitis: Treat only if symptoms persist or are severe.
+* Pharyngitis: Treat Group A beta-hemolytic strep with penicillin or alternatives.
 * UTIs: Treat with trimethoprim/sulfamethoxazole or nitrofurantoin; alternatives include amoxicillin/clavulanate.
-* Skin and tissue infections: Treat post-animal bites with amoxicillin/clavulanate; use penicillinase-resistant penicillins for bullous impetigo.
+* Skin and tissue infections: Treat post-animal bites with amoxicillin/clavulanate.
 
 Age, Pregnancy, and Genetic Factors:
 
@@ -242,13 +233,11 @@ Age, Pregnancy, and Genetic Factors:
 
 Fluoroquinolones:
 
-* Precautions and contraindications, including risks of tendon rupture and CNS effects.
-* Not recommended for children, pregnant/lactating women, and patients with certain conditions.
+* Risks of tendon rupture and CNS effects, not recommended for children, pregnant/lactating women, and certain conditions.
 
 Macrolides:
 
-* Precautions, contraindications, and adverse drug reactions.
-* Used for upper respiratory infections and gram-positive bacterial infections.
+* Used for upper respiratory and gram-positive bacterial infections, precautions, contraindications, and adverse drug reactions.
 
 Systemic Azoles and Antifungals:
 
@@ -257,7 +246,6 @@ Systemic Azoles and Antifungals:
 Sulfonamides, Trimethoprim, Nitrofurantoin, and Fosfomycin:
 
 * Spectrum of activity, resistance, precautions, contraindications, and adverse drug reactions.
-* Considerations for use in specific populations and conditions.
 
 Tetracyclines:
 
@@ -266,7 +254,6 @@ Tetracyclines:
 Antimycobacterials:
 
 * Isoniazid: Precautions, contraindications, adverse drug reactions, and interactions.
-* Importance of taking pyridoxine with INH to prevent peripheral neuropathy.
 
 Nucleoside Analogues:
 
@@ -274,5 +261,6 @@ Nucleoside Analogues:
 
 Antivirals for Influenza:
 
-* Clinical use and dosing of drugs like oseltamivir and zanamivir.
-* Recommendations for prophylaxis and treatment based on CDC guidelines.
+* Clinical use and dosing of drugs like oseltamivir and zanamivir, and CDC guidelines for prophylaxis and treatment.
+
+This guide provides an overview of the key topics for the first week of advanced pharmacology, emphasizing the role of the APRN as a prescriber, clinical judgment in prescribing, collaboration with other healthcare providers, and foundational pharmacological principles.

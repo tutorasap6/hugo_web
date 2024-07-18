@@ -27,7 +27,7 @@ work_process:
     guidelines before you place the order or you can as well place direct order
     throught his link https://devrysolutions.com/order-original-papers-here/.
   tablist:
-    - title: For Regular Users
+    - title: Our Simple Guidelines
       tablist_item:
         - subtitle: Fill in the form
           description: >-
@@ -39,7 +39,7 @@ work_process:
             continuation of a previous order, share the previous order details
             or upload the previous paper. 
           image: images/work-process/01.webp
-        - subtitle: Read through
+        - subtitle: Read Through
           description: >-
             The ordering process is done in three simple steps;  1. Fill in your
             order details on the order form (Order AI free Paper Here). This

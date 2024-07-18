@@ -31,7 +31,7 @@ work_process:
       tablist_item:
         - subtitle: Fill in the Form
           description: >-
-            1. Fill in your order details on the order form (Order AI free Paper
+            Fill in your order details on the order form (Order AI free Paper
             Here). This will include your contact details as well as the
             assignment instructions. There is also the facility to attach
             instruction files if you have any, the upload/attach files button

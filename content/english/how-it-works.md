@@ -117,9 +117,24 @@ working_steps:
   title: Always Belive In Better Build
   subtitle: Working Steps
   content: >-
-    Lorem ipsum dolor, consectetur adipiscing elit. Convallis cursus ac orci
-    diam, facilisis. Quis et pulvinar nec praesent qum magna amet. Magna blandit
-    sodales, aenean rhoncus
+    The ordering process is done in three simple steps;  1. Fill in your order
+    details on the order form (Order AI free Paper Here). This will include your
+    contact details as well as the assignment instructions. There is also the
+    facility to attach instruction files if you have any, the upload/attach
+    files button will appear after placing the order. For orders that are a
+    continuation of a previous order, share the previous order details or upload
+    the previous paper.   2. The second step is to make the payment so that the
+    most qualified writer is assigned your paper. This step is important because
+    writing cannot commence before the payment is made. You can check out safely
+    using any debit or credit card, or funds in your wallet.  3. After the
+    payment, you can now relax, the order is in progress and will be delivered
+    to you before your set deadline.  NB. For Proctored online exams, iHuman, 
+    Shadowhealth, Full Online Classes, etc,  use the live online chat option(at
+    the bottom right corner of any page), messages on +1 (765) 470-9090 (bottom
+    left corner), or email us if we are not online(email address:
+    instanthelp123@gmail.com or Nursingschooltutors@gmail.com) for for further
+    guidelines before you place the order or you can as well place direct order
+    throught his link https://devrysolutions.com/order-original-papers-here/.
   step_one:
     title: We have To designing develop websites
     subtitle: Built to convert

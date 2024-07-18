@@ -29,10 +29,15 @@ work_process:
   tablist:
     - title: For Regular Users
       tablist_item:
-        - subtitle: Why customer retention is the ultimate Of growth
+        - subtitle: Fill in the form
           description: >-
-            Lorem ipsum dolor, consetur lectus vehicula eget ante. Neque non
-            tristique tincidunt quam commodo
+            1. Fill in your order details on the order form (Order AI free Paper
+            Here). This will include your contact details as well as the
+            assignment instructions. There is also the facility to attach
+            instruction files if you have any, the upload/attach files button
+            will appear after placing the order. For orders that are a
+            continuation of a previous order, share the previous order details
+            or upload the previous paper. 
           image: images/work-process/01.webp
         - subtitle: Accross All Your Mobile App And Web Applications
           description: >-

@@ -115,7 +115,7 @@ work_process:
       tablist_item:
         - subtitle: We deliver what you Ask or Request
           description: >-
-            The ordering process is done in three simple steps;  1. Fill in your
+            The ordering process is done in three simple steps;  Fill in your
             order details on the order form (Order AI free Paper Here). This
             will include your contact details as well as the assignment
             instructions. There is also the facility to attach instruction files

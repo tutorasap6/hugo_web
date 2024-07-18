@@ -29,7 +29,7 @@ work_process:
   tablist:
     - title: Our Simple Guidelines
       tablist_item:
-        - subtitle: Fill in the form
+        - subtitle: Fill in the Form
           description: >-
             1. Fill in your order details on the order form (Order AI free Paper
             Here). This will include your contact details as well as the

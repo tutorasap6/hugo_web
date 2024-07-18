@@ -1,7 +1,7 @@
 ---
 draft: false
 title: How It Works
-description: this is meta description
+description: Get your Requirements ready to hire our Experts
 layout: how-it-works
 work_process:
   enable: true

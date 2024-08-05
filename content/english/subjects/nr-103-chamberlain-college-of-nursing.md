@@ -7,6 +7,30 @@ subject: NR 103 Chamberlain College of Nursing
 
 ## **NR 103 Chamberlain College of Nursing**
 
+###### [NR 103 Week 3 Assignment: Care for Self](https://nursingschooltutors.com/blog/nr-103-week-3-assignment-care-for-self/)
+
+###### [NR 103 Week 3 CEAP Assessment Chamberlain College of Nursing](https://nursingschooltutors.com/blog/nr-103-week-3-ceap-assessment-chamberlain-college-of-nursing/)
+
+###### [NR 103 Week 3 CEAP Assessment Chamberlain College of Nursing](https://nursingschooltutors.com/blog/week-3-3-ceap-assessment-chamberlain-college-of-nursing/)
+
+###### [NR 103 Week 3 Chamberlain Early Assessment Program (CEAP)](https://nursingschooltutors.com/blog/nr-103-week-3-chamberlain-early-assessment-program-ceap/)
+
+###### [NR 103 Week 3-1 Discussion](https://nursingschooltutors.com/blog/nr-103-week-3-1-discussion/)
+
+###### [NR 103 Week 3: 3-Minute Thoughts Assignment updated](https://nursingschooltutors.com/blog/nr-103-week-3-3-minute-thoughts-assignment-updated/)
+
+###### [NR 103 Week 3: Mindfulness Reflection Template](https://nursingschooltutors.com/blog/nr-103-week-3-mindfulness-reflection-template/)
+
+###### [NR 103 Week 6 Assignment: Civility and Emotional Intelligence](https://nursingschooltutors.com/blog/nr-103-week-6-assignment-civility-and-emotional-intelligence/)
+
+###### [NR 103 Week 6 Mindfulness Reflection](https://nursingschooltutors.com/blog/nr-103-week-6-mindfulness-reflection/)
+
+###### [NR 103 Week 6 RUA - RUA paper for 2023](https://nursingschooltutors.com/blog/nr-103-week-6-rua-rua-paper-for-2023/)
+
+###### [NR 103 Week 8 Assignment Final Project Presentation](https://nursingschooltutors.com/blog/nr-103-week-8-assignment-final-project-presentation/)
+
+###### [NR 103 Week 8- final project](https://nursingschooltutors.com/blog/nr-103-week-8-final-project/)
+
 NR 103 Week 1 Discussion: Introductions
 
 NR-103 Week 1 Assignment: Mindfulness Reflection

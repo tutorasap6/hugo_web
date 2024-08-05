@@ -31,12 +31,6 @@ subject: NR103 Week 1 Mindfulness Reflection Template
 
 ###### [NR 103 Week 8- final project](https://nursingschooltutors.com/blog/nr-103-week-8-final-project/)
 
-[
-](https://nursingschooltutors.com/blog/nr-103-week-8-final-project/)
-
-[
-](https://nursingschooltutors.com/blog/nr-103-week-3-3-minute-thoughts-assignment-updated/)
-
 ### A number of health habits were discussed in this week’s video. Which, if any, of the healthy habits do you already use in your daily regimen?
 
 After watching the video series about the introduction of mindfulness, it made me much more aware of the things that stress me on a day-to-day basis. My day usually consists of me waking up in the morning, thinking for a second about what tasks I need to do that day, and then jumping into the shower to wake myself up. I currently use a few of the healthy habits mentioned in the video in my daily regimen. For example, I focus on maintaining a balanced diet, staying hydrated, and getting sufficient sleep.

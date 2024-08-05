@@ -5,7 +5,7 @@ date: 2024-08-04T21:00:00.000Z
 subject: NR 200 Chamberlain College of Nursing
 ---
 
-NR 503: Advanced Pathophysiology - Understanding Cellular Adaptation
+### **NR 503: Advanced Pathophysiology - Understanding Cellular Adaptation**
 
 Cellular adaptation refers to the mechanisms by which cells respond to environmental changes and stressors, ensuring their survival and maintaining homeostasis. In the context of pathophysiology, understanding cellular adaptation is crucial for diagnosing and treating various diseases. Cellular adaptations include hypertrophy, hyperplasia, atrophy, and metaplasia, each representing a different response to stress.
 
@@ -27,7 +27,7 @@ McGee, J., & Hwang, S. (2018). Muscle Atrophy: Pathophysiology and Clinical Impl
 
 ***
 
-NR 503: Advanced Pathophysiology - Mechanisms of Cell Injury
+#### **NR 503: Advanced Pathophysiology - Mechanisms of Cell Injury**
 
 Cell injury is a critical concept in pathophysiology, as it underpins the development of many diseases. Understanding the mechanisms of cell injury is essential for diagnosing and treating various conditions. Cell injury can result from multiple factors, including physical agents, chemical agents, and biological agents.
 
@@ -41,7 +41,7 @@ Cell injury can lead to various outcomes, including cell death. Apoptosis, or pr
 
 In conclusion, understanding the mechanisms of cell injury is vital for comprehending disease processes and developing effective treatments. Identifying the specific causes and effects of cell injury helps in designing targeted therapeutic interventions.
 
-References
+**References**
 
 Aldridge, D. R., Moffat, J. J., & Smith, B. J. (2015). Acetaminophen Toxicity and Liver Injury: A Review. Clinical Pharmacology & Therapeutics, 98(3), 342-350.
 
@@ -53,7 +53,7 @@ zur Hausen, H. (2009). Human Papillomaviruses in Head and Neck Squamous Cell Car
 
 ***
 
-NR 503: Advanced Pathophysiology - Apoptosis and Its Pathological Implications
+#### **NR 503: Advanced Pathophysiology - Apoptosis and Its Pathological Implications**
 
 Apoptosis, or programmed cell death, is a crucial process for maintaining cellular homeostasis and tissue development. Unlike necrosis, which is an uncontrolled and inflammatory form of cell death, apoptosis is a regulated and orderly process that eliminates damaged or unnecessary cells without causing inflammation.
 
@@ -65,7 +65,7 @@ Apoptosis plays a vital role in various physiological processes, including embry
 
 In conclusion, apoptosis is a critical mechanism for maintaining cellular and tissue homeostasis. Understanding its regulatory mechanisms and pathological implications is essential for developing targeted therapies for various diseases.
 
-References
+**References**
 
 Elmore, S. (2007). Apoptosis: A Review of Programmed Cell Death. Toxicologic Pathology, 35(4), 495-516.
 
@@ -85,7 +85,7 @@ In summary, dietary management plays a pivotal role in the care of patients with
 
 References
 
-American Heart Association. (2021). Heart failure. https\://www\.heart.org/en/health-topics/heart-failure
+American Heart Association. (2021). Heart failure. [https://www.heart.org/en/health-topics/heart-failure](https://www.heart.org/en/health-topics/heart-failure)
 
 Katz, S. D., & Morrow, J. P. (2019). Heart failure: Diagnosis and management. Springer.
 

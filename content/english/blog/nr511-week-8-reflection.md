@@ -1,6 +1,11 @@
 ---
 title: NR511 week 8 reflection
-description: NR511 week 8 reflection
+description: >-
+  NR511 week 8 reflection In the evolving landscape of healthcare, delivering
+  patient-centered care has emerged as a cornerstone of effective clinical
+  practice. This approach prioritizes the needs, preferences, and values of
+  patients, ensuring that care is tailored to each individual. Program outcome
+  number seven in the NR511 course
 date: 2024-08-05T21:00:00.000Z
 ---
 

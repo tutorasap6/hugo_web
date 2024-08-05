@@ -29,7 +29,7 @@ In some medical situations, there is a clear, evidence-based course of action th
 
 However, many medical decisions are not so straightforward. For instance, the management of chronic conditions like hypertension or diabetes often involves multiple therapeutic options, each with its own set of benefits and risks. In such cases, patient preferences play a crucial role in choosing the most appropriate treatment. Some patients may prioritize quality of life over the potential side effects of certain medications, while others may prefer a more aggressive approach to control their symptoms. This is where the principle of shared decision-making becomes vital.
 
-The Importance of Communication in Patient-Centered Care
+The Importance of Communication in Patient-Centered Care.
 
 One of the most significant lessons from the NR511 course and clinical rotations is the central role of communication in delivering patient-centered care. Effective communication begins with active listening, where the clinician seeks to understand the patient’s concerns, fears, and expectations. The OLDCART format (Onset, Location, Duration, Characteristics, Aggravating factors, Relieving factors, and Treatment) is a structured approach to gathering detailed information about the patient’s symptoms. This method not only helps in accurately diagnosing the condition but also demonstrates respect for the patient’s experience by allowing them to articulate their concerns fully.
 

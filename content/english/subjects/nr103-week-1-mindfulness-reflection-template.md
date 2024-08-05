@@ -7,6 +7,36 @@ subject: NR103 Week 1 Mindfulness Reflection Template
 
 ### NR103 Transition to the Nursing Profession Week 1 Mindfulness Reflection Template
 
+###### [NR 103 Week 3 Assignment: Care for Self](https://nursingschooltutors.com/blog/nr-103-week-3-assignment-care-for-self/)
+
+###### [NR 103 Week 3 CEAP Assessment Chamberlain College of Nursing](https://nursingschooltutors.com/blog/nr-103-week-3-ceap-assessment-chamberlain-college-of-nursing/)
+
+###### [NR 103 Week 3 CEAP Assessment Chamberlain College of Nursing](https://nursingschooltutors.com/blog/week-3-3-ceap-assessment-chamberlain-college-of-nursing/)
+
+###### [NR 103 Week 3 Chamberlain Early Assessment Program (CEAP)](https://nursingschooltutors.com/blog/nr-103-week-3-chamberlain-early-assessment-program-ceap/)
+
+###### [NR 103 Week 3-1 Discussion](https://nursingschooltutors.com/blog/nr-103-week-3-1-discussion/)
+
+###### [NR 103 Week 3: 3-Minute Thoughts Assignment updated](https://nursingschooltutors.com/blog/nr-103-week-3-3-minute-thoughts-assignment-updated/)
+
+###### [NR 103 Week 3: Mindfulness Reflection Template](https://nursingschooltutors.com/blog/nr-103-week-3-mindfulness-reflection-template/)
+
+###### [NR 103 Week 6 Assignment: Civility and Emotional Intelligence](https://nursingschooltutors.com/blog/nr-103-week-6-assignment-civility-and-emotional-intelligence/)
+
+###### [NR 103 Week 6 Mindfulness Reflection](https://nursingschooltutors.com/blog/nr-103-week-6-mindfulness-reflection/)
+
+###### [NR 103 Week 6 RUA - RUA paper for 2023](https://nursingschooltutors.com/blog/nr-103-week-6-rua-rua-paper-for-2023/)
+
+###### [NR 103 Week 8 Assignment Final Project Presentation](https://nursingschooltutors.com/blog/nr-103-week-8-assignment-final-project-presentation/)
+
+###### [NR 103 Week 8- final project](https://nursingschooltutors.com/blog/nr-103-week-8-final-project/)
+
+[
+](https://nursingschooltutors.com/blog/nr-103-week-8-final-project/)
+
+[
+](https://nursingschooltutors.com/blog/nr-103-week-3-3-minute-thoughts-assignment-updated/)
+
 ### A number of health habits were discussed in this week’s video. Which, if any, of the healthy habits do you already use in your daily regimen?
 
 After watching the video series about the introduction of mindfulness, it made me much more aware of the things that stress me on a day-to-day basis. My day usually consists of me waking up in the morning, thinking for a second about what tasks I need to do that day, and then jumping into the shower to wake myself up. I currently use a few of the healthy habits mentioned in the video in my daily regimen. For example, I focus on maintaining a balanced diet, staying hydrated, and getting sufficient sleep.
@@ -41,6 +71,6 @@ Hirshkowitz, M., Whiton, K., Albert, S. M., Alessi, C., Bruni, O., DonCarlos, L.
 
 Kabat-Zinn, J. (1990). Full catastrophe living: Using the wisdom of your body and mind to face stress, pain, and illness. New York: Delacorte. [https://link.springer.com/article/10.1007/s00394-012-0380-y](https://link.springer.com/article/10.1007/s00394-012-0380-y)
 
-Popkin, B. M., D'Anci, K. E., & Rosenberg, I. H. (2010). Water, hydration, and health. Nutrition Reviews, 68(8), 439-458. 
+Popkin, B. M., D'Anci, K. E., & Rosenberg, I. H. (2010). Water, hydration, and health. Nutrition Reviews, 68(8), 439-458.
 
 Weil, A. (2015). The 4-7-8 breathing exercise. [https://link.springer.com/article/10.1007/s00394-012-0380-y](https://link.springer.com/article/10.1007/s00394-012-0380-y)

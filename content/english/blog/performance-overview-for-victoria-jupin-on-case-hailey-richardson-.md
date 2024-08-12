@@ -2,7 +2,7 @@
 title: >-
   NR 602 week 3 ihuman Performance Overview for Victoria Jupin on case Hailey
   Richardson 
-description: 'NR 602 Performance Overview for Victoria Jupin on case Hailey Richardson '
+description: NR 602 Performance Overview for Victoria Jupin on case Hailey Richardson .
 date: 2024-08-11T21:00:00.000Z
 ---
 

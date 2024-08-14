@@ -15,13 +15,13 @@ Potential Issues:Conflict in healthcare settings can have severe implications fo
 * Medical Director:The medical director is responsible for ensuring the smooth operation of the office and addressing any issues that arise among staff members. The director’s failure to intervene in the ongoing conflicts and to discipline or mentor the MA appropriately may result in severe consequences for the practice. The medical director could be held liable for malpractice or neglect, as they are ultimately responsible for the actions of all employees in the practice. Ethically, the medical director has violated the principles of non-maleficence, beneficence, and fairness by allowing the conflict to persist, which has negatively impacted patient care and the overall workflow of the office.
 * Practice:The practice itself is at risk due to the unresolved conflict and the resulting threat to patient safety. The delay in diagnosing and treating the patient’s low blood pressure could lead to a malpractice lawsuit against the practice. Additionally, the practice may face audits, penalties, or even closure if patient safety is consistently compromised. To avoid these consequences, the practice must implement safety measures, provide staff training on reporting abnormal values, and promote a culture of civility and collaboration among team members. Effective teamwork is essential for maintaining ethical practice, ensuring quality care, and achieving positive patient outcomes (Hamid, 2016).
 
-#### 2. Strategies to Prevent Further Episodes of Potentially Dangerous Patient Outcomes
+#### **2. Strategies to Prevent Further Episodes of Potentially Dangerous Patient Outcomes**
 
 One effective strategy to prevent further conflicts and ensure patient safety is to implement the Pathway for Fostering Organizational Civility (PFOC). PFOC consists of four steps: raising awareness and establishing leadership support, creating and empowering a civility team, seeking broad-based support, and developing a data-driven action plan (Clark, 2019). By raising awareness, the practice acknowledges the conflict and its impact on patient care. Empowering a civility team ensures that all staff members work together to address the issue and promote a respectful work environment. Developing a comprehensive strategy for addressing and preventing conflicts will foster a culture of respect and teamwork, ultimately improving patient safety and care quality.
 
 Additionally, promoting effective communication and collaboration among team members is crucial. Studies have shown that teamwork and open communication significantly enhance patient safety, reduce staff stress, and improve job satisfaction (Gluyas, 2015). By fostering an environment where staff members can communicate openly and respectfully, the practice can prevent conflicts from escalating and ensure that patient care is always prioritized.
 
-#### 3. Leadership Qualities to Effect Positive Change in the Practice
+#### **3. Leadership Qualities to Effect Positive Change in the Practice**
 
 As a transformative leader, I would focus on building trustworthy, supportive, and open communication within the practice. Transformative leadership involves encouraging, inspiring, and motivating others to advocate for positive change. A leader’s ability to influence others’ behaviors, attitudes, and values is crucial for fostering a culture of collaboration and respect (Ganta et al., 2014). By promoting a shared vision of change and empowering staff to contribute to that vision, I would work to improve patient safety, care quality, and overall outcomes.
 
@@ -29,7 +29,7 @@ Respect and communication are key leadership attributes that I would emphasize. 
 
 Leadership in healthcare also involves identifying objectives, providing strategic direction, and building commitment among staff to achieve those objectives (Figueroa et al., 2019). By applying these leadership qualities, I would work to create a practice culture that prioritizes patient safety, supports staff collaboration, and continuously strives for excellence in care delivery.
 
-#### References
+#### **References**
 
 * Atkinson, P., & Mackenzie, R. (2015). Without leadership there is no change.
 * Clark, C. M. (2019). Fostering a Culture of Civility and Respect in Nursing. Journal of Nursing Regulation, 10(1), 44-52.

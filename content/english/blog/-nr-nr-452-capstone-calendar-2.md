@@ -14,14 +14,14 @@ Students who violate the testing policy and have noted anomalies may forfeit the
 
 ***
 
-Before NR452
+**Before NR452**
 
 * Module 1: Begin virtual modules with a video orientation in your online course shell. The orientation provides a description of how to complete the modules, assessments of learning, and individualized virtual tutoring.
 * Module 2: NCLEX Strategies—Advanced Nurse Logic module provides a strong foundation in preparing for success on NCLEX.
 
 ***
 
-Week 1 — Oct 28 to Nov 4
+**Week 1 — Oct 28 to Nov 4**
 
 * Module 3: Fundamentals monitored on campus 9:15 - 10:45 / 60 questions
 * Med Calc Exam on Campus: Monday or Wednesday 11:00 – 11:50
@@ -39,7 +39,7 @@ Week 1 — Oct 28 to Nov 4
 
 ***
 
-Week 2 — Nov 5 to Nov 11
+**Week 2 — Nov 5 to Nov 11**
 
 * Module 4: Pharmacology monitored on campus 9:15 - 10:45 / 60 questions
 * RN Comprehensive Assessment Form B: Monitored starting at 11:05 / 150 questions

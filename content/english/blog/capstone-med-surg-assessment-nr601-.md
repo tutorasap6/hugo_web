@@ -4,41 +4,36 @@ description: 'Capstone Med Surg Assessment NR601 '
 date: 2024-08-28T21:00:00.000Z
 ---
 
-Capstone Med Surg Assessment NR601 
+Capstone Med Surg Assessment NR601
 
 ***
 
-1. A nurse is teaching a client about using a continuous positive airway pressure (CPAP) device to treat obstructive sleep apnea. Which of the following information should the nurse include in the teaching?It delivers a preset amount of airway pressure throughout the breathing cycle
-2. A nurse is providing discharge teaching to a client following a heart transplant. Which of the following information should the nurse include in the teaching?Shortness of breath might be an indication of transplant rejection
-3. A nurse is caring for a client who has syndrome of inappropriate antidiuretic hormone (SIADH) and is receiving 3% sodium chloride via continuous IV. Which of the following laboratory findings should the nurse identify as an indication that the SIADH is resolving?Urine specific gravity 1.020
-4. A nurse is teaching a client about fecal occult blood testing (FOBT) for the screening of colorectal cancer. Which of the following statements should the nurse include in the teaching?You should avoid taking corticosteroids prior to testing
-5. A nurse is preparing a client for a colonoscopy. Which of the following medications should the nurse anticipate the provider to prescribe as an anesthetic for the procedure?Propofol
-6. A nurse is planning care for a client who has acute pancreatitis. Which of the following interventions should the nurse include in the client’s plan? (Select all that apply.)
-
-* Monitor blood glucose levels
-* Maintain NPO status until pain-free
-* Manage acute pain
-
-1. A nurse is teaching a client who has hypertension about dietary modifications to help control blood pressure. Which of the following food choices should the nurse recommend as the client to include in their diet?3 oz of chicken breast
-2. A nurse is reviewing the medical record of a client who has unstable angina. Which of the findings should the nurse report to the provider?Breath sounds
-3. A nurse is providing discharge instructions to a client who has GERD. Which of the following statements by the client demonstrates an understanding of the teaching?I will limit activities that require bending at the waist
-4. A nurse at a provider’s office is interviewing a client who has multiple sclerosis and has been taking dantrolene for several months. Which of the following client statements should the nurse identify as an indication that the medication is effective?I don’t have muscle spasms as frequently
-5. A nurse is assessing a client who reports a possible exposure to HIV. Which of the following findings should the nurse identify as an early manifestation of HIV infection?Fatigue
-6. A nurse is teaching a client who has type 1 diabetes mellitus about hypoglycemia. Which of the following statements by the client indicates an understanding of the teaching?I can drink 4 ounces of soda if my blood sugar is low
-7. A nurse is providing discharge teaching to a client who has heart failure and a prescription for furosemide 20 mg PO two times daily. Which of the following instructions should the nurse include in the teaching?Increase intake of high-potassium foods
-8. A nurse is caring for a client who has burn injuries covering their upper body and is concerned about their altered appearance. Which of the following statements should the nurse make?It could be helpful for you to attend a support group for people who have burn injuries
-9. A nurse is developing a plan of care for a client who will be placed in halo traction following surgical repair of the cervical spine. Which of the following interventions should the nurse include in the plan?Monitor the client’s skin under the halo vest
-10. A nurse is caring for a client who has a traumatic brain injury. Which of the following findings should indicate to the nurse the need for immediate intervention?Respiratory rate 30/min
-11. A nurse is assessing a client who has meningitis. The nurse should identify which of the following findings as a positive Kernig’s sign?After hip flexion, the client is unable to extend their leg completely without pain
-12. A nurse is teaching a group of assistive personnel (AP) about caring for clients who have Alzheimer’s disease. Which of the following information should the nurse include in the teaching?Provide supervision to prevent a client from becoming injured or lost
-13. A home health nurse is providing teaching to the family of a client who has a seizure disorder. Which of the following interventions should the nurse include in the teaching?Position the client on their side during a seizure
-14. A nurse is contributing to the plan of care for a client who has pyelonephritis. Which of the following interventions should the nurse include?Begin antibiotic therapy after culture and sensitivity results are obtained
-15. A nurse is assessing a client who has a herniated lumbar disc. Which of the following findings should the nurse expect?The client reports tingling and a burning sensation in one foot
-16. A nurse is caring for a client who has acute gastritis and is NPO. The client has a new prescription to resume oral intake. Which of the following items should the nurse offer the client?Gelatin
-17. A triage nurse finds a school-age child lying in the road following a school bus crash with multiple casualties. The child has a respiratory rate of 8/min, is unresponsive to verbal commands, and groans to painful stimuli. The nurse should assign the client which of the following triage tags?Red
-18. A nurse is teaching a client who has a new diagnosis of polycystic kidney disease. Which of the following statements should the nurse include in the teaching?Apply dry heat to your abdomen when needed
-19. A nurse is assessing a client who has right lower lobe pneumonia. Which of the following findings should the nurse expect?Dull percussion sounds
-20. A nurse is providing teaching to the caregivers of a client who has Alzheimer's disease. Which of the following instructions should the nurse give? (Select all that apply.)
+1. **A nurse is teaching a client about using a continuous positive airway pressure (CPAP) device to treat obstructive sleep apnea. Which of the following information should the nurse include in the teaching?**It delivers a preset amount of airway pressure throughout the breathing cycle
+2. **A nurse is providing discharge teaching to a client following a heart transplant. Which of the following information should the nurse include in the teaching? **Shortness of breath might be an indication of transplant rejection
+3. **A nurse is caring for a client who has syndrome of inappropriate antidiuretic hormone (SIADH) and is receiving 3% sodium chloride via continuous IV. Which of the following laboratory findings should the nurse identify as an indication that the SIADH is resolving?**Urine specific gravity 1.020
+4. **A nurse is teaching a client about fecal occult blood testing (FOBT) for the screening of colorectal cancer. Which of the following statements should the nurse include in the teaching?**You should avoid taking corticosteroids prior to testing
+5. **A nurse is preparing a client for a colonoscopy. Which of the following medications should the nurse anticipate the provider to prescribe as an anesthetic for the procedure?**Propofol
+6. **A nurse is planning care for a client who has acute pancreatitis. Which of the following interventions should the nurse include in the client’s plan?** (Select all that apply.) Monitor blood glucose levels; Maintain NPO status until pain-free; Manage acute pain
+7. **A nurse is teaching a client who has hypertension about dietary modifications to help control blood pressure. Which of the following food choices should the nurse recommend as the client to include in their diet?**3 oz of chicken breast
+8. **A nurse is reviewing the medical record of a client who has unstable angina. Which of the findings should the nurse report to the provider?**Breath sounds
+9. **A nurse is providing discharge instructions to a client who has GERD. Which of the following statements by the client demonstrates an understanding of the teaching?**I will limit activities that require bending at the waist
+10. **A nurse at a provider’s office is interviewing a client who has multiple sclerosis and has been taking dantrolene for several months. Which of the following client statements should the nurse identify as an indication that the medication is effective?**I don’t have muscle spasms as frequently
+11. **A nurse is assessing a client who reports a possible exposure to HIV. Which of the following findings should the nurse identify as an early manifestation of HIV infection?**Fatigue
+12. **A nurse is teaching a client who has type 1 diabetes mellitus about hypoglycemia. Which of the following statements by the client indicates an understanding of the teaching?**I can drink 4 ounces of soda if my blood sugar is low
+13. **A nurse is providing discharge teaching to a client who has heart failure and a prescription for furosemide 20 mg PO two times daily. Which of the following instructions should the nurse include in the teaching?**Increase intake of high-potassium foods
+14. **A nurse is caring for a client who has burn injuries covering their upper body and is concerned about their altered appearance. Which of the following statements should the nurse make?**It could be helpful for you to attend a support group for people who have burn injuries
+15. A nurse is developing a plan of care for a client who will be placed in halo traction following surgical repair of the cervical spine. Which of the following interventions should the nurse include in the plan?Monitor the client’s skin under the halo vest
+16. A nurse is caring for a client who has a traumatic brain injury. Which of the following findings should indicate to the nurse the need for immediate intervention?Respiratory rate 30/min
+17. A nurse is assessing a client who has meningitis. The nurse should identify which of the following findings as a positive Kernig’s sign?After hip flexion, the client is unable to extend their leg completely without pain
+18. A nurse is teaching a group of assistive personnel (AP) about caring for clients who have Alzheimer’s disease. Which of the following information should the nurse include in the teaching?Provide supervision to prevent a client from becoming injured or lost
+19. A home health nurse is providing teaching to the family of a client who has a seizure disorder. Which of the following interventions should the nurse include in the teaching?Position the client on their side during a seizure
+20. A nurse is contributing to the plan of care for a client who has pyelonephritis. Which of the following interventions should the nurse include?Begin antibiotic therapy after culture and sensitivity results are obtained
+21. A nurse is assessing a client who has a herniated lumbar disc. Which of the following findings should the nurse expect?The client reports tingling and a burning sensation in one foot
+22. A nurse is caring for a client who has acute gastritis and is NPO. The client has a new prescription to resume oral intake. Which of the following items should the nurse offer the client?Gelatin
+23. A triage nurse finds a school-age child lying in the road following a school bus crash with multiple casualties. The child has a respiratory rate of 8/min, is unresponsive to verbal commands, and groans to painful stimuli. The nurse should assign the client which of the following triage tags?Red
+24. A nurse is teaching a client who has a new diagnosis of polycystic kidney disease. Which of the following statements should the nurse include in the teaching?Apply dry heat to your abdomen when needed
+25. A nurse is assessing a client who has right lower lobe pneumonia. Which of the following findings should the nurse expect?Dull percussion sounds
+26. A nurse is providing teaching to the caregivers of a client who has Alzheimer's disease. Which of the following instructions should the nurse give? (Select all that apply.)
 
 * Install safety locks and alarm systems
 * Place nightlights throughout the home
@@ -145,6 +140,6 @@ Capstone Med Surg Assessment NR601
 1. A nurse is planning care for a group of postoperative clients. Which of the following interventions should the nurse identify as the priority?Administer oxygen to a client who has an oxygen saturation of 91%
 2. A nurse is caring for a client who is to undergo a liver biopsy. Which of the following instructions should the nurse provide to the client following the procedure?Lie on your right side
 3. A nurse is assessing a client who has a permanent spinal cord injury and is scheduled for discharge. Which of the following client statements indicates that the client is coping effectively?I would like to play wheelchair basketball. When I get stronger, I think I'll look for a league
-4. A nurse is caring for a client who has chronic kidney disease. Which of the following diets should the nurse anticipate the provider to prescribe?Potassium-restricted diet
+4. **A nurse is caring for a client who has chronic kidney disease. Which of the following diets should the nurse anticipate the provider to prescribe?**Potassium-restricted diet
 
 ***

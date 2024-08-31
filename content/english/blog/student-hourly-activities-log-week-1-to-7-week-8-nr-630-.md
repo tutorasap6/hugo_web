@@ -18,7 +18,7 @@ Due dates: submitted each week (weeks 1 – 7) by Sunday; completed and signed 
 
 Instructions: Enter date of activity, description of activity, and duration of activity. Enter as fractions of hours, such as “1.75” (1 hour 45 minutes). Record activities from the other 40% category in the shaded blue area.
 
-### SOLUTION: 
+### SOLUTION:
 
 ### NR 630 Executive Practicum: Student Hourly Activities Log and Reflection
 
@@ -28,7 +28,7 @@ The NR 630 Executive Practicum is a critical component of the nursing curriculum
 
 The Student Hourly Activities Log serves as a comprehensive record of the time spent on various activities during the practicum. It is not only a tool for tracking the hours but also a reflection of the student's engagement with the practicum objectives. The log ensures that students allocate their time effectively, focusing on activities that contribute to their learning and development as healthcare leaders. By documenting these activities, students can demonstrate their commitment to the practicum and their progress toward meeting the course outcomes.
 
-#### Requirements for Recording Hours
+#### **Requirements for Recording Hours**
 
 The practicum requires a minimum of 100 hours, with up to 40% (or 40 hours) of these hours dedicated to specific activities that support the overall practicum experience. These activities include:
 
@@ -41,18 +41,18 @@ The practicum requires a minimum of 100 hours, with up to 40% (or 40 hours) of t
 
 All hours must be meticulously documented on the Student Hourly Activities Log, ensuring that each entry includes the date, description of the activity, and the duration, recorded in fractions of hours. For example, an activity lasting 1 hour and 45 minutes would be entered as “1.75” hours.
 
-#### Recording and Submitting the Log
+#### **Recording and Submitting the Log**
 
 The log must be completed and submitted weekly, with the due date for each week being Sunday. The final, completed log, signed by both the student and mentor, is due by Saturday of Week 8. This timeline ensures that students remain consistent in documenting their activities, allowing for regular review and reflection on their progress.
 
 The log's shaded blue area is designated for recording activities from the 40% category, ensuring that these specific activities are clearly distinguished from the remaining 60% of practicum hours. This distinction is crucial for maintaining the integrity of the practicum experience, ensuring that students allocate sufficient time to direct practicum activities.
 
-#### Significance in Achieving Course Outcomes
+#### **Significance in Achieving Course Outcomes**
 
 The Student Hourly Activities Log is not merely a record-keeping tool; it is integral to achieving the course outcomes. By carefully documenting and reflecting on their activities, students can ensure that they are engaging in meaningful experiences that contribute to their development as healthcare leaders. The log also provides a basis for discussions with mentors, allowing for continuous feedback and adjustment of goals.
 
 Furthermore, the log serves as evidence of the student’s ability to manage time effectively, prioritize tasks, and engage in activities that align with the practicum’s objectives. This documentation is crucial for demonstrating the student’s readiness to take on leadership roles in healthcare settings.
 
-#### Conclusion
+#### **Conclusion**
 
 The NR 630 Student Hourly Activities Log is a critical component of the Executive Practicum, ensuring that students meet the required hours while engaging in activities that enhance their learning and professional development. By documenting their activities meticulously and reflecting on their experiences, students can ensure that they are making the most of their practicum experience. The log not only tracks hours but also serves as a tool for achieving course outcomes, demonstrating the student’s commitment to their development as a healthcare leader.

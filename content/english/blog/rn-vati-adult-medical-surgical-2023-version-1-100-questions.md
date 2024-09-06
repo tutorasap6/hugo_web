@@ -61,7 +61,7 @@ resulting from overexposure to the sun, especially on the face, head, and neck.
 **A nurse is assessing a client who has hypocalcemia. In which of the following
 areas should the nurse tap on the client's face to detect the presence of
 Chvostek's sign? (You will find hot spots to select in the artwork below.
-Select only the hot spot that corresponds to your answer.)**
+Select only the hot spot that corresponds to your answer).**
 
 A is correct. The nurse should tap the client's cheek just in
 front of the ear and below the zygomatic arch. The client

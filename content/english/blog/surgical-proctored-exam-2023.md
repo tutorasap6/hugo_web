@@ -6,9 +6,9 @@ date: 2024-09-04T21:00:00.000Z
 
 ### SURGICAL PROCTORED EXAM 2023
 
-A nurse is caring for a client who has cancer and is
+**A nurse is caring for a client who has cancer and is
 experiencing pain. The nurse should implement which of the following
-interventions to assist the client with pain relief?
+interventions to assist the client with pain relief?**
 
 A) Encourage the client to listen to soft music
 

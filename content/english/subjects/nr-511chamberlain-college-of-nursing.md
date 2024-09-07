@@ -7,7 +7,7 @@ subject: NR 511Chamberlain College of Nursing
 
 ### &#x20;NR 511Chamberlain College of Nursing Assignments Help
 
-### Midterm 511.docx
+### &#x20;NR 511 Midterm 511.docx
 
 * Question #1: Associations with Severe Tinnitus
   * Depressive Disorder
@@ -17,7 +17,7 @@ subject: NR 511Chamberlain College of Nursing
 * Question #2: Coverage of Out-of-Pocket Expenses for Clients on Traditional Medicare
   * Acquiring Medicare Part B
 
-### 2. iHuman Week 5 Report.pdf
+### 2.  NR 511 iHuman Week 5 Report.pdf
 
 * Performance Overview for Jessica Szymanski on Case Vijay Rao
   * Case Section Status

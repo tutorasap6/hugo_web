@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://tutorasap6.github.io/hugo_web/"
 title = "Nursing School Tutor"
 theme = "saasis"
 # post pagination

@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tutorasap6.github.io/hugo_web/"
+baseURL = ""
 title = "Nursing School Tutor"
 theme = "saasis"
 # post pagination
@@ -12,8 +12,7 @@ googleAnalytics = "" # example : UA-123-45
 # disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
-relativeURLs = true
-canonifyURLs = true
+
 ############################# Imaging ##############################
 [imaging]
 quality = 100

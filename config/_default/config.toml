@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://nursingschooltutors.com"
 title = "Nursing School Tutor"
 theme = "saasis"
 # post pagination

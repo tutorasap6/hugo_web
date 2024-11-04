@@ -60,34 +60,6 @@ name = "Pricing"
 url = "pricing/"
 weight = 4
 
-[[main]]
-weight = 5
-name = "Services"
-hasChildren = true
-
-[[main]]
-weight = 1
-parent = "Services"
-name = "Entire Online Class Help"
-url = "services/entire-online-class-help"
-
-[[main]]
-weight = 1
-parent = "Services"
-name = "Exam Help service"
-url = "services/exam-help-service"
-
-[[main]]
-weight = 2
-parent = "Services"
-name = "General Writing Service"
-url = "services/general-writing-service"
-
-[[main]]
-weight = 3
-parent = "Services"
-name = "Original Assignment Help"
-url = "services/original-assignment-help"
 
 [[main]]
 name = "Contact Us"

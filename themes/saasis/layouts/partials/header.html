@@ -53,6 +53,33 @@
           {{ end }}
           <!-- ... (subject) ... -->
 
+          <!-- Services -->
+          {{ $servicesSection := .Site.GetPage "section" "services" }}
+          {{ with $servicesSection }}
+          <li class="nav-item dropdown position-static">
+            <a class="nav-link dropdown-toggle d-inline-flex align-items-center" href="#" role="button"
+              data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="position: relative;">
+              <span>{{ .Title }}</span>
+            </a>
+
+            <div class="dropdown-menu w-100 mt-0" aria-labelledby="navbarDropdown"
+              style="border-top-left-radius: 0; border-top-right-radius: 0; max-height: 100vh; overflow-y: auto;">
+              <div class="container">
+                <div class="row my-2 my-md-2">
+                  {{ range .Pages }}
+                  <div class="col-md-6 col-lg-4 mb-3 mb-lg-0">
+                    <div class="list-group list-group-flush">
+                      <a href="{{ .Permalink }}" class="dropdown-item list-group-item list-group-item-action"
+                        style="max-width: 100%; white-space: normal; word-wrap: break-word;">{{ .Title }}</a>
+                    </div>
+                  </div>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </li>
+          {{ end }}
+          <!-- ... services end ... -->
           {{ $currentPage := . }}
           {{ range site.Menus.main }}
 

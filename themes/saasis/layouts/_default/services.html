@@ -33,13 +33,16 @@
               <h3 class="h5 mb-3">{{ .title | markdownify }}</h3>
               <p class="mb-0">{{ .description | markdownify }}</p>
             </div>
-            {{$img:= resources.Get (.image) }}
-            {{$img:= $img.Resize "50x webp"}}
-            <img loading="lazy" decoding="async" class="img-fluid" src="{{$img.RelPermalink}}" alt="features image" width="{{$img.Width}}" height="{{$img.Height}}" data-aos="cool">
+            {{ if .image }}
+              {{$img := resources.Get (.image) }}
+              {{$img := $img.Resize "50x webp"}}
+              <img loading="lazy" decoding="async" class="img-fluid" src="{{$img.RelPermalink}}" alt="features image" width="{{$img.Width}}" height="{{$img.Height}}" data-aos="cool">
+            {{ end }}
           </div>
         </div>
         {{ end }}
       </div>
+      
     </div>
   </section>
   <!-- /features-section -->

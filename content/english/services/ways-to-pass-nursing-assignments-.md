@@ -119,7 +119,7 @@ bullet_points:
     reading and outlining every single word, take a cue from your class time.
     Focus your attention on the topics your instructor spends more time
     reviewing, as your assignments will likely come from those areas of concern.
-  - 'They include:  Case study Research paper Term paper Coursework Essay'
+  - 'They include:  Case study Research paper Term paper Coursework Essay.'
 features:
   - {}
   - {}

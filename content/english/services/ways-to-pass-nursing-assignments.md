@@ -14,9 +14,6 @@ description: >-
   assignments and compose them comprehensively. Although it is crucial to score
   well in these assignments to get a high final grade, students feel helpless
   without a definite path to follow.
-layout: >-
-  There are various types of assignments that need to be submitted by students
-  throughout the course duration. 
 bullet_points:
   - >-
     Manage Your Time Effective time management is essential for success. Poor

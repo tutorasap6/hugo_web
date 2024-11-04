@@ -96,6 +96,7 @@ features:
       [Nursingschooltutors.com](https://nursingschooltutors.com) and find out
       how we can transform your proctored exam experience into a smooth and
       successful process.
+    image: "images/features/01.webp"
   - title: Remote Proctoring Made Easy | Trusted by 600+ Students
     description: >-
       **Remote Proctoring Made Easy | Trusted by 600+ Students by
@@ -169,6 +170,7 @@ features:
       understands your needs.   For more information, visit
       [Nursingschooltutors.com]and discover why hundreds of students trust us
       for their proctoring needs.
+    image: "images/features/02.webp"
   - title: Proctored Exam Help
     description: >-
       Proctored exams are exams that are monitored by a proctor or invigilator.

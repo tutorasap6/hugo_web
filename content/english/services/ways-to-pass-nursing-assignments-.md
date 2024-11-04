@@ -1,5 +1,5 @@
 ---
-title: 'Ways to Pass Nursing Assignments '
+title: Ways to Pass Nursing Assignments
 heading: 'Ways to Pass Nursing Assignments '
 description: >-
   Nursing assignments can be quite challenging and give sleepless nights to

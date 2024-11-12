@@ -17,6 +17,18 @@ bullet_points:
   - PICO research question examples
   - 'List of nursing PICO questions '
 features:
+  - title: PICO Research Question Examples
+    description: >-
+      Creating research questions that align with PICO criteria is essential in
+      evidence-based practice. Here are a few examples across different nursing
+      specialties:  Geriatric Care: For elderly patients with dementia (P), does
+      the implementation of music therapy (I) reduce agitation (O) compared to
+      traditional calming techniques (C)? Mental Health: In adults with
+      depression (P), how does cognitive behavioral therapy (I) compare to
+      medication management alone (C) in improving mood stability and overall
+      quality of life (O)? Cardiac Care: In patients with hypertension (P), does
+      the use of a low-sodium diet (I) lower blood pressure readings (O) more
+      effectively than standard dietary advice (C)?
   - title: ' List of nursing PICO questions'
     description: >-
       List of Nursing PICO Questions Developing effective PICO questions can be

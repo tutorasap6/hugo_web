@@ -17,6 +17,19 @@ bullet_points:
   - Tips for Selecting a Nursing Capstone Project Idea
   - Why Capstone Projects Matter in Nursing Education
 features:
+  - title: Getting Started with Your Nursing Capstone Project
+    description: >-
+      Conduct a Literature Review: Research current literature on your topic to
+      build a solid foundation. This will help inform your project and ensure
+      it’s grounded in evidence-based practice. Define Clear Objectives: Outline
+      what you want to accomplish. For example, if your project is on fall
+      prevention, aim to reduce fall incidents by a specific percentage or
+      measure patient satisfaction improvements. Choose a Research Methodology:
+      Depending on your project, this might involve qualitative interviews,
+      quantitative surveys, or a combination of methods. Implement and Analyze:
+      Implement your intervention, if feasible, and collect data to assess its
+      impact. A successful project will include a robust analysis to measure
+      outcomes.
   - title: Innovative Nursing Capstone Project Ideas
     description: >-
       The following capstone project ideas span several fields of nursing and

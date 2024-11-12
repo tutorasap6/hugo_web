@@ -16,5 +16,17 @@ bullet_points:
   - Innovative Nursing Capstone Project Ideas
   - Tips for Selecting a Nursing Capstone Project Idea
   - Why Capstone Projects Matter in Nursing Education
+features:
+  - title: Why Capstone Projects Matter in Nursing Education
+    description: >-
+      Capstone projects are pivotal in a nursing student's journey because they
+      allow:  Practical Application of Knowledge: By addressing real healthcare
+      issues, students can use academic insights in a practical setting.
+      Development of Critical Thinking Skills: Working on a complex problem
+      hones critical thinking and problem-solving abilities. Enhancement of
+      Research and Communication Skills: Students gather and analyze data, often
+      presenting findings to peers and professionals. Contribution to the
+      Healthcare Field: Projects may lead to new practices, tools, or
+      approaches, making a difference in patient care or nursing education.
 ---
 

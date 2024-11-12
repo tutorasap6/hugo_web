@@ -17,6 +17,20 @@ bullet_points:
   - PICO research question examples
   - 'List of nursing PICO questions '
 features:
+  - title: 100 Useful PICO Questions for Nursing Research
+    description: >-
+      If you’re looking for inspiration for your next PICO assignment or
+      research project, this list of 100 PICO questions can provide a great
+      starting point:  Does physical therapy (I) improve mobility (O) in elderly
+      patients with arthritis (P) compared to no intervention (C)? Is
+      aromatherapy (I) effective in reducing anxiety (O) among patients awaiting
+      surgery (P) compared to no therapy (C)? Do structured meal plans (I)
+      improve weight management outcomes (O) for patients with obesity (P)
+      versus no intervention (C)? For patients with chronic pain (P), is
+      mindfulness training (I) effective in reducing pain perception (O)
+      compared to medication alone (C)? For patients with sleep disorders (P),
+      is cognitive behavioral therapy (I) more effective than sleep medications
+      (C) in improving sleep quality (O)?
   - title: ' PICO Question Examples in Women''s Health'
     description: >-
       Women's health issues often demand specific, nuanced PICO questions to

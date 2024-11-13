@@ -1,9 +1,8 @@
 ---
-title: Nursing Capstone Project Ideas for Nursing Students
-layout: "services"
+title: Nursing Capstone Project Ideas for Nursing Students| Assignments Help
 heading: >-
-  Nursing Capstone Project Ideas for Nursing Students|Get Human Written Paper
-  with Zero AI
+  Nursing Capstone Project Ideas for Nursing Students|Get Human Written
+  Assignments Help with Zero AI
 description: >-
   A nursing capstone project is an essential milestone for nursing students. It
   demonstrates the culmination of their knowledge, clinical skills, and research
@@ -12,6 +11,7 @@ description: >-
   to be both relevant and impactful. In this article, we’ll explore various
   nursing capstone project ideas for nursing students and discuss how you can
   pick a topic that will benefit your career.
+layout: services
 bullet_points:
   - Getting Started with Your Nursing Capstone Project
   - Innovative Nursing Capstone Project Ideas

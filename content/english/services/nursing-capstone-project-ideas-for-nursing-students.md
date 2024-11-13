@@ -1,5 +1,6 @@
 ---
 title: Nursing Capstone Project Ideas for Nursing Students
+layout: "services"
 heading: >-
   Nursing Capstone Project Ideas for Nursing Students|Get Human Written Paper
   with Zero AI

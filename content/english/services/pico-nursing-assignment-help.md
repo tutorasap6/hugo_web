@@ -1,6 +1,7 @@
 ---
 title: PICO Nursing Assignment Help
 heading: PICO Nursing Assignment Help| Get the AI free; Human written Assignments paper
+layout: "services"
 description: >-
   PICO is a popular framework for formulating clinical questions, especially
   those relating to therapy (or intervention) effectiveness.  It’s used to

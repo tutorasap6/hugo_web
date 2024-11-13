@@ -28,6 +28,27 @@ bullet_points:
 features:
   - title: How to write a methodology for a capstone project?
     description: >-
+      **How to Write a Methodology for a Capstone Project**  1. **Restate Your
+      Thesis or Research Problem**      Begin by briefly restating your main
+      research question or thesis to remind readers of the focus of your
+      project.  2. **Explain the Chosen Research Approach**      Describe the
+      approach you selected, whether qualitative, quantitative, or a
+      mixed-methods approach, and clarify why it’s best suited to address your
+      research problem.  3. **Detail Any Unique Methodology Used**      If you
+      employed any uncommon or specialized methods, provide a clear explanation
+      to help readers understand why these methods were appropriate for your
+      project.  4. **Describe Data Collection Methods**      Outline the
+      specific techniques used to gather data, such as surveys, interviews, or
+      experiments, and explain how each method supports your research
+      objectives.  5. **Explain Data Analysis Procedures**      Describe the
+      analytical techniques applied to interpret the collected data. For
+      instance, you might outline statistical tests, coding processes, or
+      thematic analysis depending on your data type.  6. **Justify Your
+      Methodological Choices**      Conclude with a rationale for your choices,
+      evaluating how each methodological step contributes to the study’s
+      validity, reliability, and overall goals.
+  - title: How to write a methodology for a capstone project?
+    description: >-
       The methodology section of a capstone project explains how you conducted
       your research and analysis, providing transparency and allowing others to
       replicate your study if desired. Here’s how to craft a strong

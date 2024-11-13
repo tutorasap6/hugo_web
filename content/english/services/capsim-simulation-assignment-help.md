@@ -26,6 +26,12 @@ bullet_points:
   - Why Choose Expert Help for Capsim Simulations?
   - Understanding Capsim Simulation
 features:
+  - title: ' How can I improve my Capsim simulation scores?'
+    description: >-
+      To improve scores, focus on balanced strategies, anticipate competitors'
+      moves, and continually monitor performance metrics like market share and
+      stock price. Our experts teach you how to analyze performance data and
+      adjust your strategy for each new round.
   - title: What types of Capsim simulations are there?
     description: >-
       apsim offers various types of simulations designed to match different

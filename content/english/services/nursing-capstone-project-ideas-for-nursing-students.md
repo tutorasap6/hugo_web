@@ -14,6 +14,7 @@ description: >-
 layout: services
 bullet_points:
   - ''
+  - How do I choose a topic for a capstone project?
   - What are examples of capstone projects?
   - What Is a Nursing Capstone Project?
   - 'Capstone Project Nursing: Achieving 100% Unique Nursing Capstones'
@@ -23,6 +24,23 @@ bullet_points:
   - Tips for Selecting a Nursing Capstone Project Idea
   - Why Capstone Projects Matter in Nursing Education
 features:
+  - title: How do I choose a topic for a capstone project?
+    description: >-
+      Choosing a capstone project topic starts with identifying your interests
+      and career goals within your field. Start by reflecting on the areas
+      you’re passionate about or specific issues you’ve encountered in your
+      studies or work experience. Consider problems that need practical
+      solutions or areas where you’d like to make an impact.  Next, conduct
+      preliminary research to see if there is enough available data or evidence
+      to support your topic. This will help ensure you have the resources
+      necessary for a well-rounded project. Additionally, select a topic that is
+      feasible in scope—one you can complete within the given timeframe and with
+      the available resources.  Finally, consult with mentors, professors, or
+      professionals in the field. They can provide valuable feedback on your
+      ideas, suggest resources, and help refine your topic to meet academic and
+      practical requirements. Choosing a capstone project topic that aligns with
+      both your interests and practical considerations will make the project
+      more enjoyable and impactful.
   - title: What are examples of capstone projects?
     description: >-
       Here are a few capstone project ideas across different fields:  Developing

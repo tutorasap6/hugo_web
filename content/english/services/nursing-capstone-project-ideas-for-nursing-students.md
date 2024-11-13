@@ -13,11 +13,29 @@ description: >-
   pick a topic that will benefit your career.
 layout: services
 bullet_points:
+  - 'Frequently Asked Questions: Capstone Projects'
+  - 'Capstone Project Nursing: Achieving 100% Unique Nursing Capstones'
+  - 'Nursing Capstone Project Ideas: 150 Healthcare Topics'
   - Getting Started with Your Nursing Capstone Project
   - Innovative Nursing Capstone Project Ideas
   - Tips for Selecting a Nursing Capstone Project Idea
   - Why Capstone Projects Matter in Nursing Education
 features:
+  - title: What Is a Nursing Capstone Project?
+    description: >-
+      A nursing capstone project is a culminating academic assignment typically
+      required at the end of a nursing program. It is designed to allow nursing
+      students to apply their theoretical knowledge, clinical skills, and
+      research abilities to address a real-world healthcare issue. By
+      identifying a specific problem or area of improvement within the nursing
+      field, students research, develop, and propose practical solutions that
+      can be implemented in clinical or community healthcare settings. Capstone
+      projects are often evidence-based and can take various forms, including
+      case studies, program evaluations, policy analyses, quality improvement
+      initiatives, or educational interventions. This project showcases a
+      student’s ability to think critically, solve problems, and contribute
+      meaningfully to the nursing profession, providing a bridge between
+      academic study and professional practice.
   - title: 'Nursing Capstone Project Ideas: 150 Healthcare Topics'
     description: >-
       These ideas cover various aspects of healthcare, allowing students to

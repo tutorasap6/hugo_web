@@ -14,6 +14,7 @@ description: >-
 layout: services
 bullet_points:
   - ''
+  - What should a capstone project include?
   - How do I choose a topic for a capstone project?
   - What are examples of capstone projects?
   - What Is a Nursing Capstone Project?
@@ -24,6 +25,36 @@ bullet_points:
   - Tips for Selecting a Nursing Capstone Project Idea
   - Why Capstone Projects Matter in Nursing Education
 features:
+  - title: What should a capstone project include?
+    description: >-
+      A capstone project typically includes several key components to ensure a
+      structured and comprehensive presentation of your research and findings.
+      Here’s what to include:  Title Page The title page should have the project
+      title, your name, institution, and any other relevant details specified by
+      your program.  Abstract A concise summary of your project, usually 150–250
+      words, outlining the main objectives, methodology, key findings, and
+      conclusions.  Introduction This section introduces your topic, explains
+      its relevance, and states the problem or question you aim to address. It
+      should also include background information and your project’s goals. 
+      Literature Review A review of existing research and theories related to
+      your topic. This shows the foundation for your study, highlights gaps in
+      current knowledge, and positions your work within the broader field. 
+      Methodology A detailed description of the methods and processes you used
+      for data collection and analysis. This could include surveys, experiments,
+      case studies, or other approaches, depending on your project’s nature. 
+      Results Present the data or findings of your project here. Use tables,
+      charts, or graphs as needed to make your results clear and accessible. 
+      Discussion Analyze and interpret your results, discussing their
+      implications and relevance to the original problem or question. This
+      section should explain how your findings contribute to the field and
+      address limitations of your study.  Conclusion Summarize the main points
+      and conclusions of your project. Reaffirm the significance of your
+      findings and, if relevant, suggest areas for future research or potential
+      applications.  References A list of all sources you cited throughout the
+      project, formatted according to your program’s guidelines (e.g., APA,
+      MLA).  Appendices (if needed) Include additional material, such as
+      questionnaires, raw data, or detailed tables, which support your findings
+      but are too lengthy to fit within the main text.
   - title: How do I choose a topic for a capstone project?
     description: >-
       Choosing a capstone project topic starts with identifying your interests

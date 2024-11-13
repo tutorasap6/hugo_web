@@ -1,7 +1,6 @@
 ---
 draft: false
 title: Proctored Exam Help service
-layout: "services"
 heading: Why we are the Proctored Exam Helpers and Online Test doers
 description: >-
   Comprehensive Guide to Proctored Exam Help by Nursingschooltutors.com

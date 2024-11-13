@@ -1177,6 +1177,7 @@ export default defineConfig({
             name: "layout",
             type: "string",
             description: "DO NOT CHANGE - It is default value",
+            
           },
 
           {
@@ -1214,6 +1215,9 @@ export default defineConfig({
           },
           
         ],
+        defaultItem: () => ({
+          layout: "services", // Default value for layout field
+        }),
       },
 
 

@@ -11,7 +11,7 @@ description: >-
   challenging without proper guidance. At nursingschooltutors.com, we provide
   expert Capsim Simulation Assignment Help tailored to simplify the learning
   process and help students succeed.
-layout: ''
+layout: "services"
 bullet_points:
   - What should I do if I fall behind in the simulation?
   - How can I improve my Capsim simulation scores?

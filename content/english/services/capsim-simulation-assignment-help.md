@@ -26,6 +26,30 @@ bullet_points:
   - Why Choose Expert Help for Capsim Simulations?
   - Understanding Capsim Simulation
 features:
+  - title: What types of Capsim simulations are there?
+    description: >-
+      apsim offers various types of simulations designed to match different
+      skill levels and educational goals, making it suitable for beginners,
+      intermediate learners, and advanced business students. The main types
+      include the Foundation, Capstone, and Comp-XM exams:  Foundation
+      Simulation The Foundation simulation is typically geared towards beginners
+      or those with limited experience in business strategy. It introduces
+      students to the fundamentals of business management, covering core areas
+      such as R&D, production, marketing, and finance in a simplified
+      environment. This simulation is ideal for developing a solid foundation in
+      business decision-making without the complexity of advanced scenarios. Our
+      tutors can help students grasp these basic principles, guiding them
+      through the decision-making process and explaining how each choice affects
+      company performance.  Capstone Simulation The Capstone simulation is
+      designed for more advanced students and involves complex, strategic
+      decision-making across multiple rounds. Capstone requires participants to
+      analyze detailed market reports, adjust strategies to compete effectively,
+      and manage complex interdependencies between different business functions.
+      It often includes competitive scenarios where students must differentiate
+      their products, capture market share, and drive long-term profitability.
+      Our tutors, with their extensive experience in Capstone, can help you
+      navigate these advanced scenarios, provide tips for analyzing competitor
+      actions, and assist in refining long-term strategies for better outcomes.
   - title: How long does it take to complete a Capsim assignment?
     description: >-
       The time commitment required for Capsim varies widely depending on the

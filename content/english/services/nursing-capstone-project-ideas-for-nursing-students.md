@@ -13,7 +13,6 @@ description: >-
   pick a topic that will benefit your career.
 layout: services
 bullet_points:
-  - ''
   - How to write a methodology for a capstone project?
   - How to Write a Capstone Project Introduction?
   - What should a capstone project include?
@@ -140,22 +139,22 @@ features:
       practical requirements. Choosing a capstone project topic that aligns with
       both your interests and practical considerations will make the project
       more enjoyable and impactful.
-  - title: What are examples of capstone projects?
+  - title: What are examples of capstone projects topics?
     description: >-
-      Here are a few capstone project ideas across different fields:  Developing
-      a Smartphone App for Local Events – Creating an app to help community
-      members stay updated on local activities and events. Designing a Green
-      School Garden – Planning and implementing a sustainable garden on school
-      grounds to promote environmental awareness. Studying Social Media’s Impact
-      on Teenagers' Mood – Investigating how social media use affects teenagers'
-      emotions and mental health. Creating a Recycling Plan for Small Businesses
-      – Developing a practical recycling program tailored to small business
-      operations. Mapping Tourist Spots in Your Hometown – Identifying and
-      promoting local tourist attractions through interactive maps. Exploring
-      Music’s Effect on Study Habits – Researching how different types of music
-      influence students' focus and productivity. Building a Charity Website –
-      Designing a website for a charitable organization to increase visibility
-      and community engagement.
+      Here are a few capstone project ideas across different fields:  1.
+      Developing a Smartphone App for Local Events – Creating an app to help
+      community members stay updated on local activities and events. 2.
+      Designing a Green School Garden – Planning and implementing a sustainable
+      garden on school grounds to promote environmental awareness. 3. Studying
+      Social Media’s Impact on Teenagers' Mood – Investigating how social media
+      use affects teenagers' emotions and mental health. 4.Creating a Recycling
+      Plan for Small Businesses – Developing a practical recycling program
+      tailored to small business operations. 5.Mapping Tourist Spots in Your
+      Hometown – Identifying and promoting local tourist attractions through
+      interactive maps. 6. Exploring Music’s Effect on Study Habits –
+      Researching how different types of music influence students' focus and
+      productivity. Building a Charity Website – Designing a website for a
+      charitable organization to increase visibility and community engagement.
   - title: What Is a Nursing Capstone Project?
     description: >-
       A nursing capstone project is a culminating academic assignment typically

@@ -26,6 +26,60 @@ bullet_points:
   - Why Choose Expert Help for Capsim Simulations?
   - Understanding Capsim Simulation
 features:
+  - title: What are the main areas covered in Capsim?
+    description: >-
+      Capsim simulations are designed to give students a comprehensive
+      understanding of business operations by focusing on several core areas.
+      These include:  1. **Research and Development (R&D)**      R&D is crucial
+      in Capsim for determining product specifications, improving quality, and
+      aligning products with market demands. Decisions in R&D affect product
+      innovation, durability, and customer satisfaction. It also impacts other
+      areas, as improving product features can increase costs and affect
+      production timelines. Effective R&D strategies help companies stay
+      competitive by keeping products appealing to target markets.  2.
+      **Marketing**      Marketing decisions in Capsim involve product pricing,
+      promotion, and sales forecasting. This area focuses on building brand
+      awareness, creating demand, and setting pricing strategies to capture
+      market share. Marketing choices directly affect revenue, and students must
+      balance attracting customers with maintaining profitability. Effective
+      marketing requires a keen understanding of customer needs and competitor
+      positioning.  3. **Production**      Production management covers the
+      planning, scheduling, and cost management of manufacturing processes.
+      Students must decide on production levels, invest in capacity, and manage
+      inventory. Efficient production planning ensures that demand is met
+      without excessive costs from overproduction or stockouts. This area
+      requires careful coordination with R&D, as production capabilities must
+      align with the technical specifications of new products.  4.
+      **Finance**      Finance involves managing the company’s capital, handling
+      cash flow, and making investment decisions. Students need to choose
+      between funding options such as issuing stock, taking on debt, or
+      reinvesting profits. Financial decisions are crucial as they impact a
+      company's ability to grow, manage risks, and remain solvent. This area
+      also covers budgeting, profitability analysis, and maintaining an optimal
+      capital structure.  5. **Human Resources (HR)**      While not always
+      included in every Capsim module, Human Resources plays an important role
+      in some simulations. HR decisions may involve employee training, hiring,
+      and managing turnover rates, all of which affect productivity and morale.
+      Effective HR management can improve operational efficiency and drive
+      long-term success by fostering a skilled and motivated workforce.  6.
+      **TQM (Total Quality Management)**      Some Capsim simulations include
+      TQM as an additional module, focusing on quality improvement initiatives
+      to increase efficiency and reduce costs. TQM decisions can enhance
+      production processes, reduce waste, and improve customer satisfaction. TQM
+      investments, such as lean manufacturing or Six Sigma practices, have
+      long-term benefits that influence various aspects of company performance,
+      from production quality to customer loyalty.  7. **Competitive
+      Analysis**      Understanding competitors is a crucial aspect of Capsim,
+      as it allows students to make strategic adjustments based on market
+      trends. Competitive analysis helps in adjusting pricing, product features,
+      and marketing strategies to differentiate the company and gain an
+      advantage. This area requires analyzing market data and anticipating
+      competitor moves, helping students learn how to remain responsive in a
+      dynamic business environment.  In summary, Capsim covers the
+      interconnected areas of R&D, marketing, production, finance, human
+      resources, TQM, and competitive analysis. By working through these areas,
+      students gain a holistic view of business management and experience the
+      complexity of balancing multiple functions to achieve overall success.
   - title: How can experts help with Capsim assignments?
     description: >-
       Experts can be invaluable resources for students tackling Capsim

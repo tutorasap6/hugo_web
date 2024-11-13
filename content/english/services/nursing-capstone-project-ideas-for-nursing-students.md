@@ -18,6 +18,34 @@ bullet_points:
   - Tips for Selecting a Nursing Capstone Project Idea
   - Why Capstone Projects Matter in Nursing Education
 features:
+  - title: 'Nursing Capstone Project Ideas: 150 Healthcare Topics'
+    description: >-
+      These ideas cover various aspects of healthcare, allowing students to
+      tailor their projects to areas of interest within nursing:  Improving
+      Patient Safety in Acute Care Focuses on identifying and implementing
+      strategies to reduce risks and enhance patient safety in acute care
+      settings.  Telehealth Implementation and Challenges Explores the
+      effectiveness of telehealth in healthcare delivery, especially for remote
+      or underserved populations, and addresses its challenges.  Nurse Burnout
+      Prevention Strategies Investigates causes of nurse burnout and evaluates
+      programs or interventions to improve mental health and job satisfaction
+      among nurses.  Preventing Hospital-Acquired Infections Examines strategies
+      for reducing infections acquired in hospitals, like proper hand hygiene,
+      sterilization, and isolation techniques.  Diabetes Education and
+      Management Aims to create educational programs for diabetic patients to
+      improve self-management and reduce complications.  Patient Satisfaction
+      Improvement Programs Develops ways to measure and enhance patient
+      satisfaction, focusing on improving communication, comfort, and care
+      quality.  Pain Management in Postoperative Care Analyzes effective pain
+      management strategies for postoperative patients, balancing effectiveness
+      and minimizing opioid use.  Fall Prevention in Elderly Patients Studies
+      the causes of falls in elderly patients and introduces strategies to
+      reduce these incidents, enhancing patient safety.  Improving Vaccination
+      Rates Focuses on strategies to increase vaccination rates through
+      education, outreach, and addressing vaccine hesitancy.  Mental Health
+      Support for Healthcare Workers Develops programs to provide mental health
+      resources and reduce stress for healthcare workers, especially in
+      high-stress settings.
   - title: 'Capstone Project Nursing: Achieving 100% Unique Nursing Capstones'
     description: >-
       Capstone Project Nursing: Achieving 100% Unique Nursing Capstones 

@@ -21,7 +21,7 @@ tags:
   - NR 103 RUA Paper - Patient Safety
 ---
 
-### NR NR 103 RUA PAPER 1 Sample one
+# **NR NR 103 RUA PAPER 1 Sample one**
 
 **Shared Governance Approach to Implementing Change of Shift Huddle
 Samira Neupane**
@@ -88,7 +88,7 @@ Stimpfel, A. W., Sloane, D. M., & Aiken, L. H. (2019). The longer the shifts for
 
 Twigg, D. E., & McCullough, K. (2019). Nurse retention: A review of strategies to create and enhance positive practice environments in clinical settings. Journal of Nursing Management, 28(7), 1335-1347. [https://doi.org/10.1111/jonm.12862](https://doi.org/10.1111/jonm.12862)
 
-# Improving Patient Safety by Practicing in a Just Culture Sample 2
+## Improving Patient Safety by Practicing in a Just Culture Sample 2
 
 NR 103: Transition to the Nursing Profession 22 September 2021
 
@@ -99,7 +99,7 @@ Safety is defined as freedom from harm or danger: the state of being safe (Merri
 
 Implementing a just culture is challenging. There are a variety of reasons why nurses do not voice patient safety concerns. For example, the fear of reprisal or retaliation leads to silence. However, patient safety is the number one priority in the patient care process. Just culture starts with the top-level administrator leadership, starting with the CEO who sets the tone for the entire organization. Leaders should foster an environment of inclusion, where all members are vital contributors and know their voices will be heard. “Practicing in a just culture can help reduce the fear associated with a stressful environment and may prevent or minimize the situations that increase susceptibility to hijack” (Duffy, 2017). Next, the staff members (nurses) must take ownership of responsibilities in the patient care process. As leaders, we understand that everyone is human and mistakes will be made; however, limiting or mitigating errors is a metric in how organizations are measured.
 
-A Nurse's Role
+## A Nurse's Role
 
 Nurses play a key role in the entire patient care process, from the beginning to the end. Therefore, minimizing risks must be a primary factor in all patient care settings where nurses take the primary lead within the process. According to the Institute of Medicine (IOM), the role of nurses, the largest group of healthcare professionals, has been recognized as vital in providing safe and quality care to patients \[CITATION Cho18 \l 1033]. In order for nurses to carry out their daily responsibilities, job competencies need to be in place. The patient safety competency of nurses can be defined as the ability to integrate attitudes, skills, and knowledge into nursing practices that are relevant for minimizing the risk for harm to patients in their nursing units \[CITATION Cho181 \l 1033].
 
@@ -107,7 +107,7 @@ Nurses play a key role in the entire patient care process, from the beginning to
 
 In conclusion, creating a just culture within healthcare organizations is essential for improving patient safety. It requires balanced accountability from both administrators and staff members. Nurses, as integral members of the healthcare team, play a pivotal role in patient safety and quality care. By fostering a just culture and supporting nurses in their competencies, healthcare organizations can minimize risks and ensure a safer environment for patients.
 
-References
+## References
 
 Cho, S. M., & Choi, J. (2018). Patient safety culture associated with patient safety competencies among registered nurses. Journal of Nursing Scholarship, 50(6), 550.
 

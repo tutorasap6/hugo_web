@@ -88,7 +88,7 @@ Stimpfel, A. W., Sloane, D. M., & Aiken, L. H. (2019). The longer the shifts for
 
 Twigg, D. E., & McCullough, K. (2019). Nurse retention: A review of strategies to create and enhance positive practice environments in clinical settings. Journal of Nursing Management, 28(7), 1335-1347. [https://doi.org/10.1111/jonm.12862](https://doi.org/10.1111/jonm.12862)
 
-## Improving Patient Safety by Practicing in a Just Culture Sample 2
+## Sample 2: Improving Patient Safety by Practicing in a Just Culture 
 
 NR 103: Transition to the Nursing Profession 22 September 2021
 

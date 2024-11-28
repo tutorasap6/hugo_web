@@ -1,16 +1,17 @@
 ---
-title: RN VATI Adult Medical Surgical 2023 version 1-100 questions
+title: (Free Answers) RN VATI Adult Medical Surgical 2023 version 1-100 questions
 description: RN VATI Adult Medical Surgical 2023 version 1-100 questions
 date: 2024-09-04T21:00:00.000Z
 ---
 
-## **RN VATI Adult Medical Surgical 2023 version 1-100 questions with Correct Answers**
+## **(Free Answers) RN VATI Adult Medical Surgical 2023 version 1-100 questions with Correct Answers**
 
 Capstone Course (Chamberlain University)
 
 **A nurse is caring for a client who
 has atopic dermatitis and a prescription for triamcinolone ointment. The nurse
 should assess the client to monitor for which of the following adverse effects?**
+---------------------------------------------------------------------------------
 
 Thinning of
 the skin
@@ -27,6 +28,7 @@ which can result in thinning of the skin.
 **A nurse is assessing a client who has left-sided heart failure.
 Which of the following findings should the nurse identify as a manifestation of
 left-sided heart failure? Frothy sputum**
+-----------------------------------------
 
 MY ANSWER
 
@@ -38,6 +40,7 @@ nurse should notify the provider immediately.
 **A nurse is caring for a client who is experiencing anxiety as well as numbness
 and tingling of the lips and fingers. The client's ABGs are: pH 7.48, PCO230 mm Hg, HCO3- 24 mEq/L, PaO2 85 mm Hg. Which of the following acid-base imbalances should the
 nurse identify that the client is experiencing?**
+-------------------------------------------------
 
 **MA nurse is assessing a client who has Cushing's syndrome. Which of the following findings should the nurse
 expect?**
@@ -51,6 +54,7 @@ depletion, and the risk for fractures increases.
 **A nurse is inspecting the skin of a client who has basal cell carcinoma. The
 nurse should identify which of the following lesion characteristics on the
 client's skin?**
+----------------
 
 MY ANSWER
 
@@ -62,6 +66,7 @@ resulting from overexposure to the sun, especially on the face, head, and neck.
 areas should the nurse tap on the client's face to detect the presence of
 Chvostek's sign? (You will find hot spots to select in the artwork below.
 Select only the hot spot that corresponds to your answer).**
+------------------------------------------------------------
 
 A is correct. The nurse should tap the client's cheek just in
 front of the ear and below the zygomatic arch. The client
@@ -71,6 +76,7 @@ the facial muscle.
 **A nurse in an emergency department is assessing a client who is overusing
 prescribed diuretics and has a sodium level of 127 mEq/L. Which of the
 following laboratory findings should the**
+------------------------------------------
 
 MY ANSWER
 
@@ -78,9 +84,9 @@ A client who has hyponatremia as a result of diuretic overuse has
 a low urine specific gravity. The increased excretion of water alters the ratio
 of particulate matter, which affects the specific gravity.
 
-**A home health nurse is assisting a client with planning care for a
+\*\*A home health nurse is assisting a client with planning care for a
 family member who has Alzheimer's disease. Which of the following instructions
-should the nurse include? **
+should the nurse include? \*\*
 
 *Remove clutter from rooms and hallways.*
 
@@ -94,6 +100,7 @@ syndrome (ARDS).
 
 **Which of the following findings should the nurse identify as a manifestation of this
 syndrome?**
+-----------
 
 Refractory hypoxemia
 
@@ -108,6 +115,7 @@ pulmonary edema evident on a chest x-ray is a manifestation of ARDS.
 **An emergency room nurse is assessing a client who has asthma and difficulty
 breathing. Which of the following findings should indicate to the nurse that
 the client is experiencing status asthmaticus?**
+------------------------------------------------
 
 Use of accessory muscles
 
@@ -121,6 +129,7 @@ with strong systemic bronchodilators, epinephrine, corticosteroids, and oxygen.
 **A nurse is teaching a client who has a new prescription for phenytoin to treat a
 seizure disorder. Which of the following adverse effects should the nurse
 instruct the client to report immediately to the provider?**
+------------------------------------------------------------
 
 MY ANSWER
 
@@ -130,10 +139,10 @@ measles-like appearance and progress to exfoliative dermatitis or
 Stevens-Johnson syndrome. The client should report this finding
 to the provider immediately.
 
-**A nurse is monitoring a client following a lumbar laminectomy. The
+\*\*A nurse is monitoring a client following a lumbar laminectomy. The
 client has a drain and indwelling urinary catheter. The nurse should identify
 which of the following findings as an indication of a complication of the
-surgery? **
+surgery? \*\*
 
 Clear drainage on the dressings
 
@@ -144,6 +153,7 @@ report this finding to the provider immediately.
 **A nurse is assessing a client who has right-sided heart failure.
 Which of the following findings should the nurse identify as a manifestation of
 right-sided heart failure?**
+----------------------------
 
 Increased abdominal girth
 
@@ -161,6 +171,7 @@ extremities.
 caregiver for their aging parents who have chronic illnesses. The nurse should
 identify that which of the following statements by the client indicates
 acceptance of the role change?**
+--------------------------------
 
 "I changed the floor plan of our home to
 accommodate my father's wheelchair."
@@ -173,6 +184,7 @@ home to accommodate their father's wheelchair.
 therapy for methicillin-resistant Staphylococcus
 aureus (MRSA). Which of the following findings is an indication to the
 nurse that the client is experiencing an adverse effect of the medication?**
+----------------------------------------------------------------------------
 
 The client is becoming flushed.
 
@@ -190,9 +202,10 @@ The client can have an adverse effect called red man syndrome, which
 causes hypotension and tachycardia,
 due to infusing the vancomycin too rapidly
 
-**A nurse is caring for a male client who has a new prescription for cyclosporine
+**\*\*A nurse is caring for a male client who has a new prescription for cyclosporine
 following a kidney transplant. Which of the following findings should the nurse
-identify as an adverse effect of this therapy? **
+identify as an adverse effect of this therapy? \*\***
+-----------------------------------------------------
 
 BUN 24 mg/dL
 
@@ -204,9 +217,10 @@ nephrotoxicity. The nurse should monitor the client for increases in BUN and
 creatinine and report any elevation to the provider. A rise in BUN could
 indicate transplant rejection.
 
-**A nurse is caring for a client who has dumping syndrome following a gastric
+**\*\*A nurse is caring for a client who has dumping syndrome following a gastric
 resection. The nurse should monitor the client for which of the following
-complications of dumping syndrome? **
+complications of dumping syndrome? \*\***
+-----------------------------------------
 
 Iron-deficiency anemia
 
@@ -220,6 +234,7 @@ duodenum, causing iron-deficiency anemia.
 **A nurse is assessing a client who takes salmeterol to treat
 moderate asthma. Which of the following findings should indicate to the nurse
 that the medication has been effective?**
+-----------------------------------------
 
 The client's daily peak expiratory flow (PEF)
 measures 85% above personal best.
@@ -231,6 +246,7 @@ best, indicates the effectiveness of medication therapy.
 **A nurse is providing teaching about health promotion activities for a client who
 has a new diagnosis of type 1 diabetes mellitus. Which of the following
 statements by the client indicates an understanding of the teaching?**
+----------------------------------------------------------------------
 
 "I will check my blood sugar level before
 exercising."
@@ -247,10 +263,11 @@ blood glucose levels before, during, and following exercise.
 **A nurse is providing teaching to a client who has a new
 prescription for warfarin. Which of the following medications should the nurse
 instruct the client to avoid? (Select all that apply.) Ferrous sulfate**
+------------------------------------------------------------------------
 
 Echinacea
 
- Aspirin
+Aspirin
 
 Dextromethorphan
 
@@ -264,9 +281,10 @@ when taken with warfarin.
 Naproxen is correct.Naproxen is an NSAID that relieves mild to moderate pain. It can increase the
 risk of bleeding if taken with warfarin.
 
-A nurse is assisting with the care of a client who is scheduled
+**A nurse is assisting with the care of a client who is scheduled
 for a thoracentesis. Which of the following interventions should the nurse plan
-to take?
+to take?**
+----------
 
 Place the client leaning forward over the
 bedside table for the procedure.
@@ -281,6 +299,7 @@ where the pleural fluid accumulates.
 **A nurse is providing discharge teaching about infection control
 at home for a client who has tuberculosis. Which of the following statements by
 the client indicates an understanding of the teaching?**
+--------------------------------------------------------
 
 "I will place my used tissues in a plastic
 bag."
@@ -296,6 +315,7 @@ bag and sealed to avoid spreading the infection.
 
 **A nurse is teaching a client who is scheduled to receive radioactive iodine therapy for treatment of hyperthyroidism. Which
 of the following instructions should the nurse include in the teaching?**
+-------------------------------------------------------------------------
 
 Use disposable utensils for meals.
 
@@ -309,6 +329,7 @@ this time period to decrease the risk for radiation exposure to other members of
 **A nurse is providing preoperative teaching to a client who is scheduled for a radical
 prostatectomy. Which of the following information should the nurse include in
 the teaching?**
+---------------
 
 A PCA pump will be used for postoperative pain
 control.
@@ -324,6 +345,7 @@ and pain medication.
 **A nurse is assessing a client's ECG strip and notes an irregular heart rate of
 98/min with no clear P waves. Which of the following cardiac dysrhythmias
 should the nurse document?**
+----------------------------
 
 MY ANSWER
 
@@ -334,6 +356,7 @@ waves, no atrial contractions, and an irregular rhythm.
 
 **A nurse is caring for a client who is receiving peritoneal
 dialysis. Which of the following actions should the nurse take?**
+-----------------------------------------------------------------
 
 Report cloudy dialysate drainage to the
 provider.
@@ -350,6 +373,7 @@ and antibiotics.
 **A nurse is assessing a client who has suspected appendicitis.
 Which of the following manifestations should the nurse expect? (Select all that
 apply.)**
+---------
 
 Elevated WBC count
 
@@ -380,6 +404,7 @@ appetite.
 risk for pressure injuries. Which of the following actions should the nurse
 include in the plan? Apply moisturizer
 to damp skin after bathing.**
+-----------------------------
 
 MY ANSWERApplying a
 moisturizer to damp skin after bathing helps prevent dry skin.
@@ -390,6 +415,7 @@ drier the skin is, the greater the risk is for skin breakdown.
 **A nurse is caring for a client who has a new diagnosis of type 1 diabetes
 mellitus. Which of the following findings should the nurse identify as a
 manifestation of type 1 diabetes?**
+-----------------------------------
 
 MY ANSWER
 
@@ -417,6 +443,7 @@ therefore, this is the priority action the nurse should take.
 loop electrosurgical excision procedure (LEEP) for the treatment of cervical
 cancer. Which of the following statements by the client indicates an
 understanding of the teaching?**
+--------------------------------
 
 "I may have mild cramping for several
 hours."
@@ -429,6 +456,7 @@ performed in ambulatory care using a painless electrical current.
 
 **A nurse is assessing a group of clients. For which of the following clients
 should the nurse make a referral to palliative care?**
+------------------------------------------------------
 
 A client
 whose medications to manage Parkinson's disease are no longer effective
@@ -446,6 +474,7 @@ regarding care needs, and work with families to identify care outcomes.
 **A nurse is providing teaching to a client who has a new prescription for
 cephalexin oral suspension. Which of the following statements by the client
 indicates an understanding of the teaching?**
+---------------------------------------------
 
 "I will keep the medication
 refrigerated."
@@ -458,6 +487,7 @@ the medication regimen.
 
 **A nurse is caring for a client who has acute kidney injury and a potassium level
 of 6.5 mEq/L. Which of the following ECG changes should the nurse expect?**
+---------------------------------------------------------------------------
 
 Peaked T waves
 
@@ -492,6 +522,7 @@ with their knees bent and then prepare the client to be transferred to surgery.
 
 **A nurse is caring for a client who is hemorrhaging and hypotensive from esophageal
 variceal bleeding. Which of the following actions should the nurse take first?**
+--------------------------------------------------------------------------------
 
 Verify that the client has adequate IV access.
 
@@ -515,6 +546,7 @@ polyphagia, an increase in urine production, or polyuria, and fatigue.
 **A nurse is reviewing the health histories of a group of clients.
 Which of the following findings should the nurse identify as an indication that
 a client is at an increased risk for urinary tract infections (UTIs)?**
+-----------------------------------------------------------------------
 
 Diabetes mellitus
 
@@ -527,6 +559,7 @@ increased risk for UTIs.
 **A nurse is preparing to discharge a client who is postoperative following a total hip
 arthroplasty. Which of the following equipment should the nurse ensure that the
 client has available at home prior to discharge?**
+--------------------------------------------------
 
 Elevated toilet seat
 
@@ -539,9 +572,9 @@ greater than 90° and should avoid using toilet seats that are low to the
 ground. An elevated toilet seat should be in place in the client's home prior
 to the client's discharge.
 
-**A nurse is assessing a client who has a history of type 2 diabetes
+\*\*A nurse is assessing a client who has a history of type 2 diabetes
 mellitus. The nurse should identify which of the following findings as an
-indication of a microvascular complication? **
+indication of a microvascular complication? \*\*
 
 Retinopathy
 
@@ -555,6 +588,7 @@ eventually cause tissue damage, cell death in the retina, and blindness.
 nurse notes that the client's blood type is AB positive and the blood infusing
 is labeled type B negative. Which of the following actions should the nurse
 take?**
+-------
 
 Monitor the
 client for any adverse reactions.
@@ -568,6 +602,7 @@ which is standard procedure for any blood transfusion.
 **A nurse is planning care for a client who had a lumbar
 laminectomy. Which of the following interventions should the nurse include in
 the plan of care?**
+-------------------
 
 Turn the client by log rolling with a turning
 sheet.
@@ -581,6 +616,7 @@ occurring.
 **A nurse is teaching a client how to obtain a specimen at home for
 a fecal occult blood test. Which of the following actions should the nurse
 instruct the client to take for 3 days prior to collecting the specimen?**
+--------------------------------------------------------------------------
 
 Avoid eating red meat.
 
@@ -593,6 +629,7 @@ can cause a false-positive result in a fecal occult blood test.
 **A nurse is caring for a client immediately following intubation with an endotracheal (ET)
 tube. Which of the following methods should the nurse identify as the most
 reliable for verifying placement of the ET tube?**
+--------------------------------------------------
 
 Check for end-tidal carbon dioxide levels.
 
@@ -604,6 +641,7 @@ placement.
 **A nurse notes that a client's eyes are protruding slightly from
 their orbits. Which of the following laboratory findings should the nurse
 expect?**
+---------
 
 Increased T
 
@@ -620,6 +658,7 @@ decreased thyroid stimulating hormone level reflect primary hyperthyroidism.
 **A nurse is preparing a teaching plan for a client who is starting to receive
 hemodialysis for chronic kidney disease. Which of the following instructions
 should the nurse include in the teaching?**
+-------------------------------------------
 
 "Increase
 your intake of protein to 1 to 1.5 grams per kilogram per day."
@@ -650,6 +689,7 @@ units/kg/hr, which is a decrease of 240 units/hr for a client who weighs 80 kg
 **A nurse is caring for a client who is intubated and receiving
 mechanical ventilation for heroin toxicity. Which of the following assessments
 is the nurse's priority?**
+--------------------------
 
 ABGs
 
@@ -662,6 +702,7 @@ ABGs, including respiratory status.
 **A nurse is assessing a client who has a new diagnosis of
 pericarditis. Which of the following findings should the nurse identify as a
 manifestation of cardiac tamponade?**
+-------------------------------------
 
 Paradoxical pulse
 
@@ -674,6 +715,7 @@ cardiac tamponade to the provider immediately.
 **A nurse is assessing a client who is undergoing radiation therapy
 for breast cancer. Which of the following findings is an indication to the
 nurse that the client is experiencing an adverse effect of the therapy?**
+-------------------------------------------------------------------------
 
 Skin changes
 
@@ -685,6 +727,7 @@ esophagitis, and lymphedema.
 
 **A nurse is caring for a group of clients. In which of the
 following scenarios is the nurse acting as a client advocate?**
+---------------------------------------------------------------
 
 The nurse refers a client who has chronic obstructive pulmonary
 disease for palliative care
@@ -705,6 +748,7 @@ services to relieve suffering and promote a client's quality of life.
 the following findings indicates that the
 client might be developing pulmonary edema? (Select all that apply.) Excessive
 somnolence**
+------------
 
 Epistaxis
 
@@ -729,6 +773,7 @@ tachypnea.
 
 **A nurse is teaching a client about preventing the transmission of HIV. Which of
 the following information should the nurse include?**
+-----------------------------------------------------
 
 Medication is
 available that will reduce the risk for HIV transmission.
@@ -743,6 +788,7 @@ has HIV, and clients who use intravenous drugs.
 **A nurse is caring for a client who has multiple leg fractures and
 is 24 hr postoperative following placement of skeletal traction. Which of the
 following actions should the nurse take?**
+------------------------------------------
 
 Apply a sterile hydrocolloid dressing every 24
 hr.
@@ -753,6 +799,7 @@ dressings are for necrotic or granulating wounds.
 
 **A nurse in a long-term care facility is caring for a client who
 has dementia. Which of the following actions should the nurse take?**
+---------------------------------------------------------------------
 
 Provide finger food at mealtime.
 
@@ -765,6 +812,7 @@ that the client can hold while ambulating are ideal.
 
 **A nurse is completing an admission assessment for a client who has bacterial
 meningitis. Which of the following personal protective equipment should the nurse use while caring for the client?**
+--------------------------------------------------------------------------------------------------------------------
 
 Surgical mask
 
@@ -782,6 +830,7 @@ until 24 hr after the initiation of antibiotic therapy.
 **A nurse is assessing a client for fluid volume deficit following
 lumbar spinal surgery. The nurse should identify which of the following
 findings as an indication the client is at risk for fluid volume deficit?**
+---------------------------------------------------------------------------
 
 Surgical drain output 300 mL during an 8-hr
 shift
@@ -798,6 +847,7 @@ client is at risk for fluid volume deficit.
 shortness of breath, and the nurse notes that the IV tubing and needleless
 connector device are disconnected. Which of the following actions should the
 nurse take first?**
+-------------------
 
 Close the pinch clamp on the CVC.
 
@@ -814,6 +864,7 @@ pulmonary arteries.
 **A nurse is planning care for a client who is scheduled for surgery
 and has a latex allergy. Which of the following actions should the nurse plan
 to take?**
+----------
 
 Place monitoring cords and tubes in a
 stockinette.
@@ -840,6 +891,7 @@ stool volume should decrease.
 **A nurse is providing teaching to a client who has a new prescription for
 levothyroxine to treat hypothyroidism. Which of the following statements by the
 client indicates an understanding of the teaching?**
+----------------------------------------------------
 
 "If my heart starts racing, my provider
 might need to adjust my dosage."
@@ -856,6 +908,7 @@ adjust the dosage accordingly.
 **A nurse is assessing a client who has an exacerbation of
 diverticular disease. In which of the following quadrants should the nurse
 anticipate the client to be experiencing abdominal pain?**
+----------------------------------------------------------
 
 Left lower quadrant
 
@@ -866,6 +919,7 @@ this disorder is often in the left lower quadrant.
 **A nurse is planning care for a client who has a lump in their
 right breast. Which of the following findings increases the client's risk of
 developing breast cancer?**
+---------------------------
 
 Oral contraceptives were taken for the last 6
 years
@@ -876,6 +930,7 @@ contraceptives, have an increased risk of developing breast cancer.
 **A nurse is providing teaching for a client who has constipation-predominant
 irritable bowel syndrome (IBS-C). Which of
 the following statements should the nurse include in the teaching?**
+--------------------------------------------------------------------
 
 "Take a dose of loperamide each
 morning."
@@ -887,6 +942,7 @@ the stool.
 **A nurse is caring for a client who is receiving mechanical ventilation. Which of the
 following actions should the nurse implement to decrease the client's risk for
 ventilator-associated pneumonia (VAP)? (Select all that apply.)**
+-----------------------------------------------------------------
 
 Wear a protective gown when suctioning the client's airway.
 
@@ -917,6 +973,7 @@ ventilation.
 intermittent IV fluids via a peripherally inserted central catheter (PICC).
 Which of the following information should the nurse include in the client's
 plan of care?**
+---------------
 
 Assess the PICC infusion system systematically.
 
@@ -930,6 +987,7 @@ secure.
 **A nurse is performing a risk assessment for a client. Which of the
 following factors should the nurse identify as increasing the client's risk for
 falls?**
+--------
 
 The client had cataract surgery 1 day ago.
 
@@ -943,6 +1001,7 @@ because the client's vision might be blurred.
 **A nurse is providing teaching to a group of clients about the
 prevention of coronary artery disease. Which of the following information
 should the nurse include in the teaching?**
+-------------------------------------------
 
 Walk 30 min daily at a comfortable pace.
 
@@ -954,6 +1013,7 @@ prevent weight gain and decrease the risk of coronary artery disease.
 **A home health nurse is inspecting a client's residence for electrical hazards as
 part of the agency's quality improvement plan. Which of the following findings
 should the nurse identify as a safety hazard?**
+-----------------------------------------------
 
 An IV pump is plugged into an outlet near a sink.
 
@@ -978,8 +1038,9 @@ neck, preventing additional discomfort and pressure from the device.
 **A nurse is providing teaching to a client about strategies to
 manage menopausal symptoms. Which of the following instructions should the
 nurse include in the teaching?**
+--------------------------------
 
- "Use water-based lubricant during intercourse to
+"Use water-based lubricant during intercourse to
 reduce discomfort."
 
 # MY ANSWER
@@ -988,8 +1049,8 @@ The nurse should instruct the client to use water-based lubricants
 to help relieve vaginal dryness and irritation during sexual intercourse.
 Atrophic vaginitis is a common manifestation of menopause.
 
-**A nurse is caring for a client who has chronic venous insufficiency. Which of following
-areas should the nurse assess for the presence of a venous ulcer? **
+\*\*A nurse is caring for a client who has chronic venous insufficiency. Which of following
+areas should the nurse assess for the presence of a venous ulcer? \*\*
 
 (You will
 find hot spots to select in the artwork below. Select only the hot spot that
@@ -1008,6 +1069,7 @@ level of pain at the site.
 confused, has a temperature of 40° C (104° F), a BP of 74/52 mm Hg, and a
 diagnosis of exertional heat stroke. Which of the following actions should the
 nurse take first?**
+-------------------
 
 Administer oxygen using a high-concentration
 mask.
@@ -1019,10 +1081,10 @@ breathing, and circulation approach to client care is to ensure that the client
 has a patent airway and administer oxygen using a highconcentration mask to
 promote oxygen perfusion to vital organs.
 
-**A nurse is caring for a client who has a prescription for lactated
+\*\*A nurse is caring for a client who has a prescription for lactated
 Ringer's by continuous IV infusion to replace output from an NG tube. Which of
 the following findings should indicate to the nurse that this therapy is
-effective? **
+effective? \*\*
 
 Urine specific gravity 1.020
 
@@ -1034,6 +1096,7 @@ is keeping up with fluid loss from gastric drainage.
 **A nurse is caring for a client who has a prescription for lactated
 Ringer's by continuous IV infusion to replace output from an NG tube. Which of
 the following findings should indicate to the nurse that this therapy is effective?**
+-------------------------------------------------------------------------------------
 
 Urine specific gravity 1.020
 
@@ -1047,8 +1110,8 @@ up with fluid loss from gastric drainage.
 A nurse is caring for a client who is 3 hr postoperative and exhibiting signs of
 hypovolemia.
 
-**Which of the following findings should the nurse identify as a
-manifestation of hypovolemia? **
+\*\*Which of the following findings should the nurse identify as a
+manifestation of hypovolemia? \*\*
 
 Rapid pulse rate
 
@@ -1060,6 +1123,7 @@ pressure.
 
 **A nurse is planning care for a client who has tuberculosis. Which of the
 following precautions should the nurse implement for this client?**
+-------------------------------------------------------------------
 
 Airborne precautions
 
@@ -1076,6 +1140,7 @@ mask.
 **A nurse is analyzing the ABG results of a client who is in
 respiratory acidosis. Which of the following mechanisms should the nurse
 identify as responsible for this acid-base imbalance?**
+-------------------------------------------------------
 
 Retention of carbon dioxide
 
@@ -1098,6 +1163,7 @@ the lungs can cause bronchoconstriction.
 **A nurse is providing teaching for a client who has neutropenia and is receiving
 chemotherapy. Which of the following client statements indicates an
 understanding of the teaching? (Select all that apply.)**
+---------------------------------------------------------
 
 "I will avoid crowds."
 
@@ -1123,6 +1189,7 @@ readings and report an elevated temperature to the provider.
 **A nurse is assessing a client who has a chest tube connected to a closed
 water-seal drainage system. Which of the following findings should the nurse
 report to the provider?**
+-------------------------
 
 Constant bubbling in the water seal chamber
 
@@ -1145,6 +1212,7 @@ removes gastric secretions and decompresses the bowel.
 **A nurse is teaching a client who has a new diagnosis of type 1 diabetes
 mellitus. Which of the following statements by the client indicates an
 understanding of the teaching?**
+--------------------------------
 
 "I
 am aware that my diabetes is caused by an autoimmune disorder."
@@ -1168,6 +1236,7 @@ increased intracranial pressure.
 **A nurse is providing teaching about dietary options for a client
 who has cholelithiasis. Which of the following statements should the nurse
 include in the teaching?**
+--------------------------
 
 "Select desserts such as angel-food
 cake."
@@ -1178,6 +1247,7 @@ choices that are low in fat.
 
 **A nurse is providing discharge teaching to a client who has COPD.
 Which of the following instructions should the nurse include in the teaching?**
+-------------------------------------------------------------------------------
 
 "Consume a diet that is high in
 calories."
@@ -1192,6 +1262,7 @@ foods to prevent weight loss.
 witnessing their signature on the informed consent form. The nurse determines
 that the client does not understand what the procedure will involve. Which of
 the following actions should the nurse take?**
+----------------------------------------------
 
 Contact the provider who will be performing the
 procedure.
@@ -1205,6 +1276,7 @@ fully with the client.
 **A nurse is providing teaching to a client who is scheduled for a
 bronchoscopy. Which of the following statements should the nurse include in the
 teaching?**
+-----------
 
 "You will not be able to eat or drink after
 the procedure until you are able to cough."
@@ -1218,6 +1290,7 @@ the cough reflex returns.
 
 **A nurse is caring for a client who is 24 hr postoperative following a total hip
 arthroplasty. Which of the following actions should the nurse take?**
+---------------------------------------------------------------------
 
 Maintain abduction of the affected extremity.
 

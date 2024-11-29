@@ -1,8 +1,8 @@
 ---
-title: Pay Someone to do NR 511Chamberlain College of Nursing
-description: NR 511Chamberlain College of Nursing
+title: Pay Someone to do NR 511 Course Chamberlain College of Nursing
+description: NR 511 Chamberlain College of Nursing
 date: 2024-08-04T21:00:00.000Z
-subject: Pay Someone to do NR 511Chamberlain College of Nursing
+subject: Pay Someone to do NR 511 Chamberlain College of Nursing
 ---
 
 # Struggling with NR 511? Pay Someone to Do Your Online Class

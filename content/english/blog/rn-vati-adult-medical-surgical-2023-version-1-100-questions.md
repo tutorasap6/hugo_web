@@ -25,7 +25,7 @@ which can result in thinning of the skin.
 left-sided heart failure? Frothy sputum**
 -----------------------------------------
 
-MY ANSWER
+**MY ANSWER**
 
 The nurse should identify that frothy sputum,
 dyspnea, and wheezing are manifestations of left-sided heart failure. Treatment includes fluid restriction and diuretics to decrease preload and reduce pulmonary congestion. Pink-tinged frothy sputum can be an

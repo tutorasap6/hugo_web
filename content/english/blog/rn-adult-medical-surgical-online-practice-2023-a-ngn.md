@@ -1,208 +1,182 @@
 ---
-title: RN Adult Medical Surgical Online Practice 2023 A NGN
+title: (Free Solution) RN Adult Medical Surgical Online Practice 2023 A NGN
 description: RN Adult Medical Surgical Online Practice 2023 A NGN
 date: 2024-09-04T21:00:00.000Z
 ---
 
 ***
 
-**RN Adult Medical Surgical Online Practice 2023 A NGN**
+## **RN Adult Medical Surgical Online Practice 2023 A NGN**
 
-**1. The client is experiencing manifestations of peritonitis due to X-ray
-results.**
+### **1. The client is experiencing manifestations of peritonitis due to X-ray&#xA;results.**
 
 ANSWER: The client has cloudy dialysate, abdominal pain, and
 guarding, which are signs of peritonitis.
 
-**2. Insert a large-gauge IV. Initiate a fluid challenge.**
+### **2. Insert a large-gauge IV. Initiate a fluid challenge.**
 
 ANSWER: The client is likely experiencing hypovolemia based on low
 urine output and restlessness.
 
-**3. A nurse is caring for a client who has a potassium level of 3 mEq/L.
-Which of the following assessment findings should the nurse expect?**
+### **3. A nurse is caring for a client who has a potassium level of 3 mEq/L.&#xA;Which of the following assessment findings should the nurse expect?**
 
 ANSWER: Hypoactive bowel sounds.
 Rationale: Low potassium levels can lead to decreased bowel motility.
 
-**4. The client is experiencing manifestations of pancreatitis as evidenced
-by the amylase and lipase levels.**
+### **4. The client is experiencing manifestations of pancreatitis as evidenced&#xA;by the amylase and lipase levels.**
 
 ANSWER: The client reports upper left quadrant pain, nausea, and
 fever, indicating pancreatitis.
 
-**5. A client with an arteriovenous fistula reports feeling warm,
-nauseated, and lightheaded.**
+### **5. A client with an arteriovenous fistula reports feeling warm,&#xA;nauseated, and lightheaded.**
 
 ANSWER: Administer 0.9% sodium
 chloride 200 mL IV bolus and apply oxygen at 2 L/min are indicated.
 
-**6. During the emergent phase of burn care, the client is at risk for
-hypovolemia and respiratory failure.**
+### **6. During the emergent phase of burn care, the client is at risk for&#xA;hypovolemia and respiratory failure.**
 
 ANSWER: Full-thickness burns and soot in the mouth indicate risk
 for respiratory complications and fluid loss.
 
-**7. A client should sign an informed consent before receiving a placebo
-during a research trial.**
+### **7. A client should sign an informed consent before receiving a placebo&#xA;during a research trial.**
 
 ANSWER: Informed consent is essential for ethical participation in
 trials.
 
-**8. A nurse is caring for a client with vomiting and diarrhea for 3 days.
-Which finding indicates fluid volume deficit?**
+### **8. A nurse is caring for a client with vomiting and diarrhea for 3 days.&#xA;Which finding indicates fluid volume deficit?**
 
 ANSWER: Heart rate 110/min.
 Rationale: Tachycardia is a common sign of fluid volume deficit.
 
-**9. A nurse is creating a care plan for a client with neutropenia due to
-chemotherapy.**
+### **9. A nurse is creating a care plan for a client with neutropenia due to&#xA;chemotherapy.**
 
 ANSWER: Monitor the client’s
 temperature every 4 hours.
 Rationale: Neutropenic clients are at risk for infections, so
 frequent temperature monitoring is necessary.
 
-**10. A nurse in the emergency department is caring for a client with
-full-thickness burns.**
+### **10. A nurse in the emergency department is caring for a client with&#xA;full-thickness burns.**
 
 ANSWER: IV fluids should be administered first to prevent hypovolemic shock.
 
-**11. A nurse is caring for a client 4 hours postoperative following open
-reduction internal fixation of the right ankle.**
+### **11. A nurse is caring for a client 4 hours postoperative following open&#xA;reduction internal fixation of the right ankle.**
 
 ANSWER: Extremity cool upon
 palpation.
 Rationale: This indicates compromised circulation and should be
 reported.
 
-**12. A nurse is caring for a client 12 hours postoperative following a
-total hip arthroplasty.**
+### **12. A nurse is caring for a client 12 hours postoperative following a&#xA;total hip arthroplasty.**
 
 ANSWER: Place a pillow between the client’s
 legs.
 Rationale: This prevents dislocation of the hip joint.
 
-**13. A nurse is assessing a client with Graves’ disease. Which image
-indicates exophthalmos?**
+### **13. A nurse is assessing a client with Graves’ disease. Which image&#xA;indicates exophthalmos?**
 
 ANSWER: The image of the client with
 bulging eyes.
 Rationale: Exophthalmos is a characteristic finding in Graves’
 disease.
 
-**14. A nurse is providing teaching to a female client with recurrent UTIs.**
+### **14. A nurse is providing teaching to a female client with recurrent UTIs.**
 
 ANSWER: Void before and after
 intercourse.
 Rationale: This helps prevent bacteria from entering the urinary
 tract.
 
-**15. A nurse is providing postoperative teaching following a total knee
-arthroplasty.**
+### **15. A nurse is providing postoperative teaching following a total knee&#xA;arthroplasty.**
 
 ANSWER: Flex the foot every hour when
 awake.
 Rationale: This helps prevent blood clots and promotes circulation.
 
-**16. A nurse is assessing a client with a suspected stroke. What is the
-priority finding?**
+### **16. A nurse is assessing a client with a suspected stroke. What is the&#xA;priority finding?**
 
 ANSWER: Dysphagia.
 Rationale: Difficulty swallowing increases the risk of aspiration.
 
-**17. A nurse is administering packed RBCs. Which finding indicates a
-hemolytic transfusion reaction?**
+### **17. A nurse is administering packed RBCs. Which finding indicates a&#xA;hemolytic transfusion reaction?**
 
 ANSWER: Low back pain and
 apprehension.
 Rationale: These are early signs of a hemolytic reaction.
 
-**18. A nurse in the emergency department is assessing an older adult
-client with a history of blurry vision and a recent fall.**
+### **18. A nurse in the emergency department is assessing an older adult&#xA;client with a history of blurry vision and a recent fall.**
 
 ANSWER: Check the client’s neurologic
 status.
 Rationale: Sudden vision changes and a fall may indicate a
 neurological issue.
 
-**19. A nurse is evaluating the care plan for four clients. Which client
-needs a plan revision?**
+### **19. A nurse is evaluating the care plan for four clients. Which client&#xA;needs a plan revision?**
 
 ANSWER: A client who is postoperative
 following abdominal surgery and reports a “popping” sensation.
 Rationale: This could indicate wound dehiscence or hernia.
 
-**20. A nurse is assessing a client who had extracorporeal shock wave
-lithotripsy (ESWL) 6 hours ago.**
+### **20. A nurse is assessing a client who had extracorporeal shock wave&#xA;lithotripsy (ESWL) 6 hours ago.**
 
 ANSWER: Stone fragments in the urine.
 Rationale: The procedure breaks up stones, which are then passed in
 the urine.
 
-**21. A nurse is providing teaching to a client with stage II cervical
-cancer scheduled for brachytherapy.**
+### **21. A nurse is providing teaching to a client with stage II cervical&#xA;cancer scheduled for brachytherapy.**
 
 ANSWER: “You will need to stay still
 in the bed during each treatment session.”
 Rationale: Movement could dislodge the radiation implant.
 
-**22. A nurse is caring for a client with chronic glomerulonephritis and
-oliguria. Which finding indicates a complication?**
+### **22. A nurse is caring for a client with chronic glomerulonephritis and&#xA;oliguria. Which finding indicates a complication?**
 
 ANSWER: Hyperkalemia.
 Rationale: Oliguria can lead to potassium retention.
 
-**23. A nurse is admitting a client with active tuberculosis.**
+### **23. A nurse is admitting a client with active tuberculosis.**
 
 ANSWER: Airborne precautions.
 Rationale: Tuberculosis is spread via airborne droplets.
 
-**24. A nurse is providing teaching to a client receiving epoetin alfa for
-chemotherapy-induced anemia.**
+### **24. A nurse is providing teaching to a client receiving epoetin alfa for&#xA;chemotherapy-induced anemia.**
 
 ANSWER: “I will monitor my blood
 pressure while taking this medication.”
 Rationale: Epoetin alfa can cause hypertension.
 
-**25. A nurse is caring for a terminally ill client who expresses a desire
-to stop treatments.**
+### **25. A nurse is caring for a terminally ill client who expresses a desire&#xA;to stop treatments.**
 
 ANSWER: “Discontinuing treatments is
 your choice if it is your wish.”
 Rationale: The nurse should support the client’s autonomy in making
 end-of-life decisions.
 
-**26. A nurse is caring for a client with anorexia, low-grade fever, and a
-productive cough.**
+### **26. A nurse is caring for a client with anorexia, low-grade fever, and a&#xA;productive cough.**
 
 ANSWER: Initiate airborne
 precautions.
 Rationale: These are symptoms of tuberculosis, requiring airborne
 precautions.
 
-**27. A nurse is reviewing the laboratory results of a client with aplastic
-anemia.**
+### **27. A nurse is reviewing the laboratory results of a client with aplastic&#xA;anemia.**
 
 ANSWER: WBC count 2,000/mm³.
 Rationale: A low WBC count increases the risk of infection.
 
-**28. A nurse is assessing a client with a penetrating chest wound and
-diminished lung sounds.**
+### **28. A nurse is assessing a client with a penetrating chest wound and&#xA;diminished lung sounds.**
 
 ANSWER: The client is most likely
 experiencing a hemothorax as evidenced by respiratory findings.
 Rationale: Diminished breath sounds and a penetrating wound suggest a
 hemothorax.
 
-**29. A nurse is caring for a client with a chest tube after a penetrating
-chest wound.**
+### **29. A nurse is caring for a client with a chest tube after a penetrating&#xA;chest wound.**
 
 ANSWER: Place the client in
 high-Fowler’s position.
 Rationale: This position facilitates lung expansion and drainage.
 
-**30. A nurse is planning care for a client with a penetrating chest wound.**
+### **30. A nurse is planning care for a client with a penetrating chest wound.**
 
 ANSWER: Transfuse packed RBCs and prepare the client for chest
 tube insertion.
@@ -210,7 +184,7 @@ Rationale: These interventions address blood loss and lung drainage.
 
 ***
 
-**31. A nurse is assessing a client with a penetrating chest wound.**
+### **31. A nurse is assessing a client with a penetrating chest wound.**
 
 ANSWER: The nurse should first
 address the client’s oxygenation, followed by the client’s blood pressure.
@@ -219,7 +193,7 @@ client with a chest injury.
 
 ***
 
-**32. A nurse is assessing a client with a penetrating chest wound.**
+### **32. A nurse is assessing a client with a penetrating chest wound.**
 
 ANSWER: The client is most likely
 experiencing a hemothorax as evidenced by the client’s respiratory findings.
@@ -228,7 +202,7 @@ penetrating wound.
 
 ***
 
-**33. A nurse is assessing a client with a penetrating chest wound.**
+### **33. A nurse is assessing a client with a penetrating chest wound.**
 
 ANSWER: Oxygen saturation is correct.
 Pain level is correct.
@@ -237,8 +211,7 @@ respiratory and pain status after a chest injury.
 
 ***
 
-**34. A nurse is caring for a client with a closed-suction drain following
-a laparotomy.**
+### **34. A nurse is caring for a client with a closed-suction drain following&#xA;a laparotomy.**
 
 ANSWER: Compress the drain reservoir
 after emptying.
@@ -247,7 +220,7 @@ pressure to facilitate wound drainage.
 
 ***
 
-**35. A nurse is caring for a client who is starting dialysis treatments.**
+### **35. A nurse is caring for a client who is starting dialysis treatments.**
 
 ANSWER: Tell the client that it is
 possible to return to similar previous levels of activity.
@@ -256,8 +229,7 @@ decrease psychosocial health issues.
 
 ***
 
-**36. A nurse is caring for a client undergoing brachytherapy via a sealed
-vaginal implant.**
+### **36. A nurse is caring for a client undergoing brachytherapy via a sealed&#xA;vaginal implant.**
 
 ANSWER: Wear a lead apron while
 providing care to the client.
@@ -266,7 +238,7 @@ clients undergoing brachytherapy.
 
 ***
 
-**37. A nurse is planning care for a client scheduled for a thoracentesis.**
+### **37. A nurse is planning care for a client scheduled for a thoracentesis.**
 
 ANSWER: Encourage the client to take
 deep breaths after the procedure.
@@ -275,7 +247,7 @@ during a thoracentesis.
 
 ***
 
-**38. A nurse is caring for a client at risk for seizures.**
+### **38. A nurse is caring for a client at risk for seizures.**
 
 ANSWER: Ensure that the client has a
 patent IV.
@@ -284,8 +256,7 @@ a seizure occurs.
 
 ***
 
-**39. A nurse is providing preoperative teaching for a client scheduled for
-an open cholecystectomy.**
+### **39. A nurse is providing preoperative teaching for a client scheduled for&#xA;an open cholecystectomy.**
 
 ANSWER: Demonstrate ways to deep
 breathe and cough.
@@ -294,8 +265,7 @@ respiratory complications after surgery.
 
 ***
 
-**40. A nurse is caring for a client with homonymous hemianopsia due to a
-stroke.**
+### **40. A nurse is caring for a client with homonymous hemianopsia due to a&#xA;stroke.**
 
 ANSWER: “Scan the environment by
 turning your head from side to side.”
@@ -304,8 +274,7 @@ homonymous hemianopsia.
 
 ***
 
-**41. A nurse is assessing a client with advanced lung cancer who just
-underwent thoracentesis.**
+### **41. A nurse is assessing a client with advanced lung cancer who just&#xA;underwent thoracentesis.**
 
 ANSWER: Dyspnea.
 Rationale: Thoracentesis helps relieve dyspnea by removing pleural
@@ -313,8 +282,7 @@ fluid.
 
 ***
 
-**42. A nurse is caring for a client receiving total parenteral nutrition
-(TPN).**
+### **42. A nurse is caring for a client receiving total parenteral nutrition&#xA;(TPN).**
 
 ANSWER: Administer dextrose 10% in
 water until the new bag arrives.
@@ -323,8 +291,7 @@ available.
 
 ***
 
-**43. A nurse is providing teaching to a client with a gastric ulcer and a
-new prescription for omeprazole.**
+### **43. A nurse is providing teaching to a client with a gastric ulcer and a&#xA;new prescription for omeprazole.**
 
 ANSWER: Suppressing gastric acid
 production.
@@ -333,7 +300,7 @@ ulcer healing.
 
 ***
 
-**44. A nurse is planning to irrigate and dress a clean, granulating wound.**
+### **44. A nurse is planning to irrigate and dress a clean, granulating wound.**
 
 ANSWER: Use a 30-mL syringe.
 Rationale: A 30-mL syringe is appropriate for wound irrigation to
@@ -341,8 +308,7 @@ clean and promote healing.
 
 ***
 
-**45. A nurse is providing teaching to a client with cancer prescribed an
-opioid analgesic.**
+### **45. A nurse is providing teaching to a client with cancer prescribed an&#xA;opioid analgesic.**
 
 ANSWER: “You should void every 4
 hours to decrease the risk of urinary retention.”
@@ -351,8 +317,7 @@ important.
 
 ***
 
-**46. A nurse is assessing a client with hypertension taking propranolol.
-Which finding indicates an adverse reaction?**
+### **46. A nurse is assessing a client with hypertension taking propranolol.&#xA;Which finding indicates an adverse reaction?**
 
 ANSWER: Report of a night cough.
 Rationale: A night cough can indicate heart failure, a potential
@@ -360,8 +325,7 @@ adverse effect of propranolol.
 
 ***
 
-**47. A nurse is teaching newly licensed nurses about pain management for
-older adults.**
+### **47. A nurse is teaching newly licensed nurses about pain management for&#xA;older adults.**
 
 ANSWER: “Ibuprofen can cause
 gastrointestinal bleeding in older adult clients.”
@@ -370,8 +334,7 @@ especially in older adults.
 
 ***
 
-**48. A nurse is assessing a client following hemodialysis. What is the
-nurse’s priority?**
+### **48. A nurse is assessing a client following hemodialysis. What is the&#xA;nurse’s priority?**
 
 ANSWER: Restlessness.
 Rationale: Restlessness can indicate fluid imbalance or other
@@ -379,8 +342,7 @@ complications requiring immediate attention.
 
 ***
 
-**49. A nurse is assessing a client post-thyroidectomy. What is the
-priority finding?**
+### **49. A nurse is assessing a client post-thyroidectomy. What is the&#xA;priority finding?**
 
 ANSWER: Temperature 38.9°C (102°F).
 Rationale: Fever post-thyroidectomy could indicate infection or
@@ -388,8 +350,7 @@ thyroid storm, requiring prompt intervention.
 
 ***
 
-**50. A nurse is providing education to a client with tuberculosis (TB) and
-their family.**
+### **50. A nurse is providing education to a client with tuberculosis (TB) and&#xA;their family.**
 
 ANSWER: Family members in the
 household should undergo TB testing.
@@ -398,8 +359,7 @@ for exposure.
 
 ***
 
-**51. A nurse is providing discharge instructions to a client following an
-upper GI series with barium contrast.**
+### **51. A nurse is providing discharge instructions to a client following an&#xA;upper GI series with barium contrast.**
 
 ANSWER: Increase fluid intake.
 Rationale: Fluids help flush the barium from the system and prevent
@@ -407,8 +367,7 @@ constipation.
 
 ***
 
-**52. A nurse is assessing a client with visual disturbances and tingling
-of the lips. What action should the nurse take next?**
+### **52. A nurse is assessing a client with visual disturbances and tingling&#xA;of the lips. What action should the nurse take next?**
 
 ANSWER: Monitor for chest pain due to
 the risk of myocardial ischemia.
@@ -417,8 +376,7 @@ monitoring is essential.
 
 ***
 
-**53. A nurse is assessing a client with visual disturbances, tingling of
-the lips, and photophobia.**
+### **53. A nurse is assessing a client with visual disturbances, tingling of&#xA;the lips, and photophobia.**
 
 ANSWER: Administer sumatriptan is
 correct. Dim the lights in the client’s room is correct.
@@ -427,7 +385,7 @@ migraines.
 
 ***
 
-**54. A nurse is providing care for a client with a migraine.**
+### **54. A nurse is providing care for a client with a migraine.**
 
 ANSWER: The nurse should address the
 client’s pain.
@@ -436,8 +394,7 @@ with migraines.
 
 ***
 
-**55. A nurse is providing teaching to a client regarding sumatriptan and
-migraine triggers.**
+### **55. A nurse is providing teaching to a client regarding sumatriptan and&#xA;migraine triggers.**
 
 ANSWER: “Foods that contain tyramine
 might trigger my headaches” is correct.
@@ -445,7 +402,7 @@ Rationale: Tyramine is a known trigger for migraines.
 
 ***
 
-**56. A nurse is reviewing the ABG results of a client with advanced COPD.**
+### **56. A nurse is reviewing the ABG results of a client with advanced COPD.**
 
 ANSWER: PaCO₂ 56 mm Hg.
 Rationale: Clients with COPD often have elevated PaCO₂ due to chronic
@@ -453,8 +410,7 @@ respiratory acidosis.
 
 ***
 
-**57. A nurse is assessing a client with a nephrostomy tube inserted 12
-hours ago.**
+### **57. A nurse is assessing a client with a nephrostomy tube inserted 12&#xA;hours ago.**
 
 ANSWER: The client reports back pain.
 Rationale: Back pain may indicate a complication with the nephrostomy
@@ -462,8 +418,7 @@ tube.
 
 ***
 
-**58. A nurse is reviewing the medical record of an older adult client
-receiving IV fluid therapy.**
+### **58. A nurse is reviewing the medical record of an older adult client&#xA;receiving IV fluid therapy.**
 
 ANSWER: BUN.
 Rationale: Elevated BUN can indicate fluid overload or dehydration in
@@ -471,8 +426,7 @@ clients receiving IV fluids.
 
 ***
 
-**59. A nurse is preparing to administer a blood transfusion to a client
-with anemia.**
+### **59. A nurse is preparing to administer a blood transfusion to a client&#xA;with anemia.**
 
 ANSWER: Check for the type and number
 of units of blood to administer.
@@ -481,8 +435,7 @@ ensuring safe transfusion.
 
 ***
 
-**60. A nurse is caring for a client who is experiencing a tonic-clonic
-seizure.**
+### **60. A nurse is caring for a client who is experiencing a tonic-clonic&#xA;seizure.**
 
 ANSWER: Loosen restrictive clothing.
 Rationale: Loosening clothing prevents injury and promotes airway
@@ -490,8 +443,7 @@ patency during a seizure.
 
 ***
 
-**61. A nurse is providing teaching to a client with a new prescription for
-metformin.**
+### **61. A nurse is providing teaching to a client with a new prescription for&#xA;metformin.**
 
 ANSWER: “I should take this
 medication with a meal.”
@@ -500,8 +452,7 @@ gastrointestinal side effects.
 
 ***
 
-**62. A nurse is providing follow-up care for a client who sustained a
-compound fracture 3 weeks ago.**
+### **62. A nurse is providing follow-up care for a client who sustained a&#xA;compound fracture 3 weeks ago.**
 
 ANSWER: Sedimentation rate.
 Rationale: An elevated sedimentation rate indicates inflammation,
@@ -509,8 +460,7 @@ possibly due to osteomyelitis.
 
 ***
 
-**63. A nurse is assessing a client while suctioning the tracheostomy tube.
-What indicates hypoxia?**
+### **63. A nurse is assessing a client while suctioning the tracheostomy tube.&#xA;What indicates hypoxia?**
 
 ANSWER: The client’s heart rate
 increases.
@@ -518,8 +468,7 @@ Rationale: Tachycardia is a common sign of hypoxia.
 
 ***
 
-**64. A nurse is providing preoperative teaching for a client scheduled for
-a mastectomy.**
+### **64. A nurse is providing preoperative teaching for a client scheduled for&#xA;a mastectomy.**
 
 ANSWER: “I will refer you to
 community resources that can provide support.”
@@ -528,8 +477,7 @@ part of preoperative teaching.
 
 ***
 
-**65. A nurse is preparing to present a program about the prevention of
-atherosclerosis at a health fair.**
+### **65. A nurse is preparing to present a program about the prevention of&#xA;atherosclerosis at a health fair.**
 
 ANSWER: Follow a smoking cessation
 program, maintain an appropriate weight, eat a low-fat diet.
@@ -538,8 +486,7 @@ atherosclerosis.
 
 ***
 
-**66. A nurse is caring for a client receiving total parenteral nutrition
-(TPN) and NPO.**
+### **66. A nurse is caring for a client receiving total parenteral nutrition&#xA;(TPN) and NPO.**
 
 ANSWER: Contact the provider to
 clarify the prescription.
@@ -548,7 +495,7 @@ ordered for a client who is NPO and receiving TPN.
 
 ***
 
-**67. A nurse is caring for a client with an arterial line.**
+### **67. A nurse is caring for a client with an arterial line.**
 
 ANSWER: Place a pressure bag around
 the flush solution.
@@ -557,7 +504,7 @@ and prevents clotting.
 
 ***
 
-**68. A nurse is caring for a client who is having a seizure.**
+### **68. A nurse is caring for a client who is having a seizure.**
 
 ANSWER: Turn the client to the side.
 Rationale: Turning the client to the side helps maintain airway
@@ -565,8 +512,7 @@ patency and prevents aspiration.
 
 ***
 
-**69. A nurse at an urgent care clinic is caring for a client experiencing
-an anaphylactic reaction.**
+### **69. A nurse at an urgent care clinic is caring for a client experiencing&#xA;an anaphylactic reaction.**
 
 ANSWER: Administer epinephrine.
 Rationale: Epinephrine is the first-line treatment for anaphylaxis to
@@ -574,8 +520,7 @@ prevent airway obstruction and shock.
 
 ***
 
-**70. A nurse is caring for a client receiving mannitol for increased
-intracranial pressure (ICP).**
+### **70. A nurse is caring for a client receiving mannitol for increased&#xA;intracranial pressure (ICP).**
 
 ANSWER: Crackles heard on
 auscultation.
@@ -584,8 +529,7 @@ mannitol.
 
 ***
 
-**71. A nurse is providing discharge teaching to a client following a
-modified radical mastectomy.**
+### **71. A nurse is providing discharge teaching to a client following a&#xA;modified radical mastectomy.**
 
 ANSWER: Numbness can occur along the
 inside of the affected arm.
@@ -594,7 +538,7 @@ nerve damage.
 
 ***
 
-**72. A nurse is caring for a client with diabetic ketoacidosis (DKA).**
+### **72. A nurse is caring for a client with diabetic ketoacidosis (DKA).**
 
 ANSWER: Glucose 272 mg/dL.
 Rationale: A decreasing glucose level indicates that the client’s
@@ -602,7 +546,7 @@ condition is improving.
 
 ***
 
-**73. A nurse is providing teaching to a client taking ginkgo biloba.**
+### **73. A nurse is providing teaching to a client taking ginkgo biloba.**
 
 ANSWER: “Ginkgo biloba can cause an
 increased risk for bleeding.”
@@ -611,8 +555,7 @@ increase bleeding risk.
 
 ***
 
-**74. A nurse is providing teaching to a client with stress incontinence
-and a BMI of 32.**
+### **74. A nurse is providing teaching to a client with stress incontinence&#xA;and a BMI of 32.**
 
 ANSWER: “A risk factor for my
 condition is obesity.”
@@ -621,8 +564,7 @@ stress incontinence.
 
 ***
 
-**75. A nurse is caring for a client with portal hypertension who is
-vomiting blood.**
+### **75. A nurse is caring for a client with portal hypertension who is&#xA;vomiting blood.**
 
 ANSWER: Obtain vital signs.
 Rationale: Checking vital signs helps assess the severity of the
@@ -630,8 +572,7 @@ client’s condition and guides further interventions.
 
 ***
 
-**76. A nurse is caring for a client post-hip arthroplasty with a
-hemoglobin of 8 g/dL.**
+### **76. A nurse is caring for a client post-hip arthroplasty with a&#xA;hemoglobin of 8 g/dL.**
 
 ANSWER: Report the hemoglobin level
 to the provider.
@@ -640,8 +581,7 @@ anemia, requiring intervention.
 
 ***
 
-**77. A nurse is teaching a client with a family history of colorectal
-cancer about diet.**
+### **77. A nurse is teaching a client with a family history of colorectal&#xA;cancer about diet.**
 
 ANSWER: Add cabbage to the diet.
 Rationale: Cabbage is high in fiber, which helps reduce the risk of
@@ -649,7 +589,7 @@ colorectal cancer.
 
 ***
 
-**78. A nurse is assessing a client with a detached retina.**
+### **78. A nurse is assessing a client with a detached retina.**
 
 ANSWER: “It’s like a curtain closed
 over my eye.”
@@ -658,8 +598,7 @@ vision resembling a curtain being pulled over the eye.
 
 ***
 
-**79. A nurse is caring for a client receiving a blood transfusion who
-becomes restless and dyspneic.**
+### **79. A nurse is caring for a client receiving a blood transfusion who&#xA;becomes restless and dyspneic.**
 
 ANSWER: Slow the infusion rate.
 Rationale: Slowing the transfusion helps manage fluid overload or
@@ -667,8 +606,7 @@ transfusion-related complications.
 
 ***
 
-**80. A nurse is assessing a client with rheumatoid arthritis. What
-nonpharmacological intervention reduces pain?**
+### **80. A nurse is assessing a client with rheumatoid arthritis. What&#xA;nonpharmacological intervention reduces pain?**
 
 ANSWER: Alternate application of heat
 and cold to the affected joints.
@@ -677,7 +615,7 @@ joint pain.
 
 ***
 
-**81. A nurse is caring for a client with hypothyroidism.**
+### **81. A nurse is caring for a client with hypothyroidism.**
 
 ANSWER: Constipation.
 Rationale: Hypothyroidism slows metabolism, which can lead to
@@ -685,8 +623,7 @@ constipation.
 
 ***
 
-**82. A nurse is teaching a client how to use crutches while climbing
-stairs.**
+### **82. A nurse is teaching a client how to use crutches while climbing&#xA;stairs.**
 
 ANSWER: Place body weight on the
 crutches, advance the unaffected leg onto the stair, shift weight from the
@@ -697,9 +634,7 @@ while climbing stairs.
 
 ***
 
-**83. A nurse is caring for a client who is postoperative following a total
-hip arthroplasty. Which of the following laboratory values should the nurse
-report to the provider?**
+### **83. A nurse is caring for a client who is postoperative following a total&#xA;hip arthroplasty. Which of the following laboratory values should the nurse&#xA;report to the provider?**
 
 ANSWER: Hgb 8 g/dL.
 Rationale: A hemoglobin level of 8 g/dL is low and may indicate
@@ -707,8 +642,7 @@ bleeding or anemia, which requires intervention.
 
 ***
 
-**84. A nurse is assessing a client postoperatively with a urinary catheter
-and IV fluids.**
+### **84. A nurse is assessing a client postoperatively with a urinary catheter&#xA;and IV fluids.**
 
 ANSWER: Report urinary output to the
 provider is correct. Plan to ambulate the client as soon as possible is
@@ -719,8 +653,7 @@ such as infection, deep vein thrombosis, and respiratory issues.
 
 ***
 
-**85. A nurse is teaching a client who has a family history of colorectal
-cancer. Which dietary recommendation should the nurse make?**
+### **85. A nurse is teaching a client who has a family history of colorectal&#xA;cancer. Which dietary recommendation should the nurse make?**
 
 ANSWER: Add cabbage to the diet.
 Rationale: A high-fiber diet that includes vegetables like cabbage
@@ -728,8 +661,7 @@ can help reduce the risk of colorectal cancer.
 
 ***
 
-**86. A nurse is assessing a client with a detached retina. Which of the
-following should the nurse expect the client to report?**
+### **86. A nurse is assessing a client with a detached retina. Which of the&#xA;following should the nurse expect the client to report?**
 
 ANSWER: “It’s like a curtain closed
 over my eye.”
@@ -738,8 +670,7 @@ shadow over part of the visual field.
 
 ***
 
-**87. A nurse is caring for a client receiving a blood transfusion. The
-client becomes restless and dyspneic. What action should the nurse take?**
+### **87. A nurse is caring for a client receiving a blood transfusion. The&#xA;client becomes restless and dyspneic. What action should the nurse take?**
 
 ANSWER: Slow the infusion rate.
 Rationale: Slowing the transfusion helps to manage the client's
@@ -747,8 +678,7 @@ symptoms, which may indicate fluid overload or transfusion reaction.
 
 ***
 
-**88. A nurse is assessing a client with rheumatoid arthritis. Which
-nonpharmacological intervention should the nurse suggest to reduce pain?**
+### **88. A nurse is assessing a client with rheumatoid arthritis. Which&#xA;nonpharmacological intervention should the nurse suggest to reduce pain?**
 
 ANSWER: Alternate application of heat
 and cold to the affected joints.
@@ -757,8 +687,7 @@ methods for reducing inflammation and relieving pain in rheumatoid arthritis.
 
 ***
 
-**89. A nurse is caring for a client with hypothyroidism. Which
-manifestation should the nurse expect?**
+### **89. A nurse is caring for a client with hypothyroidism. Which&#xA;manifestation should the nurse expect?**
 
 ANSWER: Constipation.
 Rationale: Hypothyroidism slows metabolic processes, which can result
@@ -766,8 +695,7 @@ in constipation.
 
 ***
 
-**90. A nurse is caring for a client with a leg cast. Which sequence should
-the client follow when demonstrating crutch use on stairs?**
+### **90. A nurse is caring for a client with a leg cast. Which sequence should&#xA;the client follow when demonstrating crutch use on stairs?**
 
 ANSWER: Place body weight on the
 crutches, advance the unaffected leg onto the stair, shift weight from the

@@ -8,13 +8,11 @@ date: 2024-09-04T21:00:00.000Z
 
 Capstone Course (Chamberlain University)
 
-1. **A nurse is caring for a client who has atopic dermatitis and a prescription for triamcinolone ointment. The nurse
-   should assess the client to monitor for which of the following adverse effects?**
+**1.A nurse is caring for a client who has atopic dermatitis and a prescription for triamcinolone ointment. The nurse
+should assess the client to monitor for which of the following adverse effects?**
+---------------------------------------------------------------------------------
 
-Thinning of
-the skin
-
-delayed healing
+Thinning of the skin delayed healing
 
 ###### **MY ANSWER**
 

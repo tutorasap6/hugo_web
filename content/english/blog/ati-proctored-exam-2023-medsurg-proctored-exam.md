@@ -4,7 +4,7 @@ description: ATI Proctored Exam 2023 medsurg proctored exam
 date: 2024-09-04T21:00:00.000Z
 ---
 
-# ATI Proctored Exam 2023 medsurg proctored exam
+# (Free Solution) ATI Proctored Exam 2023 medsurg proctored exam
 
 A school nurse is assessing a child who has been stung by a
 bee. The child's hand is swelling and the nurse notes that the child is

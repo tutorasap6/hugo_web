@@ -1,10 +1,10 @@
 ---
-title: med surg ati proctored exam2024 version 100 Questions
+title: (Free Answers) med surg ati proctored exam2024 version 100 Questions
 description: med surg ati proctored exam2024 version 1-100 Questions
 date: 2024-09-04T21:00:00.000Z
 ---
 
-## med surg ati proctored exam2024 version 1-100 Questions
+## (Free Solution) med surg ati proctored exam2024 version 1-100 Questions
 
 ***
 

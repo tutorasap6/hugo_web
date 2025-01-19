@@ -1,10 +1,12 @@
 ---
-title: Management Project UnitedHealth Groups Category NR 630 Executive Practicum
+title: >-
+  (Free Solution) Management Project UnitedHealth Groups Category NR 630
+  Executive Practicum
 description: 'Management Project UnitedHealth Groups Category: NR 630 Executive Practicum'
 date: 2024-08-30T21:00:00.000Z
 ---
 
-### NR 630 Week 7 Assignment: Management Project – UnitedHealth Groups
+### (Free Solution) NR 630 Week 7 Assignment: Management Project – UnitedHealth Groups
 
 Category: NR 630 Executive Practicum
 

@@ -1,12 +1,14 @@
 ---
-title: Week 2 Assignment Direct Care Project Part 1 Assessment and Diagnosis NR443
+title: >-
+  (Free Solution) Week 2 Assignment Direct Care Project Part 1 Assessment and
+  Diagnosis NR443
 description: >-
   NR 443 RN Community Health Nursing: Week 2 Assignment: Direct Care Project
   Part 1: Assessment and Diagnosis
 date: 2024-08-30T21:00:00.000Z
 ---
 
-## NR 443 RN Community Health Nursing: Week 2 Assignment: Direct Care Project Part 1: Assessment and Diagnosis
+## (Free Solution) NR 443 RN Community Health Nursing: Week 2 Assignment: Direct Care Project Part 1: Assessment and Diagnosis
 
 ### Introduction
 

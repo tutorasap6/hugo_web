@@ -1,5 +1,5 @@
 ---
-title: ATI Med Surg Proctored Exam study notes Part 1
+title: (Free Answers) ATI Med Surg Proctored Exam study notes Part 1
 description: ATI Med Surg Proctored Exam study notes Part 1
 date: 2024-09-04T21:00:00.000Z
 ---
@@ -108,7 +108,7 @@ palpation
 
 30. Fibrocystic
 breast disease – indicated by multiple masses of regular shape, lumps are
-moveable and increase in tenderness during the menstrual period 
+moveable and increase in tenderness during the menstrual period
 
 31. Sickle
 Cell – promote rest (activity causes discomfort), keep client warm, oxygen

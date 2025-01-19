@@ -1,5 +1,5 @@
 ---
-title: Healthcare Topic Debate PowerPoint Presentation NR552
+title: (Free Answer) Healthcare Topic Debate PowerPoint Presentation NR552
 description: "NR 552 Week 6 Assignment: Healthcare Topic Debate PowerPoint Presentation Category: NR 552 Economics of Healthcare Policy NR 552 Week 6 Assignment Free Markets:\_Promoting Quality and Innovation in Medicine Purpose:"
 date: 2024-08-26T21:00:00.000Z
 ---
@@ -18,7 +18,7 @@ The purpose of this assignment is to: a) investigate healthcare economic policy 
 
 Due Date: Submit at the end of Week 6.
 
-##### Requirements:
+### Requirements:
 
 This assignment will be a PowerPoint presentation to debate healthcare policy related to topics affecting nursing. All debate topics and sides of the policy must be represented. It is important for nurses to have knowledge of all sides of issues affecting nursing and patient outcomes so it is not important which side you receive. During Week 7, you will be able to review both sides and make a decision on where you actually stand on the issue.
 
@@ -39,7 +39,7 @@ Hendrich, A., Chow, M. P., & Goshert, W. S. (2009). A proclamation for change
 transforming the hospital patient care environment. The Journal of Nursing
 Administration (JONA), 39(6), 266-275.
 
-Debate Topic #3: (side A) increased registered nurse staffing versus (side B) maintain current staffing and utilize methods to increase efficiency
+### Debate Topic #3: (side A) increased registered nurse staffing versus (side B) maintain current staffing and utilize methods to increase efficiency
 
 1. Investigate the policy related to the debate topic.
 2. Provide an overview of the topic and policy related to the topic.
@@ -51,7 +51,7 @@ Debate Topic #3: (side A) increased registered nurse staffing versus (side B) ma
 8. Grammar, spelling, punctuation, references, and citations are consistent with formal academic writing and APA format as expressed in the 6th edition
 9. Include a minimum of three scholarly resources published within the past 5 years not including your textbook and assigned reading articles. References may include scholarly websites of organizations or government agencies and must be presented using APA format for electronic media.
 
-### SOLUTION: 
+### SOLUTION:
 
 ### NR 552 Week 6 Assignment: Healthcare Topic Debate PowerPoint Presentation
 

@@ -1,10 +1,10 @@
 ---
-title: 'Week 4 Assignment FTE-Variance Assignment NR 630 '
+title: '(Free Solution) Week 4 Assignment FTE-Variance Assignment NR 630 '
 description: NR 630 Week 4 Assignment FTE-Variance Assignment
 date: 2024-08-30T21:00:00.000Z
 ---
 
-## NR 630 Week 4 Assignment: FTE/Variance Assignment
+## (Free Solution) NR 630 Week 4 Assignment: FTE/Variance Assignment
 
 ### Introduction
 

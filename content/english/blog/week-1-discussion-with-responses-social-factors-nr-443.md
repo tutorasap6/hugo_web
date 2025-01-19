@@ -1,12 +1,12 @@
 ---
-title: Week 1 Discussion with Responses Social Factors NR 443
+title: (Free Solution) Week 1 Discussion with Responses Social Factors NR 443
 description: >-
   NR 443 RN Community Health Nursing: Week 1 Discussion with Responses: Social
   Factors
 date: 2024-08-30T21:00:00.000Z
 ---
 
-## NR 443 RN Community Health Nursing: Week 1 Discussion with Responses: Social Factors
+## (Free Solution) NR 443 RN Community Health Nursing: Week 1 Discussion with Responses: Social Factors
 
 ### Introduction
 

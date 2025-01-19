@@ -1,10 +1,12 @@
 ---
-title: Week 1 Determinants of Health  What Makes Some Healthy and Others Ill
+title: >-
+  (Free Solution) Week 1 Determinants of Health  What Makes Some Healthy and
+  Others Ill
 description: 'Week 1: Determinants of Health - What Makes Some Healthy and Others Ill?'
 date: 2024-08-31T21:00:00.000Z
 ---
 
-### Week 1: Determinants of Health - What Makes Some Healthy and Others Ill?
+### (Free Solution) Week 1: Determinants of Health - What Makes Some Healthy and Others Ill?
 
 Healthy People 2020 identifies five key determinants of health that significantly influence the health outcomes of individuals and populations. These determinants encompass a wide range of personal, social, economic, and environmental factors. According to the U.S. Department of Health and Human Services (2014), these factors, collectively referred to as determinants of health, are crucial in shaping health status and fall into five broad categories:
 
@@ -53,6 +55,6 @@ Social factors are a fundamental determinant of health, influencing a wide range
 
 ### References
 
-1. U.S. Department of Health and Human Services. (2014). Healthy People 2020: About Determinants of Health. Retrieved from http\://www\.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health
+1. U.S. Department of Health and Human Services. (2014). Healthy People 2020: About Determinants of Health. Retrieved from [http://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health](http://www.healthypeople.gov/2020/about/foundation-health-measures/Determinants-of-Health)
 2. World Health Organization. (2019). Social determinants of health. Retrieved from [https://www.who.int/social\_determinants/en/](https://www.who.int/social_determinants/en/)
 3. Robert Wood Johnson Foundation. (2011). Education Matters for Health. Retrieved from [https://www.rwjf.org/en/library/research/2011/05/education-matters-for-health.html](https://www.rwjf.org/en/library/research/2011/05/education-matters-for-health.html)

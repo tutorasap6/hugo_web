@@ -1,14 +1,14 @@
 ---
 title: >-
-  Week 4 Assignment Check-In Direct Care Project Part 2 Planning the
-  Presentation NR 443
+  (Free Solution) Week 4 Assignment Check-In Direct Care Project Part 2 Planning
+  the Presentation NR 443
 description: >-
   NR 443 RN Community Health Nursing: Week 4 Assignment: Check-In: Direct Care
   Project Part 2: Planning the Presentation
 date: 2024-08-30T21:00:00.000Z
 ---
 
-## NR 443 RN Community Health Nursing: Week 4 Assignment: Check-In: Direct Care Project Part 2: Planning the Presentation
+## (Free Solution) NR 443 RN Community Health Nursing: Week 4 Assignment: Check-In: Direct Care Project Part 2: Planning the Presentation
 
 ### Introduction
 

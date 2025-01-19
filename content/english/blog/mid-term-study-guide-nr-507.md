@@ -1,12 +1,12 @@
 ---
-title: Mid Term Study Guide NR 507
+title: (Free Answer) Mid Term Study Guide NR 507
 description: Mid Term Study Guide NR 507
 date: 2024-08-26T21:00:00.000Z
 ---
 
-### Mid Term Study Guide NR 507
+## Mid Term Study Guide NR 507
 
-Mid Term Study Guide NR 507
+### Mid Term Study Guide NR 507
 
 ***
 

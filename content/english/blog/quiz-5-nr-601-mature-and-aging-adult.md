@@ -1,10 +1,13 @@
 ---
-title: Quiz 5 NR 601 MATURE AND AGING ADULT
+title: (Free Solution) Quiz 5 NR 601 MATURE AND AGING ADULT
 description: Quiz 5 NR 601 MATURE AND AGING ADULT
 date: 2024-08-28T21:00:00.000Z
 ---
 
-Quiz 5 NR 601 MATURE AND AGING ADULT
+**(Free Solution) Quiz 5 NR 601 MATURE AND AGING ADULT
+**
+--
+
 Score for this quiz: 6 out of 10
 Submitted Feb 4 at 9:52am
 This attempt took 7 minutes.

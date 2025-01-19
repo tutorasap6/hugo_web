@@ -1,12 +1,12 @@
 ---
-title: NR NR 507 Week 2 Quiz 2
+title: (Free answer)  NR NR 507 Week 2 Quiz 2
 description: >-
   NR 507 Week 2 Quiz 2 (Evolve Chapter 3 Review Questions McCance
   Pathophysiology, 7th edition).docx
 date: 2024-08-26T21:00:00.000Z
 ---
 
-Chapter 3 Review Questions:
+## Chapter 3 Review Questions:
 
 1. When considering water balance, which statement is correct?
    (Answer: Provide the correct statement about water balance.)

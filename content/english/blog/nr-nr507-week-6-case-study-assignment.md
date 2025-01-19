@@ -1,10 +1,10 @@
 ---
-title: NR NR507 Week 6 Case Study Assignment
+title: (Free Answers) NR NR507 Week 6 Case Study Assignment
 description: NR NR507 Week 6 Case Study Assignment
 date: 2024-08-26T21:00:00.000Z
 ---
 
-### NR 507 Week 6 Case Study Assignment
+### (Free Answers) NR 507 Week 6 Case Study Assignment
 
 NR 507 Advanced Pathophysiology
 

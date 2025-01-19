@@ -1,5 +1,5 @@
 ---
-title: Week 2 COPD Case Study Part 1
+title: (Free Solution) Week 2 COPD Case Study Part 1
 description: >-
   Week 2: COPD Case Study Part 1 Week 2: COPD Case Study Part 1 (Initial post
   due Tuesday, faculty and peer responses due Sunday) PurposeProblem-based
@@ -10,7 +10,7 @@ description: >-
 date: 2024-08-28T21:00:00.000Z
 ---
 
-## Week 2: COPD Case Study Part 1
+## (Free Solution) Week 2: COPD Case Study Part 1
 
 ### Week 2: COPD Case Study Part 1 (Initial post due Tuesday, faculty and peer responses due Sunday)
 

@@ -1,14 +1,14 @@
 ---
-title: 'Week 6 Assignment APN Professional Development Plan NR 510 '
+title: '(Free Solution) Week 6 Assignment APN Professional Development Plan NR 510 '
 description: 'NR 510 Week 6 Assignment: APN Professional Development Plan'
 date: 2024-08-26T21:00:00.000Z
 ---
 
-# NR 510 Week 6 Assignment: APN Professional Development Plan
+# **(Free Solution) NR 510 Week 6 Assignment: APN Professional Development Plan**
 
 ###### NR 510 Week 6
 
-Requirements:
+### Requirements:
 
 1. To complete this application, you will need to access to the following databases: CINAHL, MEDLINE, Cochrane Library, and the Joanna Briggs Institute. You may access these databases through the Chamberlain College of Nursing Online Library.
 2. The APN Professional Development Plan paperis worth 225 points and will be graded on quality of information, use of citations, use of Standard English grammar, sentence structure, and overall organization based on the required components as summarized in the directions and grading criteria/rubric.
@@ -26,13 +26,13 @@ Requirements:
 
 Preparing the paper
 
-The following are best practices for preparing this paper:
+### The following are best practices for preparing this paper:
 
 1. Review Chapter 30- Role Transition: Strategies for Success in the Marketplace in DeNisco and Barker (2015).
 2. Nurse practitioners need to take into account the state rules and regulations that guide advanced practice. Research and review the Nurse Practice Act and APN scope of practice guidelines in your particular state. Identify information regarding educational requirements, licensure and regulatory requirements, as well as practice environment details. Review information regarding full, limited, or restricted practice limitations as well as prescriptive authority (This is similar to what you created in your week 1 Kaltura presentation).
 3. Review Guidelines for APN Role Transition Using Benner’s Self-Assessment Tool(Links to an external site.).Identify and discuss your position on Benner’s Novice toExpert ladder. Prior to engaging in pursuit for employment, APNs should complete a comprehensive, honest, personal assessment to identify their strengths and weaknesses aswell as their goals and objectives. Research assessment tools, conduct a personal…..
 
-Paper Headings in the Paper:
+### Paper Headings in the Paper:
 
 * APN Scope of Practice
 * Personal Assessment

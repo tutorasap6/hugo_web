@@ -1,10 +1,10 @@
 ---
-title: Solution for COPD Case Study Part 2
+title: (Free answer) Solution for COPD Case Study Part 2
 description: Solution for COPD Case Study Part 2
 date: 2024-08-29T21:00:00.000Z
 ---
 
-### Solution for COPD Case Study Part 2
+### (Free answer) Solution for COPD Case Study Part 2
 
 ### Patient Summary:
 

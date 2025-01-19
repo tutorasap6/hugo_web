@@ -1,12 +1,14 @@
 ---
-title: Week 6 Check-In Direct Care Project Part 3 Presentation Delivery
+title: >-
+  (Free Solution) Week 6 Check-In Direct Care Project Part 3 Presentation
+  Delivery
 description: >-
   NR 443 RN Community Health Nursing: Week 6: Check-In: Direct Care Project Part
   3: Presentation Delivery
 date: 2024-08-30T21:00:00.000Z
 ---
 
-## NR 443 RN Community Health Nursing: Week 6: Check-In: Direct Care Project Part 3: Presentation Delivery
+## (Free Solution) NR 443 RN Community Health Nursing: Week 6: Check-In: Direct Care Project Part 3: Presentation Delivery
 
 ### Introduction
 

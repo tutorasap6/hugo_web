@@ -1,10 +1,10 @@
 ---
-title: NR NR601 Final Exam Study Guide
+title: (Free Solution) NR NR601 Final Exam Study Guide
 description: NR NR601 Final Exam Study Guide
 date: 2024-08-28T21:00:00.000Z
 ---
 
-NR 601 Final Exam Review: Weeks 5-8 Content
+## (Free Solution) **NR 601 Final Exam Review: Weeks 5-8 Content**
 
 ***
 
@@ -22,16 +22,18 @@ NR 601 Final Exam Review: Weeks 5-8 Content
   * Symptomatic patients with one positive test are diagnosed with DM2; asymptomatic patients require two positive tests.
   * HbA1c ≥ 6.5% indicates DM2.
 * Screening Recommendations: For anyone overweight with additional risk factors; begins at 45 years old and repeated every 3 years.
-* Initial Treatment for Type 2:
-  * Lifestyle modifications (weight loss, exercise) are first-line therapy.
-  * If non-pharmacologic treatment fails after 3-6 months or if FBG is 200-300 mg/dL, add Metformin. Dual pharmacotherapy is not recommended unless HbA1c ≥ 9%.
-  * Metformin (Glucophage): Decreases hepatic glucose production, intestinal glucose absorption, and increases insulin sensitivity. Initial dosing is 500 mg daily, then BID.
-  * Sulfonylureas: Increase pancreatic insulin secretion, lowering HbA1c by 1.25%.
-  * Meglitinides: Increase insulin release from the pancreas, reducing HbA1c by about 1%.
-  * Thiazolidinediones (TZDs): Increase insulin sensitivity, reduce A1c by 1-1.5%, but contraindicated in patients with HF, bladder cancer, osteoporosis, or liver disease.
-  * Dipeptidyl Peptidase-4 (DPP-4) Inhibitors: Increase bioavailability of GLP1, used once daily.
-  * Alpha-Glucosidase Inhibitors: Delay glucose absorption, lower serum triglycerides, and reduce A1c by 0.8%.
-  * Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors: Block glucose reabsorption in the renal tubule, increase urinary glucose excretion, reduce A1c by 0.5-1%.
+
+### Initial Treatment for Type 2:
+
+* Lifestyle modifications (weight loss, exercise) are first-line therapy.
+* If non-pharmacologic treatment fails after 3-6 months or if FBG is 200-300 mg/dL, add Metformin. Dual pharmacotherapy is not recommended unless HbA1c ≥ 9%.
+* Metformin (Glucophage): Decreases hepatic glucose production, intestinal glucose absorption, and increases insulin sensitivity. Initial dosing is 500 mg daily, then BID.
+* Sulfonylureas: Increase pancreatic insulin secretion, lowering HbA1c by 1.25%.
+* Meglitinides: Increase insulin release from the pancreas, reducing HbA1c by about 1%.
+* Thiazolidinediones (TZDs): Increase insulin sensitivity, reduce A1c by 1-1.5%, but contraindicated in patients with HF, bladder cancer, osteoporosis, or liver disease.
+* Dipeptidyl Peptidase-4 (DPP-4) Inhibitors: Increase bioavailability of GLP1, used once daily.
+* Alpha-Glucosidase Inhibitors: Delay glucose absorption, lower serum triglycerides, and reduce A1c by 0.8%.
+* Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors: Block glucose reabsorption in the renal tubule, increase urinary glucose excretion, reduce A1c by 0.5-1%.
 * Initial Treatment for Type 1 and DKA: Always insulin, with differences based on onset and duration of action.
 * Treatment Goals for Older Adults: Consider health beliefs, life expectancy, functional status, economic situation, and support services.
 * Response to Treatment: Based on home BG monitoring and HbA1c, with follow-up visits including BP, BMI, foot exams, annual eye exams, and various lab tests.
@@ -39,7 +41,7 @@ NR 601 Final Exam Review: Weeks 5-8 Content
 * Risk Factors for Developing DM2: Age ≥ 45, family history, race, hyperlipidemia, history of GDM, PCOS, obesity, smoking, HTN, and more.
 * Risk Factors in the Elderly: Increased abdominal fat, decreased physical activity, sarcopenia, mitochondrial dysfunction, and hormonal changes.
 
-#### Complications of DM
+### Complications of DM
 
 * Macrovascular: CAD, stroke, PVD.
 * HbA1c > 13%, Fasting BG > 300 mg/dL: Can lead to altered behavior, seizures, coma.

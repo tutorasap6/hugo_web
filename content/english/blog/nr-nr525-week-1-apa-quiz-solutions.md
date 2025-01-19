@@ -1,10 +1,10 @@
 ---
-title: NR NR525 Week 1 APA Quiz Solutions
+title: (Free Answer) NR NR525 Week 1 APA Quiz Solutions
 description: NR NR525 Week 1 APA Quiz Solutions
 date: 2024-08-26T21:00:00.000Z
 ---
 
-### NR 525 Week 1 APA Quiz Solutions
+### (Free Answer) NR 525 Week 1 APA Quiz Solutions
 
 Category: NR 525 Theoretical Foundations and Instructional Strategies in Teaching and Learning
 
@@ -77,7 +77,7 @@ Answer: A DOI should be included in the reference if available, as it provides a
 
 Example:
 
-https\://doi.org/10.1234/abc123
+[https://doi.org/10.1234/abc123](https://doi.org/10.1234/abc123)
 
 ***
 
@@ -115,7 +115,7 @@ Page Numbers: 110-121
 
 Answer: The correct APA reference without a DOI would be:
 
-Fugate, J. E., & Rabinstein, A. A. (2015). Absolute and relative contraindications to IV rt-PA for acute ischemic stroke. The Neurohospitalist, 5(2), 110-121. https\://doi.org/10.xxxxxx (if a URL is available, include it; if not, omit this part).
+Fugate, J. E., & Rabinstein, A. A. (2015). Absolute and relative contraindications to IV rt-PA for acute ischemic stroke. The Neurohospitalist, 5(2), 110-121. [https://doi.org/10.xxxxxx](https://doi.org/10.xxxxxx) (if a URL is available, include it; if not, omit this part).
 
 ***
 

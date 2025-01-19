@@ -1,5 +1,7 @@
 ---
-title: 'Week 4 Assignment Healthcare Insurance Comparison Paper NR 552 '
+title: >-
+  (Free Solution) Week 4 Assignment Healthcare Insurance Comparison Paper NR
+  552 
 description: NR 552 Week 4 Assignment Healthcare Insurance Comparison Paper
 date: 2024-08-26T21:00:00.000Z
 ---

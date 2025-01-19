@@ -1,10 +1,10 @@
 ---
-title: 'Student Hourly Activities Log Week 1 to 7 Week 8 NR 630 '
+title: '(Free Solution) Student Hourly Activities Log Week 1 to 7 Week 8 NR 630 '
 description: 'Student Hourly Activities Log Week 1 to 7 Week 8 NR 630 '
 date: 2024-08-30T21:00:00.000Z
 ---
 
-### NR 630 Student Hourly Activities Log Week 1-7, Week 8
+### (Free Solution) NR 630 Student Hourly Activities Log Week 1-7, Week 8
 
 Category: NR 630 Executive Practicum
 

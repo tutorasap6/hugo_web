@@ -1,8 +1,10 @@
 ---
-title: NURS FPX4900 Odom Jonell Assessment2 1
+title: (Free Solution) NURS FPX4900 Odom Jonell Assessment2 1
 description: NURS FPX4900 Odom Jonell Assessment2 1
 date: 2024-08-28T21:00:00.000Z
 ---
+
+### (Free Solution) NURS FPX4900 Odom Jonell Assessment2 1
 
 ### Hypertension and Its Impact on Healthcare
 
@@ -54,7 +56,7 @@ Campbell, D., & Dontje, K. (2019). Implementing Bedside Handoff in the Emergency
 
 Centers for Disease Control (CDC). (2020). Facts About Hypertension. Retrieved from [https://www.cdc.gov/bloodpressure/facts.htm](https://www.cdc.gov/bloodpressure/facts.htm)
 
-Drevenhorn, E. (2018). A Proposed Middle-Range Theory of Nursing in Hypertension Care. International Journal of Hypertension, (11). doi: http\://dx.doi.org.library.capella.edu/10.1155/2018/2858253
+Drevenhorn, E. (2018). A Proposed Middle-Range Theory of Nursing in Hypertension Care. International Journal of Hypertension, (11). doi: [http://dx.doi.org.library.capella.edu/10.1155/2018/2858253](http://dx.doi.org.library.capella.edu/10.1155/2018/2858253)
 
 Jolles, E., Clark, A., & Braam, B. (2012, August). Getting the message across: Opportunities and obstacles in effective communication in hypertension care. Retrieved January 17, 2021, from [https://www.ncbi.nlm.nih.gov/pubmed/22635137/](https://www.ncbi.nlm.nih.gov/pubmed/22635137/)
 

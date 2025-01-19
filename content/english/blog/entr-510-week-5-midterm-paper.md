@@ -1,5 +1,5 @@
 ---
-title: ENTR 510 Week 5 Midterm Paper
+title: (Free Answer) ENTR 510 Week 5 Midterm Paper
 description: >-
   ENTR 510 Week 5 Midterm Paper ENTR 510 Week 5 Midterm Paper Introduction In
   fulfillment of the challenge posed in the midterm for ENTR 510, this paper

@@ -1,10 +1,12 @@
 ---
-title: ATI Advanced MED SURG Proctored 2023 WITH Glasgow COMA Scale REAL EXAM
+title: >-
+  (Free Answers) ATI Advanced MED SURG Proctored 2023 WITH Glasgow COMA Scale
+  REAL EXAM
 description: ATI Advanced MED SURG Proctored 2023 WITH Glasgow COMA Scale REAL EXAM
 date: 2024-09-04T21:00:00.000Z
 ---
 
-ATI Advanced MED SURG Proctored 2023 WITH Glasgow COMA Scale REAL EXAM
+## (Free Answers) ATI Advanced MED SURG Proctored 2023 WITH Glasgow COMA Scale REAL EXAM
 
 Escharotomy - Surgical procedure to
 remove dead tissue from burns, allowing for better healing and preventing

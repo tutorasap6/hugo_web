@@ -1,10 +1,10 @@
 ---
-title: 'Week 7 Learning Agreement in the MSN Program NR 630 '
+title: '(Free Solution) Week 7 Learning Agreement in the MSN Program NR 630 '
 description: 'Week 7 Learning Agreement in the MSN Program NR 630 '
 date: 2024-08-30T21:00:00.000Z
 ---
 
-NR 630 Learning Agreement - Weeks 1, 4, and 7
+## (Free Solution) NR 630 Learning Agreement - Weeks 1, 4, and 7
 
 Course: NR 630 Executive Practicum
 Category: Learning Agreement

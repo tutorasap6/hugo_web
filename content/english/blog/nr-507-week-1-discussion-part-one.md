@@ -1,10 +1,10 @@
 ---
-title: NR 507 Week 1 Discussion Part One
+title: (Free Answer) NR 507 Week 1 Discussion Part One
 description: NR 507 Week 1 Discussion Part One
 date: 2024-08-26T21:00:00.000Z
 ---
 
-explanations for John’s symptoms:
+## **Explanations for John’s symptoms:**
 
 ### 1. Allergic Rhinitis (Most Likely)
 

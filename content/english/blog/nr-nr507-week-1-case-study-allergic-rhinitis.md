@@ -1,5 +1,5 @@
 ---
-title: NR NR507 Week 1 Case Study Allergic Rhinitis
+title: (Free answer) NR NR507 Week 1 Case Study Allergic Rhinitis
 description: >-
   NR 507 Week 1 Case Study Allergic Rhinitis NR 507 Week 1 Case Study: Allergic
   Rhinitis Case Study Scenario A 35-year-old woman presents to the primary care
@@ -16,11 +16,11 @@ date: 2024-08-26T21:00:00.000Z
 
 ### NR 507 Week 1 Case Study: Allergic Rhinitis
 
-Case Study Scenario
+### Case Study Scenario
 
 A 35-year-old woman presents to the primary care office with a history of nasal congestion that has worsened over time, along with recurrent sinus infections. She considered herself healthy until about 12 months ago when she began experiencing persistent rhinorrhea, sneezing, and nasal stuffiness that "seems to never go away." She noticed that her symptoms significantly improved when she attended her family reunion on a two-week Caribbean cruise, but the symptoms returned a few days after she got back home. The patient lives with her husband and 5-year-old child. They have two household pets: a dog that has lived with them for the last four years and a cat that joined the family one year ago. Upon examination, the nurse practitioner observed eyelid redness and swelling, conjunctival swelling and erythema, allergic shiners (lower lid venous swelling), an allergic crease (lateral crease on the nose), and inflamed nares.
 
-Case Study Questions
+### Case Study Questions
 
 Pathophysiology & Clinical Findings of the Disease
 
@@ -37,7 +37,7 @@ Pathophysiology & Clinical Findings of the Disease
    * Conjunctival swelling and erythema
    * Allergic shiners and inflamed nares
 
-Management of the Disease
+### Management of the Disease
 
 1. Identify two strongly recommended medication classes for the treatment of the condition and provide an example (drug name) for each.
    * Intranasal corticosteroids: Example - Fluticasone propionate (Flonase).
@@ -49,14 +49,6 @@ Management of the Disease
    * Decongestant nasal sprays for long-term use: Medications like oxymetazoline (Afrin) are not recommended for prolonged use due to the risk of rebound congestion (rhinitis medicamentosa).
    * Oral corticosteroids for mild allergic rhinitis: Systemic corticosteroids are generally not recommended for treating mild allergic rhinitis due to the potential for significant side effects and complications with long-term use.
 
-Conclusion
+### Conclusion
 
 Allergic rhinitis is a common condition characterized by an IgE-mediated hypersensitivity reaction to environmental allergens. Accurate diagnosis and appropriate management, including the use of intranasal corticosteroids and oral antihistamines, can significantly improve the quality of life for affected individuals. Avoiding ineffective or potentially harmful treatments, such as long-term use of nasal decongestants and systemic corticosteroids for mild cases, is also crucial in the management of allergic rhinitis.
-
-References:
-
-1. National Institute for Health and Care Excellence (NICE). (2020). Allergic rhinitis: Management. Retrieved from [https://www.nice.org.uk/guidance/ng87/chapter/Recommendations](https://www.nice.org.uk/guidance/ng87/chapter/Recommendations)
-
-<!---->
-
-1. American Academy of Allergy, Asthma & Immunology (AAAAI). (2019). Treatment of allergic rhinitis. Retrieved from [https://www.aaaai.org/conditions-and-treatments/library/allergy-library/treatment-of-allergic-rhinitis](https://www.aaaai.org/conditions-and-treatments/library/allergy-library/treatment-of-allergic-rhinitis)

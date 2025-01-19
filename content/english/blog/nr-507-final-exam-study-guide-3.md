@@ -1,5 +1,5 @@
 ---
-title: NR 507 Final Exam Study Guide 3
+title: (Free) NR 507 Final Exam Study Guide 3
 description: NR 507 Final Exam Study Guide 2
 date: 2024-08-26T21:00:00.000Z
 ---

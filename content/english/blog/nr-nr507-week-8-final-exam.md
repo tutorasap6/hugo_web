@@ -1,10 +1,10 @@
 ---
-title: NR NR507 Week 8 Final Exam
+title: (Free Answers) NR NR507 Week 8 Final Exam
 description: NR NR507 Week 8 Final Exam
 date: 2024-08-26T21:00:00.000Z
 ---
 
-NR NR507 Week 8 Final Exam
+## **(Free Answers) NR NR507 Week 8 Final Exam**
 
 Question: What term describes a condition where a series of alveoli in the left lower lobe receive adequate ventilation but have inadequate perfusion?
 

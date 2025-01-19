@@ -1,5 +1,5 @@
 ---
-title: 525 Week 1 Personal Philosophy of Teaching and Learning
+title: (Free Answer) 525 Week 1 Personal Philosophy of Teaching and Learning
 description: 'NR 525 Week 1: Personal Philosophy of Teaching and Learning'
 date: 2024-08-26T21:00:00.000Z
 ---

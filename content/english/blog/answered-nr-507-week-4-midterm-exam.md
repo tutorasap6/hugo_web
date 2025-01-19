@@ -1,5 +1,5 @@
 ---
-title: Answered NR 507 Week 4 Midterm Exam
+title: (Free answer) Answered NR 507 Week 4 Midterm Exam
 description: NR NR 507 Week 4 Midterm Exam
 date: 2024-08-26T21:00:00.000Z
 ---

@@ -1,5 +1,5 @@
 ---
-title: ENTR 510 Week 8 Final Assignment
+title: (Free Answer) ENTR 510 Week 8 Final Assignment
 description: ENTR 510 Week 8 Final Assignment
 date: 2024-08-26T21:00:00.000Z
 ---

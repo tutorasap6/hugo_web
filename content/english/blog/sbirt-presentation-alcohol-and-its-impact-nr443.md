@@ -1,12 +1,12 @@
 ---
-title: SBIRT Presentation Alcohol and Its Impact NR443
+title: (Free Solution) SBIRT Presentation Alcohol and Its Impact NR443
 description: SBIRT Presentation Alcohol and Its Impact NR443
 date: 2024-08-30T21:00:00.000Z
 ---
 
 ### SBIRT Presentation: Alcohol and Its Impact
 
-#### Introduction
+### Introduction
 
 I have decided to do my topic on Alcohol. Alcoholism is a major problem, with over "3 million cases a year" (Unknown, 2018). This affects many families. In Medina County in 2017, the needs assessment indicated that "71% of Medina County adults had at least one alcoholic drink in the past month. Fifteen percent (15%) of adults drove a vehicle or other equipment after consuming any alcoholic beverages" (Joseph A. Dake, 2017).
 
@@ -34,13 +34,13 @@ Furthermore, the implementation of SBIRT in primary care settings has proven eff
 
 Alcoholism remains a significant public health issue with widespread implications for individuals, families, and communities. By utilizing interventions like SBIRT, healthcare providers can effectively identify and address alcohol misuse, thereby reducing the incidence of alcohol-related harm. The data from Medina County reflects broader national trends, emphasizing the need for continued research, prevention efforts, and policy initiatives to combat the pervasive effects of alcohol addiction.
 
-### References 
+### References
 
 1. World Health Organization. (2018). Global status report on alcohol and health 2018. Retrieved from [https://www.who.int/publications/i/item/9789241565639](https://www.who.int/publications/i/item/9789241565639)
 2. Centers for Disease Control and Prevention (CDC). (2020). Alcohol and public health: Alcohol-related disease impact (ARDI). Retrieved from [https://www.cdc.gov/alcohol/onlinedatasets.htm](https://www.cdc.gov/alcohol/onlinedatasets.htm)
 3. American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). Arlington, VA: American Psychiatric Publishing.
-4. Ohio State Highway Patrol. (2017). OVI Statistics. Retrieved from http\://statepatrol.ohio.gov/statistics.stm
-5. National Highway Traffic Safety Administration (NHTSA). (2018). The economic and societal impact of motor vehicle crashes, 2010 (Revised). Retrieved from https\://www\.nhtsa.gov/sites/nhtsa.dot.gov/files/812013-010315-v2a.pdf
-6. Substance Abuse and Mental Health Services Administration (SAMHSA). (2019). Screening, brief intervention, and referral to treatment (SBIRT). Retrieved from https\://www\.samhsa.gov/sbirt
+4. Ohio State Highway Patrol. (2017). OVI Statistics. Retrieved from [http://statepatrol.ohio.gov/statistics.stm](http://statepatrol.ohio.gov/statistics.stm)
+5. National Highway Traffic Safety Administration (NHTSA). (2018). The economic and societal impact of motor vehicle crashes, 2010 (Revised). Retrieved from [https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/812013-010315-v2a.pdf](https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/812013-010315-v2a.pdf)
+6. Substance Abuse and Mental Health Services Administration (SAMHSA). (2019). Screening, brief intervention, and referral to treatment (SBIRT). Retrieved from [https://www.samhsa.gov/sbirt](https://www.samhsa.gov/sbirt)
 7. National Institute on Alcohol Abuse and Alcoholism (NIAAA). (2020). Alcohol facts and statistics. Retrieved from [https://www.niaaa.nih.gov/alcohol-facts-and-statistics](https://www.niaaa.nih.gov/alcohol-facts-and-statistics)
-8. Babor, T. F., Del Boca, F. K., & Bray, J. W. (2017). Screening, Brief Intervention and Referral to Treatment: Implications of SAMHSA's SBIRT initiative for substance abuse policy and practice. Journal of Substance Abuse Treatment, 92, 7-13. https\://doi.org/10.1016/j.jsat.2017.12.002
+8. Babor, T. F., Del Boca, F. K., & Bray, J. W. (2017). Screening, Brief Intervention and Referral to Treatment: Implications of SAMHSA's SBIRT initiative for substance abuse policy and practice. Journal of Substance Abuse Treatment, 92, 7-13. [https://doi.org/10.1016/j.jsat.2017.12.002](https://doi.org/10.1016/j.jsat.2017.12.002)

@@ -1,5 +1,5 @@
 ---
-title: NR NR507 Week 5 Discussion Case Study Diverticulitis Disease
+title: (Free Answers) NR NR507 Week 5 Discussion Case Study Diverticulitis Disease
 description: 'NR 507 Week 5 Discussion: Case Study – Diverticulitis Disease'
 date: 2024-08-26T21:00:00.000Z
 ---

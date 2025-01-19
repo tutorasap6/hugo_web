@@ -4,7 +4,7 @@ description: 'ATI RN Med Surg Proctored Exam 2024 '
 date: 2024-09-04T21:00:00.000Z
 ---
 
-# ATI RN Med-Surg Proctored Exam 2023 and 2024
+# (Free Answers) ATI RN Med-Surg Proctored Exam 2023 and 2024
 
 ***
 

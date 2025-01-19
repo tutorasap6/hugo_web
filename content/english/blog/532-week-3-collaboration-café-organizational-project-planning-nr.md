@@ -1,5 +1,7 @@
 ---
-title: '532 Week 3 Collaboration Café: Organizational Project Planning NR'
+title: >-
+  (Free Answer) 532 Week 3 Collaboration Café: Organizational Project Planning
+  NR
 description: 'NR 532 Week 3 Collaboration Café: Organizational Project Planning'
 date: 2024-08-26T21:00:00.000Z
 ---

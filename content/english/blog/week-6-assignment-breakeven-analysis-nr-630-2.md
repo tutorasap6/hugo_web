@@ -1,10 +1,10 @@
 ---
-title: 'Week 6 Assignment Breakeven Analysis NR 630 '
+title: '(Free Solution) Week 6 Assignment Breakeven Analysis NR 630 '
 description: 'NR 630 Week 6 Assignment: Breakeven Analysis'
 date: 2024-08-30T21:00:00.000Z
 ---
 
-### NR 630 Week 6 Assignment: Breakeven Analysis
+### (Free Solution) NR 630 Week 6 Assignment: Breakeven Analysis
 
 Category: NR 630 Executive Practicum
 

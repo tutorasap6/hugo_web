@@ -1,15 +1,19 @@
 ---
-title: Nr nr507 wk 2 quiz 2 study guide 2
+title: (Free Answer) Nr nr507 wk 2 quiz 2 study guide 2
 description: nr507 wk 2 quiz 2 study guide 2
 date: 2024-08-26T21:00:00.000Z
 ---
 
-Fluid and Electrolyte Balance
+## (Free Answer) nr507 wk 2 quiz 2 study guide 2
+
+### Fluid and Electrolyte Balance
 
 Normal Balance and Movement of Water and Solutes
 The balance and movement of water and solutes between the intracellular fluid (ICF) and extracellular fluid (ECF) compartments are crucial for maintaining isovolemia, which refers to a state where the volume of body fluids is stable and properly regulated. The regulation of water balance involves several systems, including the hypothalamic, pituitary, adrenal cortical, renal, cardiac, and gastrointestinal systems, as well as insensible water loss (e.g., through the skin and respiratory tract).
 
-Abnormal Cellular Changes
+### Abnormal Cellular Changes
+
+
 Changes in solute levels between the ICF and ECF can disrupt this balance. For example, hypovolemia occurs when the ECF has a lower osmolality compared to the ICF. This imbalance causes water to move into the cells, leading to cellular swelling and a decrease in plasma volume.
 
 Immune Structure and Function – Body Fluid Compartments
@@ -30,5 +34,7 @@ Electrolytes help maintain isotonic, hypertonic, and hypotonic states within the
 * CO2 (Bicarbonate): 22-26 mEq/L
 * Magnesium: 1.5-2.5 mg/dL
 
-Dehydration and Fluid Loss
+### Dehydration and Fluid Loss
+
+
 Dehydration occurs when there is an excessive loss of water and electrolytes, often exacerbated by the excretion of ketone bodies. This condition can be particularly dangerous in infants, where fluid loss from diarrhea can represent a significant proportion of their body weight. Because renal mechanisms that regulate fluid and electrolyte balance may not be fully developed in infants, they are at a higher risk of rapid dehydration.

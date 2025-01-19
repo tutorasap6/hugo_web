@@ -6,7 +6,7 @@ date: 2024-08-26T21:00:00.000Z
 
 ### NR 552 Week 4 Assignment: Healthcare Insurance Comparison Paper
 
-Category: NR 552 Economics of Healthcare Policy
+### Category: NR 552 Economics of Healthcare Policy
 
 ###### NR 552 Week 4 Assignment
 
@@ -18,11 +18,8 @@ Purpose: The purpose of this assignment is to:
 2. examine the patient population served by each insurance plan,
 3. investigate the impact of each payment plan on access to care, access to services or procedures, and patient outcomes,
 4. evaluate both insurance payment plans for economic, social, or ethical issues,
-5.
 
-Due Date: Submit at the end of Week 4.
-
-Requirements:
+### Requirements:
 
 1. Choose a level of care (primary, secondary, tertiary) to investigate payment models.
 2. … government provided insurance plan to investigate (Medicare, Medicaid).
@@ -37,7 +34,7 @@ Requirements:
 11. Grammar, spelling, punctuation, references, and citations are consistent with formal academic writing and APA format as expressed in the 6th edition
 12. Include a minimum of three scholarly resources published within the past 5 years not including your textbook. References may include scholarly websites of organizations or government agencies and must be presented using APA format for electronic media.
 
-## SOLUTION: NR 552 Week 4 Assignment: Healthcare Insurance Comparison Paper
+### SOLUTION: NR 552 Week 4 Assignment: Healthcare Insurance Comparison Paper
 
 Introduction
 
@@ -89,19 +86,14 @@ Economic Issues
 
 Medicare’s fixed payment rates may result in financial strain for hospitals, especially those in low-income areas, potentially leading to service cutbacks or closures. On the other hand, UnitedHealthcare’s FFS model could lead to increased healthcare costs due to the potential for overutilization of services.
 
-Social Issues
+### Social Issues
 
 The population served by Medicare is generally older and more vulnerable, raising concerns about equitable access to care, particularly in resource-limited settings. UnitedHealthcare's model may create disparities in access due to network restrictions and varying levels of coverage, impacting lower-income populations disproportionately.
 
-Ethical Issues
+### Ethical Issues
 
 The ethical implications of Medicare’s cost-containment strategies may include the potential for reduced quality of care, particularly in underserved areas. UnitedHealthcare’s emphasis on value-based care raises ethical questions about the balance between cost savings and the quality of patient care, particularly in complex cases where outcomes are difficult to measure.
 
 ### Conclusion
 
 Comparing Medicare and UnitedHealthcare at the tertiary level of care reveals distinct differences in their payment models, patient populations, and impacts on access to care, services, and outcomes. While Medicare offers broad coverage with a focus on cost efficiency, it may face challenges in maintaining quality and access in certain settings. UnitedHealthcare’s fee-for-service model, enhanced by value-based care initiatives, provides greater flexibility but may lead to increased costs and access disparities. Both plans present economic, social, and ethical challenges that require careful consideration in the ongoing efforts to improve healthcare delivery in the United States.
-
-References
-
-* Centers for Medicare & Medicaid Services. (2023). Medicare program overview. https\://www\.cms.gov/Medicare/Medicare-General-Information/MedicareGenInfo/index.html
-* UnitedHealthcare. (2023). UnitedHealthcare: Insurance for Individuals, Families & Employers. [https://www.uhc.com/](https://www.uhc.com/)

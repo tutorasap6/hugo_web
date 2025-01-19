@@ -1,10 +1,10 @@
 ---
-title: NR NR601 WEEK 6 QUIZ
+title: (Free Solution) NR NR601 WEEK 6 QUIZ
 description: NR NR601 WEEK 6 QUIZ
 date: 2024-08-28T21:00:00.000Z
 ---
 
-NR 601 Week 6 Quiz 
+## (Free Solution) **NR 601 Week 6 Quiz**
 
 Question 1
 Which of the following symptoms is the most common subjective complaint of a woman presenting with an uncomplicated urinary tract infection?

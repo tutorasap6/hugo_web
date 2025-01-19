@@ -1,5 +1,5 @@
 ---
-title: New NR 507 Week 1 Case Study Discussions
+title: (Free Answer) New NR 507 Week 1 Case Study Discussions
 description: NR 507 Week 1 Case Study Discussions
 date: 2024-08-26T21:00:00.000Z
 ---

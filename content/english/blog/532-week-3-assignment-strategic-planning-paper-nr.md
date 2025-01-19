@@ -1,5 +1,5 @@
 ---
-title: '532 Week 3 Assignment: Strategic Planning Paper NR'
+title: '(Free Answer) 532 Week 3 Assignment: Strategic Planning Paper NR'
 description: '532 Week 3 Assignment: Strategic Planning Paper NR'
 date: 2024-08-26T21:00:00.000Z
 ---

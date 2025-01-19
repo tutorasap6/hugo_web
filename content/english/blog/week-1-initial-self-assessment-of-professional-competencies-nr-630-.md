@@ -1,10 +1,12 @@
 ---
-title: 'Week 1 Initial Self-Assessment of Professional Competencies NR 630 '
+title: >-
+  (Free Solution) Week 1 Initial Self-Assessment of Professional Competencies NR
+  630 
 description: NR 630 Week 1 Initial Self-Assessment of Professional Competencies
 date: 2024-08-30T21:00:00.000Z
 ---
 
-### NR 630 Week 1 Initial Self-Assessment of Professional Competencies
+### (Free Solution) NR 630 Week 1 Initial Self-Assessment of Professional Competencies
 
 Category:NR 630 Executive Practicum
 

@@ -1,10 +1,10 @@
 ---
-title: NR507 Final exam Study Guide 2
+title: (Free Answer) NR507 Final exam Study Guide 2
 description: NR507 Final exam Study Guide 2
 date: 2024-08-26T21:00:00.000Z
 ---
 
-NR-507 Study Guide
+## (Free Answer) **NR-507 Study Guide**
 
 ### 1. Types of Immunity (Chapters 7 & 8)
 

@@ -6,7 +6,7 @@ date: 2024-09-04T21:00:00.000Z
 
 ***
 
-## **RN Adult Medical Surgical Online Practice 2023 A NGN**
+## **RN Adult Medical Surgical Online Practice 2025 A NGN**
 
 ### **1. The client is experiencing manifestations of peritonitis due to X-ray&#xA;results.**
 

@@ -4,7 +4,7 @@ description: SURGICAL PROCTORED EXAM 2023
 date: 2024-09-04T21:00:00.000Z
 ---
 
-# **(Free Answers) SURGICAL PROCTORED EXAM 2023**
+# **(Free Answers) SURGICAL PROCTORED EXAM 2025**
 
 **A nurse is caring for a client who has cancer and is
 experiencing pain. The nurse should implement which of the following interventions to assist the client with pain relief?**

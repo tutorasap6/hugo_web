@@ -1,6 +1,6 @@
 ---
-title: (Free Solution) RN Adult Medical Surgical Online Practice 2023 A NGN
-description: RN Adult Medical Surgical Online Practice 2023 A NGN
+title: (Free Solution) RN Adult Medical Surgical Online Practice 2025 A NGN
+description: RN Adult Medical Surgical Online Practice 2025 A NGN
 date: 2024-09-04T21:00:00.000Z
 ---
 

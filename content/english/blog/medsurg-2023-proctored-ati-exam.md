@@ -1,10 +1,10 @@
 ---
-title: (Free Solution) MedSurg 2023 proctored ATI exam
-description: MedSurg 2023 proctored ATI exam
+title: (Free Solution) MedSurg 2025 proctored exam
+description: MedSurg 2025 proctored exam
 date: 2024-09-04T21:00:00.000Z
 ---
 
-# MedSurg 2023 proctored ATI
+# MedSurg 2025 proctored Exam
 
 ***
 

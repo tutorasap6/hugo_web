@@ -1,10 +1,10 @@
 ---
-title: (Free Answers) ATI Proctored Exam 2023 medsurg proctored exam
-description: ATI Proctored Exam 2023 medsurg proctored exam
+title: (Free Answers) Proctored Exam 2025 medsurg proctored exam
+description: Proctored Exam 2023 medsurg proctored exam
 date: 2024-09-04T21:00:00.000Z
 ---
 
-# **(Free Answers) ATI Proctored Exam 2023 medsurg proctored exam**
+# **(Free Answers)  2025 medsurg proctored exam**
 
 ### A school nurse is assessing a child who has been stung by a&#xA;bee. The child's hand is swelling and the nurse notes that the child is&#xA;allergic to insect stings. Which of the following findings should the nurse&#xA;expect if the child develops anaphylaxis? (Select all that apply)
 

@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Pay us to Get you As
+  title: Pay us for A's with your Nursing Assignments
   subtitle: >-
     Are you stuck with your online nursing course assignments, exams, or
     projects? Then, you're on the right place! Our reputable Nursing Help's
